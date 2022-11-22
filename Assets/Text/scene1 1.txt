@@ -1,0 +1,171 @@
+#SAY.Flowchart.1.
+“New school, new me. Time for a new adventure”
+
+#SAY.Flowchart.9.
+– Guy Walks in the classroom –
+
+#SAY.Flowchart.10.
+“Ah, chemistry lab, my old fav class”
+
+#SAY.Flowchart.12.
+“Let me see….”
+
+#SAY.Flowchart.13.
+Blackboard: 2H_2 + O_2 => [] H_2O
+
+#SAY.Flowchart.33.
+'I could try solving this...'
+
+#MENU.Flowchart.3
+Write the answer as '1'
+
+#MENU.Flowchart.4
+Write the answer as '2'
+
+#SAY.Flowchart.7.
+“It’s 1! 2H_2 + O_2 => H_2O”
+
+#SAY.Flowchart.8.
+“It’s 2! 2H_2 + O_2 => 2 H_2O”
+
+#SAY.Flowchart.17.
+“Sheeeesh! Easy peasy lemon squeezy.”
+
+#SAY.Flowchart.18.
+“The teacher better be wearing sunglasses, ”
+
+#SAY.Flowchart.19.
+“Cuz he’s got a bright student!”
+
+#SAY.Flowchart.20.
+“...”
+
+#SAY.Flowchart.21.
+“Anyway, how’s nobody here yet, I’ll find a seat first. Now where should I sit...”
+
+#MENU.Flowchart.24
+Sit in the Front
+
+#MENU.Flowchart.25
+Sit in the Middle
+
+#MENU.Flowchart.29
+Sit in the Back
+
+#SAY.Flowchart.30.
+“Sitting all the way in front is only my style.”
+
+#SAY.Flowchart.34.
+– Guy takes a seat all the way in the back – 
+
+#SAY.Flowchart.31.
+“Definitely gonna sit in the center of the classroom~”
+
+#SAY.Flowchart.35.
+– Guy takes a seat all the way in the back – 
+
+#SAY.Flowchart.32.
+C: Too easy a class anyway, I’ll just be myself back there.
+
+#SAY.Flowchart.36.
+– Guy takes a seat all the way in the back – 
+
+#SAY.Flowchart.41.
+1
+
+#SAY.Flowchart.44.
+2
+
+#SAY.Flowchart.43.
+3
+
+#SAY.Flowchart.42.
+4
+
+#SAY.Flowchart.45.
+5
+
+#SAY.Flowchart.46.
+6
+
+#SAY.Flowchart.51.
+Blackboard1
+
+#SAY.Flowchart.53.
+Blackboard2
+
+#MENU.Flowchart.54
+Option: I did
+
+#MENU.Flowchart.56
+Option: I didn't
+
+#SAY.Flowchart.69.
+1
+
+#SAY.Flowchart.70.
+2
+
+#SAY.Flowchart.74.
+3
+
+#SAY.Flowchart.73.
+4
+
+#SAY.Flowchart.72.
+5
+
+#SAY.Flowchart.71.
+6
+
+#SAY.Flowchart.75.
+1
+
+#SAY.Flowchart.80.
+2
+
+#SAY.Flowchart.92.
+3
+
+#SAY.Flowchart.93.
+4
+
+#SAY.Flowchart.87.
+1
+
+#SAY.Flowchart.85.
+2
+
+#SAY.Flowchart.84.
+3
+
+#SAY.Flowchart.83.
+4
+
+#SAY.Flowchart.88.
+1
+
+#SAY.Flowchart.91.
+2
+
+#SAY.Flowchart.90.
+3
+
+#SAY.Flowchart.89.
+4
+
+#SAY.Flowchart.99.
+1
+
+#SAY.Flowchart.101.
+2
+
+#SAY.Flowchart.100.
+3
+
+#SAY._CommandCopyBuffer.99.
+
+
+#CHARACTER.Character Name
+Character Name
+
