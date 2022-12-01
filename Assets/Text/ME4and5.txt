@@ -1,0 +1,621 @@
+#SAY.Flowchart.1.
+{i}After delivering the letter, I rush back to my afternoon class: English. I don't remember the teacher's name, but once again...he's an NPC, so it's not important.{/i}
+
+#SAY.Flowchart.2.
+Guy: “Barely made it!” 
+
+#SAY.Flowchart.3.
+{i}I sit down in the last remaining seat. The teacher walks past me and sets down a piece of paper. It’s an English test.{/i}
+
+#SAY.Flowchart.4.
+Guy: “Man, why is there so much education stuff going on in this game?”
+
+#SAY.Flowchart.5.
+English Teacher: “This...this is school. This is what we do here.”
+
+#SAY.Flowchart.6.
+Guy: “Yeah, sure, ok. Let’s get this over with.”
+
+#SAY.Flowchart.7.
+English Teacher: “Well, your future looks really bright, doesn’t it?”
+
+#SAY.Flowchart.14.
+Guy: “Oh, you think? That’s really nice of you—”
+
+#SAY.Flowchart.13.
+English Teacher: “Sarcasm. That was sarcasm, and you’re about to take a test on literary devices.”
+
+#SAY.Flowchart.12.
+English Teacher: “...Good luck.”
+
+#SAY.Flowchart.11.
+{i}Guy flips over his test paper.{/i}
+
+#SAY.Flowchart.10.
+Guy: “I don’t have time for this school part of the game—I need to skip through this part and get to the actual point of today...ROMANCE.”
+
+#SAY.Flowchart.9.
+English Teacher: “No talking!”
+
+#SAY.Flowchart.8.
+{i}Forgot to do my monologue in my head. Anyway, I need to speedrun this test NOW!{/i}
+
+#MENU.Flowchart.15
+Start test
+
+#SAY.Flowchart.17.
+{b}Question 1: Which kind of irony does the following example use?{/b}{i}EX) The audience knows that Puck used magic on Demetrius, but the characters don’t know this.{/i}
+
+#SAY.Flowchart.18.
+{i}No time to think! I need to write an answer, and honestly? I don't care if it's correct. I HAVE A NEED FOR SPEED!{/i}
+
+#MENU.Flowchart.19
+Dramatic Irony
+
+#MENU.Flowchart.20
+Situational Irony
+
+#MENU.Flowchart.21
+a^2 + b^2 = c^2
+
+#SAY.Flowchart.23.
+{b}Question 2: Which literary device does the following example use?{/b}
+
+#SAY.Flowchart.24.
+{i}EX) Who does Titania fall in love with in Act III?{/i}
+
+#MENU.Flowchart.25
+King Oberon
+
+#MENU.Flowchart.26
+Nick Bottom
+
+#MENU.Flowchart.27
+Me ;)
+
+#SAY.Flowchart.29.
+{b}Question 3: Which literary device does the following example use?{/b}
+
+#SAY.Flowchart.30.
+{i}EX) “I give him curses, yet he gives me love / The more I hate, the more he follows me” (Act I, Scene I, Lines 196-198).{/i}
+
+#MENU.Flowchart.31
+Consonance
+
+#MENU.Flowchart.32
+Chiasmus
+
+#MENU.Flowchart.33
+Charlie<3
+
+#SAY.Flowchart.35.
+{b}Question 4: Which literary device does the following example use?{/b}
+
+#SAY.Flowchart.36.
+{i}EX) “Then by your side no bed room me deny. / For, lying so, Hermia, I do not lie’” (Act II, Scene II, Lines, 40-41).{/i}
+
+#MENU.Flowchart.37
+Metaphor
+
+#MENU.Flowchart.38
+Pun
+
+#MENU.Flowchart.39
+Words
+
+#SAY.Flowchart.41.
+{b}Question 5: Which literary device does the following example use?{/b}
+
+#SAY.Flowchart.42.
+{i}EX) “Hippolyta, I wooed thee with my sword and won thy love doing thee injuries” (Act I, Scene I, Line 16).{/i}
+
+#MENU.Flowchart.43
+Verbal Irony
+
+#MENU.Flowchart.44
+Verbs
+
+#MENU.Flowchart.45
+haha dick joke
+
+#SAY.Flowchart.47.
+{i}I slam my pencil down, race to the teacher’s desk, and turn in my test before anyone else does.{/i}
+
+#SAY.Flowchart.48.
+English Teacher: “Uh, you have 42 minutes left. Did you even read the questions?”
+
+#SAY.Flowchart.49.
+Guy: “42 minutes?! God. Time to skip this part!”
+
+#MENU.Flowchart.50
+Skip
+
+#SAY.Flowchart.52.
+English Teacher: “...”
+
+#SAY.Flowchart.53.
+Guy: “...”
+
+#SAY.Flowchart.54.
+Guy: “Why didn’t it work?”
+
+#SAY.Flowchart.55.
+English Teacher: “Go sit back down and wait.”
+
+#SAY.Flowchart.56.
+Guy: “Real-time events suck.”
+
+#SAY.Flowchart.57.
+English Teacher: “I literally have no idea what that means.”
+
+#MENU.Flowchart.58
+Wait 42 minutes
+
+#MENU.Flowchart.59
+Ask for something else to do
+
+#SAY.Flowchart.62.
+{i}After 42 minutes, the entire class has turned in their tests. It was a really, really long and boring 42 minutes. I just stared blankly at nothing in particular the whole time.{/i}
+
+#SAY.Flowchart.63.
+English Teacher: “Hopefully that wasn’t too difficult for folks. I think at least some of us will pass...and for others, I can only pray.”
+
+#SAY.Flowchart.64.
+{i}He looks my way. It must be sad to only have one student be as efficient as me. Even though grades don’t matter in a game like this, it feels good to give him hope.{/i}
+
+#SAY.Flowchart.65.
+English Teacher: “Let’s begin our class exercise. We’re gonna write a poem using the literary devices we’ve learned so far.”
+
+#SAY.Flowchart.66.
+{i}A poem? That’s perfect! She LOVES those. I could write an excellent one for Charlie and read it out to her when I confess after school...{/i}
+
+#SAY.Flowchart.67.
+Guy: “Is there anything else to do here?”
+
+#SAY.Flowchart.68.
+English Teacher: “...This is a class. You had a test. I don’t think much else is supposed to happen here.”
+
+#SAY.Flowchart.69.
+Guy: “There’s gotta be something you have for me! Side quest! You know?”
+
+#SAY.Flowchart.70.
+English Teacher: “If you’re so eager to get more work done, you can get a head start on our class exercise?”
+
+#SAY.Flowchart.71.
+Guy: “That’s more like it. So, a mini-game?”
+
+#SAY.Flowchart.72.
+English Teacher: “...Sure. Write a poem using the literary devices everyone’s learned so far. Take a crack at that.”
+
+#SAY.Flowchart.73.
+{i}A poem? That’s perfect! She LOVES those. I could write an excellent one for Charlie and read it out to her when I confess after school...{/i}
+
+#SAY.Flowchart.79.
+{i}I take out my journal. I need to start off strong—something to let her know that I see her for who she is...that I get her both literally and emotionally.{/i}
+
+#SAY.Flowchart.80.
+I begin my first stanza with...
+
+#MENU.Flowchart.83
+Our moment in chemistry class <<SET VARIABLE TO A1>>
+
+#MENU.Flowchart.90
+Her special and weirdly specific dietary preferences <<SET VARIABLE TO A2>>
+
+#MENU.Flowchart.91
+Her secret love of poetry <<SET VARIABLE TO A3>>
+
+#SAY.Flowchart.93.
+{i}I feel the words flow. I can already tell this is going to be a banger.{/i}
+
+#SAY.Flowchart.94.
+{i}The second stanza needs to let her know that I appreciate her as a person.{/i}
+
+#SAY.Flowchart.95.
+{i}We had our moment while studying for the literary devices too. Gotta call back to that. The best literary device to use is...{/i}
+
+#MENU.Flowchart.99
+Alliteration<<SET VARIABLE TO B1>>
+
+#MENU.Flowchart.100
+Personification<<SET VARIABLE TO B2>>
+
+#MENU.Flowchart.101
+Imagery<<SET VARIABLE TO B3>>
+
+#SAY.Flowchart.109.
+{i}And for the finale, to finish off my master piece that is worthy of my muse! The literary genius that will earn me a CRAZY amount of Affection Points...!{/i}
+
+#MENU.Flowchart.116
+A line from Midsummer Night’s Dream<<SET VARIABLE TO C1>>
+
+#MENU.Flowchart.117
+A line from Romeo & Juliet<<SET VARIABLE TO C2>>
+
+#MENU.Flowchart.118
+A line from Macbeth<<SET VARIABLE TO C3>>
+
+#SAY.Flowchart.126.
+{i}Done! It’s perfect!{/i}
+
+#SAY.Flowchart.127.
+{i}This poem is going to be the best poem she’s ever received in her life.{/i}
+
+#SAY.Flowchart.128.
+{i}There’s no way I’m gonna fail the confession—I got this good ending in the bag.{/i}
+
+#SAY.Flowchart.129.
+{i}And all I have to do is wait until after school to find her on the rooftop.{/i}
+
+#SAY.Flowchart.130.
+{i}I can’t wait for this cut scene!{/i}
+
+#SAY.Flowchart.131.
+CONTINUE TO AFTER SCHOOL
+
+#SAY.Flowchart.132.
+{i}Finally, the bell rings.{/i}(SFX bell ring)
+
+#SAY.Flowchart.141.
+{i}I sling my bag over my shoulder to look effortlessly nonchalant, even though I’m sure I’ve dropped my pen somewhere along the way.{/i}
+
+#SAY.Flowchart.145.
+{i}After that sacrifice, I make it to the rooftop. My heart is pounding, but I feel confident since I know I’ve nearly maxed out her Affection Points.{/i} (SFX heart pounding)
+
+#SAY.Flowchart.144.
+{i}At the rooftop, I see Charlie standing in front of me.{/i}
+
+#SAY.Flowchart.143.
+Charlie: “Oh my god.”
+
+#SAY.Flowchart.142.
+{I}Ok! This is the moment I've been waiting for. How should I greet her?{/I}
+
+#MENU.Flowchart.146
+Cool
+
+#MENU.Flowchart.147
+Confident
+
+#MENU.Flowchart.148
+Friendly
+
+#SAY.Flowchart.152.
+Guy: “Yeah. It’s me.”
+
+#SAY.Flowchart.157.
+Charlie: “Did you just refer to yourself as...god?”
+
+#SAY.Flowchart.156.
+Guy: “Uh...no, it was just like. Supposed to be uh. Uh. A cool line.”
+
+#SAY.Flowchart.155.
+Charlie: “Yeah...”
+
+#SAY.Flowchart.154.
+Guy: “It sounded way better in my head.”
+
+#SAY.Flowchart.153.
+Charlie: “Usually things do.”
+
+#SAY.Flowchart.158.
+Guy: “Did you miss me?”
+
+#SAY.Flowchart.163.
+Charlie: “I just saw you in English.”
+
+#SAY.Flowchart.162.
+Guy: “Dang, playing hot and cold with me ‘til the very end, huh...”
+
+#SAY.Flowchart.161.
+Charlie: “What...?”
+
+#SAY.Flowchart.160.
+Guy: “Don’t worry. That’s, like, your appeal. Spices things up.”
+
+#SAY.Flowchart.159.
+Charlie: “That is not the compliment you think it is.”
+
+#SAY.Flowchart.164.
+Guy: “Hey there! So, you come here often?”
+
+#SAY.Flowchart.170.
+Charlie: “No. I was told to be here.”
+
+#SAY.Flowchart.169.
+Guy: “Haha, you’re so funny!”
+
+#SAY.Flowchart.168.
+Charlie: “That was literally the unfunniest thing anyone could have ever said.”
+
+#SAY.Flowchart.167.
+Guy: “Ah...haha...ha.”
+
+#SAY.Flowchart.166.
+Guy: “Um. That was just supposed to be a line.”
+
+#SAY.Flowchart.165.
+Charlie: “Maybe workshop that one a little more.”
+
+#SAY.Flowchart.172.
+{i}Charlie sighs.{/i}
+
+#SAY.Flowchart.180.
+Charlie: “I found this letter in my locker.”
+
+#SAY.Flowchart.179.
+{i}She shows me my letter. The sticker has been torn, so clearly she’s read it front to back.{/i}
+
+#SAY.Flowchart.178.
+Charlie: “...and it was, like, inside my journal.”
+
+#SAY.Flowchart.177.
+Guy: “So...? Aren’t you curious as to why I asked you to meet me here?”
+
+#SAY.Flowchart.176.
+Charlie: “I’m trying to make a point here.”
+
+#SAY.Flowchart.175.
+Guy: “It’s ok to feel confused...I’m sure this was probably a big deal and stuff. Dramatic and whatever. You know how it goes...”
+
+#SAY.Flowchart.174.
+Charlie: “No, I—ugh! You’re not getting it!”
+
+#SAY.Flowchart.173.
+Charlie: “I don’t ever take my journal outside of my locker, so I don’t even know how you got it in there in the first place!”
+
+#MENU.Flowchart.184
+Be mysterious
+
+#MENU.Flowchart.185
+Be honest
+
+#MENU.Flowchart.186
+Be helpful
+
+#SAY.Flowchart.188.
+Guy: “Love is so mysterious, you know...it works in such strange ways. Maybe that’s why people spend their whole lives chasing it, wondering if it’s even real...”
+
+#SAY.Flowchart.193.
+Charlie: “You went into my locker, didn’t you.”
+
+#SAY.Flowchart.192.
+Guy: “What does your heart say?”
+
+#SAY.Flowchart.191.
+Charlie: “My heart is telling me that what you did is really REALLY weird.”
+
+#SAY.Flowchart.190.
+Guy: “Such is fate.”
+
+#SAY.Flowchart.189.
+Charlie: “I...you’re impossible.”
+
+#SAY.Flowchart.195.
+Guy: “Your locker was open...so you know.”
+
+#SAY.Flowchart.199.
+Charlie: “What do you mean ‘you know’? I DON’T know!”
+
+#SAY.Flowchart.198.
+Guy: “I just locked it for you.”
+
+#SAY.Flowchart.197.
+Charlie: “After you took my journal and opened it to put the letter inside it.”
+
+#SAY.Flowchart.196.
+Guy: “I only read some of it.”
+
+#SAY.Flowchart.200.
+Charlie: “You...read...it...?”
+
+#SAY.Flowchart.202.
+Guy: “Your locker was left unlocked, so I made sure to close it for you!”
+
+#SAY.Flowchart.206.
+Charlie: “You could have just told that to me.”
+
+#SAY.Flowchart.205.
+Guy: “Well, I wanted to look out for you! Plus, leaving it open like that? Who knows what could have happened?”
+
+#SAY.Flowchart.204.
+Charlie: “Probably something inconvenient. And creepy. And annoying.”
+
+#SAY.Flowchart.203.
+Guy: “Oddly specific, but yeah. There are a lot of weirdos out there, you know?”
+
+#SAY.Flowchart.207.
+Charlie: “CLEARLY.”
+
+#SAY.Flowchart.209.
+Charlie: “Look, I need to get to my club—”
+
+#SAY.Flowchart.213.
+Guy: “Robotics. Yeah. I know this already.”
+
+#SAY.Flowchart.212.
+Charlie: “So you know I can’t be here for that long, right?”
+
+#SAY.Flowchart.211.
+Guy: “Oh. That’s not what I meant—”
+
+#SAY.Flowchart.210.
+Charlie: “What is it that you needed to tell me?”
+
+#SAY.Flowchart.225.
+Guy: “Love’s an experiment—solid, liquid, gas...”
+
+#SAY.Flowchart.227.
+Guy: “But we have more chemistry than Chemistry class.”
+
+#SAY.Flowchart.228.
+Guy: “From the moment we locked eyes at 8:02,”
+
+#SAY.Flowchart.226.
+Guy: “I knew that the best girl in this game was you.”
+
+#SAY.Flowchart.229.
+A21
+
+#SAY.Flowchart.230.
+2
+
+#SAY.Flowchart.231.
+3
+
+#SAY.Flowchart.232.
+4
+
+#SAY.Flowchart.233.
+A31
+
+#SAY.Flowchart.234.
+2
+
+#SAY.Flowchart.235.
+3
+
+#SAY.Flowchart.236.
+4
+
+#SAY.Flowchart.251.
+B11
+
+#SAY.Flowchart.252.
+2
+
+#SAY.Flowchart.253.
+3
+
+#SAY.Flowchart.254.
+4
+
+#SAY.Flowchart.257.
+B31
+
+#SAY.Flowchart.258.
+2
+
+#SAY.Flowchart.259.
+3
+
+#SAY.Flowchart.260.
+4
+
+#SAY.Flowchart.263.
+B21
+
+#SAY.Flowchart.264.
+2
+
+#SAY.Flowchart.265.
+3
+
+#SAY.Flowchart.266.
+4
+
+#SAY.Flowchart.269.
+C31
+
+#SAY.Flowchart.270.
+2
+
+#SAY.Flowchart.275.
+C21
+
+#SAY.Flowchart.276.
+2
+
+#SAY.Flowchart.281.
+C11
+
+#SAY.Flowchart.282.
+2
+
+#SAY.Flowchart.295.
+Guy: “So...that’s it. What did you think?”
+
+#SAY.Flowchart.296.
+{i}Charlie stands in front of me, speechless.{/i}
+
+#SAY.Flowchart.319.
+{i}Nailed it.{/i}
+
+#SAY.Flowchart.318.
+{b}1000+ Affection points earned!{/b}
+
+#SAY.Flowchart.317.
+{b}Good Ending!{/b}
+
+#SAY.Flowchart.316.
+Charlie: “That was...really, really detailed.”
+
+#SAY.Flowchart.315.
+Guy: “Uh-huh.”
+
+#SAY.Flowchart.314.
+Charlie: “Which is kind of strange since today is the first day you’ve said literally anything to me since the year started?”
+
+#SAY.Flowchart.313.
+Guy: “Well, I did research on your—”
+
+#SAY.Flowchart.312.
+Charlie: “Research?!”
+
+#SAY.Flowchart.311.
+Guy: “Yeah, that’s how it usually goes...learn the schedule, likes, dislikes, inner most traumatic secrets and possibly tragic backstory, favorite thing to eat...the usual.”
+
+#SAY.Flowchart.310.
+Guy: “Say the right thing. Give the right stuff. Boom! Good ending.”
+
+#SAY.Flowchart.309.
+Charlie: “Good...ending?”
+
+#SAY.Flowchart.308.
+Guy: “That’s how you play.”
+
+#SAY.Flowchart.307.
+Charlie: “What kind of ‘good ending’ exists in this situation? You can’t just treat me or the people around like, like some sort of thing to win at the end!”
+
+#SAY.Flowchart.306.
+Guy: “You can cut out the ‘I’m the cold character and super mean to you because I like you’ stuff because I maxed out your Affection Points—”
+
+#SAY.Flowchart.305.
+Charlie: “What are you even TALKING about—”
+
+#SAY.Flowchart.304.
+Guy: “I did everything right, so I don’t really understand why you’re treating me this way? Haha...”
+
+#SAY.Flowchart.303.
+Charlie: “I don’t owe you ANYTHING! You did all of this creepy stuff by yourself!”
+
+#SAY.Flowchart.302.
+Guy: “Dang, did I trigger the Bad Ending?”
+
+#SAY.Flowchart.301.
+Charlie: “Are you even LISTENING to me?”
+
+#SAY.Flowchart.300.
+Guy: “Maybe I should’ve written the poem differently...”
+
+#SAY.Flowchart.299.
+Charlie: “HEY.”
+
+#SAY.Flowchart.298.
+Guy: “Yeah?”
+
+#SAY.Flowchart.297.
+Charlie: “You’re starting to really piss me off, dude. I’m trying to tell you that you are BOTHERING ME and need to STOP.”
+
+#SAY.Flowchart.321.
+Guy: “I...I don’t get it. Why are you angry? You’re supposed to fall in love with me!”
+
+#SAY.Flowchart.320.
+Charlie: “You don’t get it? Well then LET ME SPELL IT OUT FOR YOU.”
+
+#CHARACTER.Charlie
+Charlie
+
+#CHARACTER.Guy
+Guy
+
