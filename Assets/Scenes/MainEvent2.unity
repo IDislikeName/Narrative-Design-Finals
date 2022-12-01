@@ -659,6 +659,10 @@ GameObject:
   - component: {fileID: 652266119}
   - component: {fileID: 652266317}
   - component: {fileID: 652266318}
+  - component: {fileID: 652266322}
+  - component: {fileID: 652266321}
+  - component: {fileID: 652266320}
+  - component: {fileID: 652266319}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -697,7 +701,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 66
     y: 72.21951
-    width: 101.764725
+    width: 104.16179
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -725,11 +729,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -89.33297, y: 145.55205}
+  scrollPos: {x: -274.94635, y: -173.82559}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 403.66666
-  zoom: 0.84999967
+  zoom: 0.6277488
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -737,8 +741,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 652266113}
-  selectedCommands: []
+  - {fileID: 652266299}
+  selectedCommands:
+  - {fileID: 652266288}
   variables:
   - {fileID: 652266316}
   - {fileID: 652266241}
@@ -870,7 +875,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 722.65845
     y: 292.2195
-    width: 102.54904
+    width: 104.16179
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -898,7 +903,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 543.29346
     y: 308.5122
-    width: 93.13727
+    width: 94.60383
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1033,7 +1038,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 576
     y: 228
-    width: 148.03925
+    width: 151.9516
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1116,7 +1121,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 575
     y: 148
-    width: 113.529434
+    width: 115.84375
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1311,7 +1316,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 489.97562
     y: 67.365845
-    width: 118.23532
+    width: 122.21572
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1674,7 +1679,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 653.7031
     y: 1542.7954
-    width: 103.33336
+    width: 104.16179
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3497,7 +3502,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 935.0109
     y: 1399.5549
-    width: 78.235306
+    width: 79.735886
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3532,7 +3537,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 714.34607
     y: 1418.2991
-    width: 148.82358
+    width: 153.01361
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3567,7 +3572,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 522.7159
     y: 1402.596
-    width: 135.49023
+    width: 138.14566
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3602,7 +3607,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 357.65997
     y: 1409.3914
-    width: 128.4314
+    width: 131.77368
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3943,7 +3948,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 610.653
     y: 1282.6641
-    width: 148.82358
+    width: 153.01361
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5009,7 +5014,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 644.90643
     y: 1216.8947
-    width: 93.921585
+    width: 95.665825
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5124,7 +5129,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 807.6434
     y: 1186.485
-    width: 107.25493
+    width: 110.53377
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5210,7 +5215,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 486.04367
     y: 1198.7167
-    width: 86.86276
+    width: 89.29385
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5345,7 +5350,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 656.86456
     y: 1121.7418
-    width: 108.03924
+    width: 110.53377
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5978,7 +5983,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 849.3485
     y: 1001.7017
-    width: 106.47061
+    width: 109.47177
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6065,7 +6070,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 669.79456
     y: 1036.674
-    width: 93.13727
+    width: 94.60383
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6150,7 +6155,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 527.7024
     y: 1003.0044
-    width: 86.078445
+    width: 88.23186
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6285,7 +6290,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 676.452
     y: 955.04333
-    width: 107.25493
+    width: 109.47177
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6510,7 +6515,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 843.99164
     y: 851.8306
-    width: 105.686295
+    width: 108.409775
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6541,7 +6546,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 699.4362
     y: 843.6049
-    width: 92.35296
+    width: 93.54183
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6571,7 +6576,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 551.8449
     y: 825.6265
-    width: 85.29413
+    width: 87.16986
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6767,7 +6772,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 694.95856
     y: 768.6794
-    width: 106.47061
+    width: 108.409775
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7529,7 +7534,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 866.0414
     y: 657.36884
-    width: 82.156876
+    width: 83.98387
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7565,7 +7570,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 711.9241
     y: 651.48663
-    width: 71.96079
+    width: 73.36391
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7599,7 +7604,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 562.5118
     y: 662.0747
-    width: 89.2157
+    width: 91.41784
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7941,7 +7946,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 723.6886
     y: 575.01624
-    width: 88.43139
+    width: 90.35585
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8102,8 +8107,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 59
   indentLevel: 0
-  storyText: "Charlie: \u201CThanks...but I already got my sandwich.\u201D(CHARLIE
-    NEUTRAL)"
+  storyText: "Charlie: \u201COoh...but I already got my sandwich.\u201D(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8213,7 +8217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 55
   indentLevel: 0
-  storyText: "Charlie: \u201CThanks...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
+  storyText: "Charlie: \u201CEmm...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8294,7 +8298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 52
   indentLevel: 0
-  storyText: "Charlie: \u201CThanks...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
+  storyText: "Charlie: \u201CUhh...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8386,7 +8390,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 862.51184
     y: 487.95758
-    width: 80.58825
+    width: 82.921875
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8417,7 +8421,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 713.1001
     y: 484.4282
-    width: 79.01962
+    width: 80.79788
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8448,7 +8452,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 467.21777
     y: 496.19324
-    width: 146.47063
+    width: 148.76562
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9221,7 +9225,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 621.527
     y: 387.38034
-    width: 135.49023
+    width: 138.14566
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9230,7 +9234,11 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266322}
   - {fileID: 652266318}
+  - {fileID: 652266321}
+  - {fileID: 652266320}
+  - {fileID: 652266319}
   - {fileID: 652266305}
   - {fileID: 652266298}
   - {fileID: 652266304}
@@ -9774,7 +9782,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 325.37234
     y: 200.83801
-    width: 114.31375
+    width: 116.90574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9802,7 +9810,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 277.81134
     y: 104.49652
-    width: 113.529434
+    width: 115.84375
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9830,7 +9838,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 320.4943
     y: 32.545326
-    width: 112.74512
+    width: 114.78175
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9878,7 +9886,7 @@ MonoBehaviour:
   sceneNameOLD: 
 --- !u!114 &652266318
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9890,7 +9898,121 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 239
   indentLevel: 0
-  storyText: was missing
+  storyText: 'Charlie: "Uh, no thanks. That kind of makes me uncomfortable."'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &652266319
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 243
+  indentLevel: 0
+  storyText: "{i}Weird. Gifts like these are always accepted! Whatever\u2014I need
+    the affection points. I'll just make her take it.{/i}\n"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &652266320
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 242
+  indentLevel: 0
+  storyText: 'Charlie: "Somehow, I get the feeling that''s not the case. Even if
+    it were, I don''t want it. That''s that."
+
+'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &652266321
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 241
+  indentLevel: 0
+  storyText: 'Guy: "You don''t owe me anything or need to pay me back. Just think
+    of it as me looking out for your health."'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &652266322
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 240
+  indentLevel: 0
+  storyText: 'Guy: "I got you something for lunch! You don''t have to pay me back!
+    Just take it."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
