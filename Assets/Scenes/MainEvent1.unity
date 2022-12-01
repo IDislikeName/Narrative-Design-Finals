@@ -470,7 +470,6 @@ GameObject:
   - component: {fileID: 411762685}
   - component: {fileID: 411762684}
   - component: {fileID: 411762682}
-  - component: {fileID: 411762704}
   - component: {fileID: 411762703}
   - component: {fileID: 411762702}
   - component: {fileID: 411762701}
@@ -492,6 +491,7 @@ GameObject:
   - component: {fileID: 411762707}
   - component: {fileID: 411762706}
   - component: {fileID: 411762705}
+  - component: {fileID: 411762708}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -551,7 +551,7 @@ MonoBehaviour:
   itemId: 0
   blockName: Prologue
   description: 
-  eventHandler: {fileID: 411762704}
+  eventHandler: {fileID: 411762708}
   commandList:
   - {fileID: 411762679}
   - {fileID: 411762429}
@@ -588,9 +588,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 411762578}
+  - {fileID: 411762442}
   selectedCommands:
-  - {fileID: 411762575}
+  - {fileID: 411762435}
   variables:
   - {fileID: 411762491}
   - {fileID: 411762538}
@@ -10028,24 +10028,9 @@ MonoBehaviour:
   move: 0
   shiftIntoPlace: 0
   waitUntilFinished: 0
---- !u!114 &411762704
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 411762423}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  parentBlock: {fileID: 411762431}
-  suppressBlockAutoSelect: 0
-  waitForFrames: 1
 --- !u!114 &411762705
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10072,7 +10057,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &411762706
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10100,7 +10085,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &411762707
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10128,6 +10113,21 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &411762708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411762423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 411762431}
+  suppressBlockAutoSelect: 0
+  waitForFrames: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -10284,7 +10284,7 @@ Transform:
   m_GameObject: {fileID: 721897672}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.95, y: 0.95, z: 1}
+  m_LocalScale: {x: 1.9, y: 1.9, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 128410118}
@@ -10331,7 +10331,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 6dc5573ac308680458450b1b70e212dc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 48e5a4ec7b733c04e96190c422a25130, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
