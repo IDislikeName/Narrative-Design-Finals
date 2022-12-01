@@ -1,0 +1,405 @@
+#SAY.Flowchart.1.
+{i}After some other morning classes that are super irrelevant to the game because Charlie isn’t in them, I rush to the cafeteria.{/i}
+
+#SAY.Flowchart.2.
+Guy: “Lunch—the perfect time to get something for Charlie and raise affection points! Now which sandwich should I get for her...”(SFX GUY Hmm)
+
+#MENU.Flowchart.3
+Ham & Cheese
+
+#MENU.Flowchart.5
+Tuna
+
+#MENU.Flowchart.7
+Sunbutter & Jelly
+
+#SAY.Flowchart.10.
+Guy: “She’s gonna LOVE this!”(SFX GUY Haha!)
+
+#SAY.Flowchart.11.
+{i}I wait in the middle of the cafeteria with the sandwich looking for Charlie, but she doesn't seem to be here yet.{/i}
+
+#SAY.Flowchart.12.
+{i}I go to the north entrance of the cafeteria and wait for a solid ten minutes. I don't mind the stares—the NPCs aren't important to me—but then I see a familiar face all the way in the back.{/I}(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.13.
+Guy: “Oh, there she is. I’m pretty sure if she had calculus before lunch, she should’ve entered from here where I was waiting, but...oh well!”
+
+#SAY.Flowchart.14.
+{i}I make eye contact with Charlie. She looks back at me, then quickly averts her eyes. She must've felt shy, so maybe I should make the first move...{/i}(CHARLIE UNCOMFY)
+
+#MENU.Flowchart.15
+Walk to her
+
+#SAY.Flowchart.17.
+{i}Charlie stands up and distances herself from me.{/i}(CHARLIE UNCOMFY, SFX Foosteps normal)
+
+#MENU.Flowchart.18
+Walk to her again
+
+#SAY.Flowchart.20.
+{i}I approach her again, but she walks somewhere else.{/i}(CHARLIE UNCOMFY, SFX Foosteps normal)
+
+#SAY.Flowchart.21.
+Guy: “Weird. Maybe she doesn't see me walking towards her. I should make an extra effort to notice me.”
+
+#MENU.Flowchart.22
+Call out to her
+
+#MENU.Flowchart.23
+Walk to her again REALLY FAST
+
+#SAY.Flowchart.26.
+Guy: “CHAAAAARLIEEEEEEEE!”(CHARLIE UNCOMFY)
+
+#SAY.Flowchart.27.
+{i}Charlie must’ve been so surprised that I remembered her name that she stood their in shock, which allowed me to take a seat at the same table. She sighed and took the seat across from me.{/i}
+
+#SAY.Flowchart.28.
+{i}We went around in circles for a couple of times. Was this hard mode or something? Anyway, Charlie eventually gave up and sat down, which allowed me to take a seat at the same table.{/i}(CHARLIE UNCOMFY, SFX Foosteps FAST)
+
+#SAY.Flowchart.52.
+Charlie: “Thanks...but I’m a vegetarian.”(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.53.
+Guy: “WHAT?! I...I see. I will remember this.”
+
+#SAY.Flowchart.54.
+Charlie: “Um. Ok.”(CHARLIE CONFUSED)
+
+#SAY.Flowchart.55.
+Charlie: “Thanks...but I’m a vegetarian.”(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.56.
+Guy: “But you...on your notes! There were fish on it!”
+
+#SAY.Flowchart.57.
+Charlie: “Uh, that doesn’t mean I want to EAT THEM. Also, I threw those notes away...did you look through the trash for them?"(CHARLIE CONFUSED)
+
+#SAY.Flowchart.58.
+Guy: “...”
+
+#SAY.Flowchart.59.
+Charlie: “Thanks...but I already got my sandwich.”(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.60.
+Guy: “WHAT?! But I didn't see you near the sandwiches here! And I even made sure to get the sunbutter. I don't even know what that IS but it's distinct and quirky like you...”
+
+#SAY.Flowchart.61.
+Charlie: “Um. Ok. First, I went to the school cafe. The sandwiches there are better than the ones here. Second, sunbutter is a peanut butter alternative using sunflower seeds.”
+
+#SAY.Flowchart.62.
+Charlie: "And third, please don't call me 'distinct and quirky'. I promise you, it's not as flattering as you think it is.”(CHARLIE ANGRY)
+
+#SAY.Flowchart.67.
+Guy: “Oh...I didn’t even know we had a cafe. I guess this sandwich for me I guess?”
+
+#SAY.Flowchart.70.
+Charlie: “...Sure.”(CHARLIE UNCOMFY)
+
+#SAY.Flowchart.71.
+{i}Charlie pulls out a set of flash cards and begins eating her sandwich. Looks like material from English class—another class we share together.{/i}(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.72.
+{i}She’s studying? Usually games like this don’t actually show this side of school. Guess this is one of those “realistic” games, heh. This is the perfect time to impress her!{/i}
+
+#SAY.Flowchart.73.
+Guy: “Let me help you out! We have that test soon right? It’ll be good for both of us.”
+
+#SAY.Flowchart.74.
+Charlie: “I don’t know. I kind of prefer to study alone.”
+
+#MENU.Flowchart.75
+Persuade her to do it together for maximum efficiency
+
+#MENU.Flowchart.76
+Beg for help
+
+#MENU.Flowchart.77
+“Begin Event”
+
+#SAY.Flowchart.81.
+Guy: “If you want to go fast, go alone. If you want to go far, go together...”
+
+#SAY.Flowchart.82.
+Charlie: “That was really cheesy.”
+
+#SAY.Flowchart.83.
+Guy: “I know you’re the lone wolf type and all, but always being by yourself is—”
+
+#SAY.Flowchart.84.
+Charlie: “It’s a choice.”
+
+#SAY.Flowchart.85.
+Guy: “I’m just saying...don’t be afraid to let others in.”
+
+#SAY.Flowchart.86.
+Charlie: “That was patronizing. And also, who says I’m afraid of anything?"(CHARLIE ANGRY)
+
+#SAY.Flowchart.87.
+Guy: “Uh...”
+
+#SAY.Flowchart.88.
+Charlie: “Fine, I’ll let you study with me...but only because I highly doubt you remember anything for this unit anyway.”(CHARLIE NEUTRAL, SFX GIRL sigh)
+
+#SAY.Flowchart.89.
+{i}Wow, underneath that cold exterior is a heart of gold...success!{/i}
+
+#SAY.Flowchart.90.
+Guy: “Please help me. You’re the smartest girl in the grade and I totally forgot to study whatever is on those flashcards!”
+
+#SAY.Flowchart.91.
+Charlie: “Somehow I believe you and don’t at the same time.”(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.92.
+Guy: “I mean...if you don’t let me, that’s cool...I’ll just sit here and absorb the knowledge I guess.”
+
+#SAY.Flowchart.93.
+Charlie: “That would be way more distracting.”(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.94.
+{i}Charlie rolls her eyes puts down her sandwich.{/i}
+
+#SAY.Flowchart.95.
+Charlie: “Fine, I’ll let you study with me...”(SFX GIRL sigh)
+
+#SAY.Flowchart.96.
+{i}Wow, underneath that cold exterior is a heart of gold...success!{/i}
+
+#SAY.Flowchart.97.
+Charlie: “...”(CHARLIE CONFUSED, SFX GIRL uh...)
+
+#SAY.Flowchart.98.
+Guy: “...”
+
+#SAY.Flowchart.99.
+Charlie: “Did you just say ‘Begin Event’ out loud—”
+
+#SAY.Flowchart.100.
+Guy: “Uhhhhh my brain is like. SO broken.”
+
+#SAY.Flowchart.101.
+Charlie: “Uh-huh.”
+
+#SAY.Flowchart.102.
+{i}She’s so cold...so in character!{/i}
+
+#SAY.Flowchart.103.
+Guy: “Do you think we could study together? Please?”
+
+#SAY.Flowchart.104.
+Charlie: “Fine, I’ll let you study with me...but only because I highly doubt you remember anything for this unit anyway.”(CHARLIE NEUTRAL, SFX GIRL sigh)
+
+#SAY.Flowchart.105.
+{i}Wow, underneath that cold exterior is a heart of gold...success!{/i}
+
+#SAY.Flowchart.107.
+Charlie: “Which character states that the 'course of true love never did run smooth', and to whom?"(CHARLIE NEUTRAL)
+
+#MENU.Flowchart.111
+Lysander to Hermia (RIGHT 1)
+
+#MENU.Flowchart.112
+Hamlet to Ophelia (WRONG 1)
+
+#MENU.Flowchart.113
+Compliment that sick use of WHOM (PERSONAL 1)
+
+#SAY.Flowchart.117.
+Charlie: "Correct. Looks like you actually know what we've been reading in class..." (RIGHT 1 -> RIGHT++)
+
+#SAY.Flowchart.118.
+{i}Nice! She must be so impressed.{/I}(SFX Guy Haha!)
+
+#SAY.Flowchart.119.
+Charlie: “Wrong. That's not even the right play!” (WRONG 1 -> WRONG++)
+
+#SAY.Flowchart.120.
+{i}Shoot! I’ll get the next one...{/I}(SFX Guy Oh...)
+
+#SAY.Flowchart.121.
+Guy: "Wow, using whom in an actual sentence? That's so cool of you...say, you into grammar stuff? Cause I am too haha unless you aren't. Then I'm not." (PERSONAL 1 -> PERSONAL++)
+
+#SAY.Flowchart.122.
+Charlie: "Uh...no...? What does that even supposed to mean?" (CHARLIE CONFUSED)
+
+#SAY.Flowchart.123.
+Charlie: "Don't answer that. Let's stick to studying, please."(CHARLIE UNCOMFY)
+
+#SAY.Flowchart.126.
+Charlie: "What literary device is used in the following line? {i}'The story shall be changed: / Apollo flies and Daphne holds the chase; / The dove pursues the griffin; the mild hind / Makes speed to catch the tiger'{/i}?"(CHARLIE NEUTRAL)
+
+#MENU.Flowchart.127
+Simile (WRONG 2)
+
+#MENU.Flowchart.128
+Allusion (RIGHT 2)
+
+#MENU.Flowchart.129
+Ask what Charlie's favorite literary device is (PERSONAL 2)
+
+#SAY.Flowchart.131.
+Charlie: “Incorrect. It's an allusion to greek mythology.” (WRONG++)
+
+#SAY.Flowchart.132.
+{i}Damn! That was a hard one...{/i}(SFX Guy Oh...)
+
+#SAY.Flowchart.138.
+Charlie: “Right. I guess it wasn't that hard though...Apollo and Daphne kind of give it away.” (RIGHT++)
+
+#SAY.Flowchart.139.
+{i}Awesome! She’s definitely astonished with my breadth of knowledge.{/i}(SFX Guy Haha!)
+
+#SAY.Flowchart.141.
+Guy: "I want to know what YOUR favorite literary device is though." (PERSONAL++)
+
+#SAY.Flowchart.142.
+Charlie: "Uh...I guess personification, alliteration, and imagery. But this has nothing to do with the question!"(CHARLIE CONFUSED)
+
+#SAY.Flowchart.143.
+Charlie: "Next time, just say you don't know the answer."(CHARLIE NEUTRAL) 
+
+#SAY.Flowchart.152.
+Charlie: "Last question...what literary device is used in the following line? {i}'The moon, methinks, looks with a wat'ry eye, / And when she weeps, weeps every little flower, / Lamenting some enforced chastity'{/i}?"(CHARLIE NEUTRAL)
+
+#MENU.Flowchart.153
+Personification (RIGHT 3)
+
+#MENU.Flowchart.154
+Metaphor (WRONG 3)
+
+#MENU.Flowchart.155
+Talk about how relatable the moon is (PERSONAL 3)
+
+#SAY.Flowchart.157.
+Charlie: “You got it.” (RIGHT++)
+
+#SAY.Flowchart.158.
+{i}Uh, yeah I got it! Getting her good ending is gonna be so easy.{/i}(SFX Guy Haha!)
+
+#SAY.Flowchart.160.
+Guy: "So relatable and deep. I feel like not everybody gets that pain, you know? I mean, sometimes water just comes out of my eye too when I think about how alone I am." (PERSONAL++)
+
+#SAY.Flowchart.161.
+Guy: "Oh. But not like, lonely alone. I'm not lonely. Just alone. Haha! Unless..."
+
+#SAY.Flowchart.162.
+Charlie: "Um. I really didn't ask...and that's definitely not related to the test."(CHARLIE CONFUSED)
+
+#SAY.Flowchart.164.
+Charlie: “Nope. It's personification—the moon is being written as a person, doing human actions it wouldn't actually be able to do in reality.” (WRONG++)
+
+#SAY.Flowchart.165.
+{i}Man...that was a hard one. Also, why am I actually learning stuff in a game anyway? Weird.{/I}(SFX Guy Oh...
+
+#SAY.Flowchart.191.
+(IF MAJORITY RIGHT)Charlie: "Hmm. Good job, I guess. Looks like you might actually pass this test."(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.193.
+Guy: "Yeah. Hope you learned a lot from that just now...sometimes it helps to follow a good example, you know?"
+
+#SAY.Flowchart.192.
+Charlie: "Uh, yeah. Ok. Gonna ignore you said that."(CHARLIE UNCOMFY, SFX Girl Uh...)
+
+#SAY.Flowchart.194.
+{i}Charlie packs her things and gets up.{/i}
+
+#SAY.Flowchart.195.
+Charlie: “I’m done here. Good luck.”(CHARLIE NEUTRAL)
+
+#SAY.Flowchart.196.
+{i}She leaves the table.{/i}
+
+#SAY.Flowchart.197.
+{i}She must’ve been so impressed because I did so well. I hope I didn't fluster her too much...she left so fast. Probably overwhelmed with seeing how good I am at this. Can't say I relate to her position though.{/i}
+
+#SAY.Flowchart.198.
+{b}You impressed Charlie and earned +3 Affection Points!{/b}(SFX earn affection points)
+
+#SAY.Flowchart.199.
+(IF MAJORITY WRONG)Charlie: “You might wanna study a bit more before class.”(CHARLIE CONFUSED)
+
+#SAY.Flowchart.200.
+Guy: “Hope you learned a lot from me. Sometimes you have to learn from the mistakes of others, right? Life's a hard path to walk alone after all...”
+
+#SAY.Flowchart.201.
+Charlie: “Uh, this is just a test on literary devices and Shakespeare's {i}A Midsummer Night's Dream{/i}. I think I'd survive life regardless.”(CHARLIE UNCOMFY, SFX Girl Uh...)
+
+#SAY.Flowchart.202.
+{i}Charlie packs her things and gets up.{/i}
+
+#SAY.Flowchart.203.
+Charlie: “I’m done here. Good luck.”(CHARLIE UNCOMFY)
+
+#SAY.Flowchart.204.
+{i}She leaves the table.{/i}
+
+#SAY.Flowchart.205.
+{i}Wow...Charlie left so fast. Maybe she was overwhelmed by how deep I was just now. She even learned so much from my mistakes too. She’s probably really thankful but shy to admit it.{/i} 
+
+#SAY.Flowchart.206.
+{b}You helped Charlie and earned +3 Affection Points!{/b}(SFX earn affection points)
+
+#SAY.Flowchart.207.
+(IF MAJORITY PERSONAL)Charlie: “I can't believe I let you study with me—you went off topic so much! Were you even TRYING?”(CHARLIE ANGRY, SFX Girl Ugh!)
+
+#SAY.Flowchart.208.
+Guy: “Yeah, I was trying.”
+
+#SAY.Flowchart.209.
+Guy: "Trying to GET TO KNOW YOU! (SFX Guy Haha!)
+
+#SAY.Flowchart.210.
+Charlie: “God, this was pointless. Last time I ever try to help anyone...”(CHARLIE ANGRY)
+
+#SAY.Flowchart.211.
+{i}Charlie packs her things, gets up, and leaves the table.{/I}
+
+#SAY.Flowchart.212.
+{i}Wow...she must’ve felt shy from all of the attention I gave her. Maybe she isn’t used to it and that’s why she left so fast. I can’t imagine how flattering that must be.{/i}
+
+#SAY.Flowchart.213.
+{i}And that line about never helping people...? I definitely feel like I'm about to unlock some really traumatic stuff. If I keep doing this, I'm sure to unlock even more. Her tragic backstory is gonna be SO good.{/i}
+
+#SAY.Flowchart.214.
+{b}You broke down one of Charlie's walls and earned +3 Affection Points!{/b}(SFX earn affection points)
+
+#SAY.Flowchart.215.
+(IF ANSWERS WERE EVENLY SPLIT)Charlie: “What even was that? You were all over the place.”(CHARLIE CONFUSED)
+
+#SAY.Flowchart.216.
+Guy: “But...it was pretty helpful, right?”
+
+#SAY.Flowchart.217.
+Charlie: “Well, there goes my lunch period...”(CHARLIE NEUTRAL, SFX Girl sigh)
+
+#SAY.Flowchart.218.
+{i}Charlie packs her things and gets up.{/i}
+
+#SAY.Flowchart.219.
+Charlie: “I’m done here. Good luck.”
+
+#SAY.Flowchart.220.
+{i}She leaves the table.{/i}
+
+#SAY.Flowchart.221.
+{i}Wow...she must’ve felt shy from all of the attention I gave her. Maybe she isn’t used to it and that’s why she left. I can’t imagine how flattering that must be.{/i}
+
+#SAY.Flowchart.222.
+{b}You helped Charlie and earned +3 Affection Points!{/b}(SFX earn affection points)
+
+#SAY.Flowchart.224.
+Guy: “A little learning, a little romancing...all in a lunch period’s work. But I need to guarantee Charlie's good ending. Not to mention, I need to trigger the final event for my confession to even happen.”
+
+#SAY.Flowchart.225.
+Guy: “I know! I'll write her an anonymous letter to meet me on the rooftop after school ends today...romantic {i}and{/i} a slice-of-life genre classic. To max out Charlie’s affection points, I should also get her a gift since the sandwich part of this event was a bust.” (SFX Guy Haha!)
+
+#SAY.Flowchart.226.
+Guy: “It’s gonna be club period soon, but I’m not part of any clubs. I can use this time to deliver the letter and learn more about her to prepare the perfect gift!”
+
+#SAY.Flowchart.227.
+CONTINUE TO LOCKER HALL
+
+#CHARACTER.Character Name
+Character Name
+

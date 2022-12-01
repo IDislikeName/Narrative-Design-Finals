@@ -1,0 +1,201 @@
+#SAY.Flowchart.1.
+"Ahhhh that was a good lunch."
+
+#SAY.Flowchart.2.
+"Where did Charlie go? Haven’t see her around anywhere."
+
+#SAY.Flowchart.3.
+"Emmm, wait! Weren’t they talking about her locker in the morning?"
+
+#SAY.Flowchart.4.
+"I'm gonna find that locker!"
+
+#MENU.Flowchart.5
+Go to Locker Area 100-299
+
+#MENU.Flowchart.6
+Go to Locker Area 200-299
+
+#MENU.Flowchart.7
+Go to Locker Area 300-399
+
+#SAY.Flowchart.19.
+"Locker 134... locker 135... 136... 137........."
+
+#SAY.Flowchart.20.
+"Aha! Here it is! Locker 138!"
+
+#SAY.Flowchart.21.
+"Now we only need to password!"
+
+#SAY.Flowchart.22.
+"Let me think emmm...."
+
+#SAY.Flowchart.23.
+"Oh wait, it's not locked!"
+
+#SAY.Flowchart.24.
+Aha!
+
+#MENU.Flowchart.25
+Open Locker
+
+#SAY.Flowchart.11.
+"Locker 208... locker 209... 210... 211........."
+
+#SAY.Flowchart.12.
+"298...299..."
+
+#SAY.Flowchart.13.
+"Hummmm I don’t see it around here, I thought I heard about where it is earlier!"
+
+#SAY.Flowchart.15.
+"Locker 304... locker 305... 206... 207........."
+
+#SAY.Flowchart.16.
+"398...399..."
+
+#SAY.Flowchart.17.
+"Emmmm it’s not anywhere around, didn’t I hear abou it this morning?"
+
+#SAY.Flowchart.27.
+"Let’s see what’s in here..."
+
+#MENU.Flowchart.28
+A Journal
+
+#MENU.Flowchart.29
+A Robot Motor
+
+#MENU.Flowchart.30
+A Poster
+
+#MENU.Flowchart.31
+A Photo
+
+#MENU.Flowchart.63
+Put letter
+
+#SAY.Flowchart.36.
+"Aha, is it her journal?"
+
+#SAY.Flowchart.37.
+"Let me take a peek!"
+
+#SAY.Flowchart.38.
+*Date: 1/23         Weather: Rain            ----Drenched in rain...  thoughts restrained; why shall we insist if winter refrains...* 
+
+#SAY.Flowchart.41.
+*Ugh... I wish I can write better poems than this! All these are so cheesey and boring...*
+
+#SAY.Flowchart.42.
+*What a beauty it could be, the art of poetry, such romanticism sketched from plain and simple words.*
+
+#SAY.Flowchart.39.
+*Closes the journal*
+
+#SAY.Flowchart.40.
+"Ahhh, so Charlie likes poetry...."
+
+#SAY.Flowchart.43.
+{i}Just like me! What a perfect match!{/i}
+
+#SAY.Flowchart.44.
+{i}I had my fair share of english classes in middle school right? I totally had her.{/i}
+
+#SAY.Flowchart.45.
+"Oh a motor! What is this for?"
+
+#SAY.Flowchart.46.
+*Fiddles the motor around*
+
+#SAY.Flowchart.47.
+"Oh right! She’s in the robotics club right? This is so interesting."
+
+#SAY.Flowchart.48.
+*Twists the motor around, and ... CRACK ... the bearing and shaft breaks and fall off with the wheel. *
+
+#SAY.Flowchart.49.
+"SHIT! Did i just break it?"
+
+#SAY.Flowchart.50.
+"Hmmmm, she will understand! She will exucuse a fellow robotic manic like me!!"
+
+#SAY.Flowchart.51.
+"Oh wow, this is such an vintage poster!"
+
+#SAY.Flowchart.52.
+"Is it shakespeare?"
+
+#SAY.Flowchart.53.
+"Shall I compare thee to a summer’s day? Thou art more lovely and more temperate;"
+
+#SAY.Flowchart.55.
+"Rough winds do shake the darling buds of May, and summer's lease hath all too short a date;"
+
+#SAY.Flowchart.54.
+"Ahh a love sonnet. Is there anyway she secretly admiring?"
+
+#SAY.Flowchart.56.
+"What a nice collage of Polaroids! "
+
+#SAY.Flowchart.57.
+"Is that her robotics team? East Coast New Jersey District 9 Rising Star Division Champion! "
+
+#SAY.Flowchart.58.
+"Wow, I never knew she was such a scholastic person! A woman in STEM..."
+
+#SAY.Flowchart.59.
+"Let’s see what else’s here..."
+
+#SAY.Flowchart.60.
+"Is that the chem lab class picture? Look at all these irrelavent people, and then there’s her!"
+
+#SAY.Flowchart.61.
+"She just always stand out."
+
+#SAY.Flowchart.62.
+{b}Man, what a dead and boring class it was! Until I am here!{/b}
+
+#SAY.Flowchart.65.
+"Look at all her cute little hobbies! Such a nice girl."
+
+#SAY.Flowchart.66.
+"Let me quickly leave my letter here before anyone sees it!"
+
+#SAY.Flowchart.67.
+"Wait, let me stick it in her journal! So that she will definetly not miss it! And when she sees it, it’ll bu such a cute surprise!"
+
+#MENU.Flowchart.68
+Tuck the letter in her 1/23 journal entry about poems
+
+#MENU.Flowchart.69
+Tuck the letter in her journal pocket
+
+#MENU.Flowchart.70
+Tuck the letter in her latest journal entry
+
+#SAY.Flowchart.72.
+"Let me just quietly leave this here..."
+
+#SAY.Flowchart.73.
+"Great job Guy! Now it’s just wait til see the magic happens!"
+
+#SAY.Flowchart.74.
+"Holdon, let me even lock the locker for her!"
+
+#MENU.Flowchart.75
+Locks Charlie’s locker
+
+#SAY.Flowchart.77.
+Oops, girl, can’t be so careless all the time! Nobody except me will protect you when I’m gone!
+
+#SAY._CommandCopyBuffer.38.
+3
+
+#SAY._CommandCopyBuffer.37.
+2
+
+#CHARACTER.Character Name
+Character Name
+

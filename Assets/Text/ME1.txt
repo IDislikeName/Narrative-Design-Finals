@@ -1,0 +1,435 @@
+#SAY.Flowchart.1.
+Guy: “New school, new me, and most importantly, a new route in this game—the Charlie route! My first route, too. To get her good ending by the end of the day, I need to earn as many affection points with her as possible.”
+
+#SAY.Flowchart.9.
+{i}I walk into the classroom for the first period of the day: chemistry. Nobody is inside since I came extra early.{/i}
+
+#SAY.Flowchart.10.
+Guy: “Ah, chemistry! My favorite class. Nothing like the smell of noxious fumes and...{i}romance{/i}.”
+
+#SAY.Flowchart.12.
+Guy: “Seems like there's something on the white board. Let's take a closer look...”
+
+#SAY.Flowchart.13.
+{i}I make my way to the whiteboard. The chemistry equation {b}2H_2 + O_2 => [] H_2O{/b} is written on it.{/i}
+
+#SAY.Flowchart.33.
+Guy: "Oh, my first event! What I choose to do here {i}seems{/i} to be random and unimportant, but it could actually have MAJOR consequences in the game. I should try solving it..."
+
+#MENU.Flowchart.3
+Write the answer as '1'
+
+#MENU.Flowchart.4
+Write the answer as '2'
+
+#SAY.Flowchart.7.
+Guy: “...and there we go. It's 1!” (SFX writing smth on whiteboard) (SET VARIABLE TO CHOSE 1)
+
+#SAY.Flowchart.8.
+Guy: “...and there we go. It's 2!” (SFX writing smth on whiteboard) (SET VARIABLE TO CHOSE 2)
+
+#SAY.Flowchart.17.
+Guy: “Though I'm not a fan of tricking players into making early choices that they don't know could affect them later, I can't wait to see what kind of ripple effect this has.”
+
+#SAY.Flowchart.18.
+Guy: “That teacher NPC better be wearing sunglasses,”
+
+#SAY.Flowchart.19.
+Guy: “'Cause he’s got a bright student! Haha!” (SFX Guy Haha!)
+
+#SAY.Flowchart.20.
+Guy: “Haha...I'm hilarious.”
+
+#SAY.Flowchart.21.
+Guy: “Anyway, since nobody's here yet, I’ll take a seat first. Now, where should I sit...?”
+
+#MENU.Flowchart.24
+Sit in the Front
+
+#MENU.Flowchart.25
+Sit in the Middle
+
+#MENU.Flowchart.29
+Sit in the Back but specifically near the window
+
+#SAY.Flowchart.30.
+Guy: “Sitting all the way in front is more my style. Gotta assert dominance somehow.”
+
+#SAY.Flowchart.34.
+{i}I take a seat up at the very front.{/i}
+
+#SAY.Flowchart.31.
+Guy: “Definitely gonna sit in the center of the classroom~ Protagonist vibes all the way!”
+
+#SAY.Flowchart.35.
+{i}I take a seat write at the center of the room.{/i}
+
+#SAY.Flowchart.32.
+Guy: "I'm the main character, so I obviously need to sit in the back next to the window to look outside and reflect on my life."
+
+#SAY.Flowchart.36.
+{i}I take a seat all the way in the back.{/i}
+
+#SAY.Flowchart.41.
+{i}As soon as I set aside my stuff, the teacher walks in. As expected, the results of this first event were immediately triggered after I made my choices./OR/She's just an NPC, so I don't really care what she looks like.{/i}
+
+#SAY.Flowchart.44.
+Guy: "Hi Mrs. Thompson! Great morning for some science-ing, don't you think?"
+
+#SAY.Flowchart.43.
+Mrs. Thompson: "JESUS CHRIST, you scared me! What are you doing here so early?" 
+
+#SAY.Flowchart.42.
+Mrs. Thompson: "You know what? Nevermind. I need to exercise more positive thinking according to my therapist, so...morning to you, too."
+
+#SAY.Flowchart.45.
+{i}She goes to her desk, picks up the whiteboard eraser, and goes to clean it until she sees my brilliant work.{/i}
+
+#SAY.Flowchart.46.
+Mrs. Thompson: "Huh...did you write this answer on the board?"
+
+#SAY.Flowchart.51.
+(IF PLAYER CHOSE 1){i}Mrs. Thompson points to the big '1' written on the whiteboard.{/i}
+
+#SAY.Flowchart.53.
+(IF PLAYER CHOSE 2){i}Mrs. Thompson points to the big '2' written on the whiteboard.{/i}
+
+#MENU.Flowchart.54
+Tell the truth and be confident
+
+#MENU.Flowchart.56
+Lie and stay mysterious
+
+#SAY.Flowchart.69.
+Guy: "Yeah. It was me!"
+
+#SAY.Flowchart.70.
+{i}Mrs. Thompson frowns.{/i}
+
+#SAY.Flowchart.74.
+Mrs. Thompson: "Well...if you just count the molecules, 2H_2 + O_2 is 4 Hydrogen and 2 Oxygen in total, therefore it would make two H_2O."
+
+#SAY.Flowchart.73.
+{i}I failed the event! Now the possibility of what could've happened in the game had I answered this one question correctly is gonna keep me up at night!{/i}(SFX Guy No...!)
+
+#SAY.Flowchart.72.
+Mrs. Thompson: "Also, if you come early again...just erase the stuff on the board, don't add more for me to clean. Thanks."
+
+#SAY.Flowchart.71.
+{i}She wipes the board clean. Although I'm disappointed I didn't earn any reward, one small mistake surely isn't enough to ruin my good ending with Charlie. At least, I hope this isn't that kind of game...{/i}
+
+#SAY.Flowchart.75.
+Guy: "Yeah. It was me! And I know I got it correct because if you count the molecules—"
+
+#SAY.Flowchart.80.
+Mrs. Thompson: "Kid, if you wanna talk science with me, do it during office hours. School hasn't started yet, so don't make me work..."
+
+#SAY.Flowchart.92.
+{i}I open my mouth to protest, but then she wipes the board clean.{/i}
+
+#SAY.Flowchart.93.
+{i}I see...maybe this situation was one of those choices that only had consequences if you answered incorrectly. After all, there's no way my choices WOULDN'T have consequences!{/i}
+
+#SAY.Flowchart.87.
+Guy: "I don't know. Whoever wrote it though probably felt like he had to hide his true abilities...like nobody would understand, and if he explained, it was only push people further away—"
+
+#SAY.Flowchart.85.
+Mrs. Thompson: "Oh good. Because it's wrong. Also, it's just more stuff for me to clean...ugh."
+
+#SAY.Flowchart.84.
+{i}I failed the event! Now the possibility of what could've happened in the game had I answered this one question correctly is gonna keep me up at night!{/i}(SFX Guy No...!)
+
+#SAY.Flowchart.83.
+{i}She wipes the board clean. Although I'm disappointed I didn't earn any reward, one small mistake surely isn't enough to ruin my good ending with Charlie. At least, I hope this isn't that kind of game...{/i}
+
+#SAY.Flowchart.88.
+Guy: "I don't know. Whoever wrote it though probably felt like he had to hide his true abilities...like nobody would understand, and if he explained, it was only push people further away—"
+
+#SAY.Flowchart.91.
+Mrs. Thompson: "Ok then. Not that I really care if it was you or if this is right, honestly. It's just more stuff for me to clean. They don't pay me for this by the way."
+
+#SAY.Flowchart.90.
+{i}I open my mouth to ask if I got it right or not, but then she wipes the board clean.{/i}
+
+#SAY.Flowchart.89.
+{i}I see...maybe this situation was one of those choices that only had consequences if you answered incorrectly. After all, there's no way my choices WOULDN'T have consequences!{/i}
+
+#SAY.Flowchart.99.
+{i}People start to come into the classroom, scattering among the seats and talking to each other.{/i}
+
+#SAY.Flowchart.101.
+{i}About time! But I don't see Charlie yet. She must be coming in late, which is a great thing, actually.{/i}
+
+#SAY.Flowchart.100.
+{i}To guarantee my good ending, I can't screw up any interactions with Charlie. If I research and memorize what she likes and everything about her, I'll be able to max her affection points!{/i}
+
+#SAY.Flowchart.105.
+{i}I should listen to some of the conversations going on before Charlie arrives...{/i}
+
+#MENU.Flowchart.113
+Listen to the conversation near the beakers
+
+#MENU.Flowchart.114
+Listen to the conversation near the bunsen burners
+
+#MENU.Flowchart.115
+Listen to the conversation near the door
+
+#SAY.Flowchart.134.
+Charlie: "Hi. I think we're partners for this lab. You wanna get started instead of doing...whatever it is you're doing right now? It's a nice morning too—perfect time to do some lab work." (CHARLIE HAPPY)
+
+#MENU.Flowchart.135
+Lie about loving mornings
+
+#MENU.Flowchart.138
+Tell her the truth about hating the morning
+
+#SAY.Flowchart.116.
+Unimportant NPC: "Weird Charlie didn't get here before us! She's such a morning person."
+
+#SAY.Flowchart.117.
+Irrelevant NPC: "Charlie's coffee order is so so good. It was something insane, like a grande steamed oat milk macchiato double shot with a caramel drizzle and two pumps of vanilla syrup. I think."
+
+#SAY.Flowchart.118.
+Insignificant NPC: "I think I saw Charlie rushing to her locker. You know, the one in the south wing? Number 110?"
+
+#SAY.Flowchar t.139.
+Guy: "Hahahaha I love mornings—I wake up at 4AM everyday because I love them so much. Like, I LOVE mornings so much."(SFX Guy Haha!)
+
+#SAY.Flowchart.140.
+Charlie: "Uh, ok? Good to know...?" (CHARLIE CONFUSED)
+
+#SAY.Flowchart.141.
+Guy: "Truth be told, I'm not really a morning person. But I could totally BE a morning person, I just choose not to. Feel like I get along with morning people more too."
+
+#SAY.Flowchart.142.
+Charlie: "Uh, ok? Good to know...?" (CHARLIE CONFUSED)
+
+#SAY.Flowchart.146.
+{i}Not bad! Gotta make sure I keep saying the right things for affection points while also learning more about her.{/i}
+
+#SAY.Flowchart.147.
+Charlie: “Ok, looks like the first step after putting on our gear should be setting up our solutions. Can you measure 15ml of this blue solution for me?”
+
+#MENU.Flowchart.150
+Measure 15ml of the solution
+
+#MENU.Flowchart.151
+Tell her how much you love coffee
+
+#SAY.Flowchart.152.
+Guy: "Yeah sure got it no problem—"
+
+#SAY.Flowchart.153.
+{i}If I do this fast enough, I'll impress her AND have time to ask her things. So, I snatch one of the glass beakers and dump the solution in. Her jaw drops—SCORE.{/i}
+
+#SAY.Flowchart.154.
+Guy: "So. I love to start my day off with coffee. What about you?"
+
+#SAY.Flowchart.155.
+Guy: "Man, you know what? I just can't live without coffee."
+
+#SAY.Flowchart.156.
+Charlie: "Uh, are you going to measure it, or—" (CHARLIE CONFUSED)
+
+#SAY.Flowchart.157.
+Guy: "Cause I LOVE coffee. I mean, whoever doesn't like coffee? JAIL TIME. Like, do you not have a soul?"
+
+#SAY.Flowchart.158.
+Charlie: "Guess I'll just do it myself..."
+
+#SAY.Flowchart.159.
+Guy: "So you like coffee too?"
+
+#SAY.Flowchart.163.
+Charlie: "Yeah. I like it. Maybe not as much as you though..." (CHARLIE NEUTRAL)
+
+#SAY.Flowchart.164.
+Guy: "Yeah, you seem like a coffee kinda girl to me. People just don't get it—not like you and me, right?"
+
+#SAY.Flowchart.165.
+Charlie: "A lot of people like coffee..." (CHARLIE CONFUSED)
+
+#SAY.Flowchart.166.
+Guy: "Say, what's your go-to order?"
+
+#SAY.Flowchart.167.
+Charlie: "I really like the—"(CHARLIE HAPPY)
+
+#MENU.Flowchart.170
+WRITE IT DOWN WRITE IT DOWN
+
+#MENU.Flowchart.171
+Finish her sentence <3
+
+#SAY.Flowchart.172.
+Charlie: "...and two pumps of—wait. Did you just write that down?" (CHARLIE CONFUSED)
+
+#MENU.Flowchart.175
+Tell the truth and say yes
+
+#MENU.Flowchart.177
+Lie and say no
+
+#MENU.Flowchart.179
+Avoid question and pour all the chemicals together
+
+#SAY.Flowchart.173.
+Guy: "—a grande steamed oat milk macchiato double shot with a caramel drizzle and two pumps of vanilla syrup?"
+
+#SAY.Flowchart.174.
+Charlie: "Um...how did you know my very specific coffee order?"
+
+#MENU.Flowchart.181
+Lie...but romantically
+
+#MENU.Flowchart.183
+Tell the truth—someone mentioned it earlier
+
+#MENU.Flowchart.185
+Avoid question and pour all the chemicals together
+
+#SAY.Flowchart.186.
+Guy: "Yup." (SFX Guy Haha!)
+
+#SAY.Flowchart.187.
+Charlie: "Can I ask why?" (CHARLIE CONFUSED)
+
+#MENU.Flowchart.192
+A way to get to know you
+
+#MENU.Flowchart.193
+Easier to remember this way
+
+#SAY.Flowchart.188.
+Guy: "Uh...no..."
+
+#SAY.Flowchart.189.
+Charlie: “I literally just saw you do it.” (CHARLIE NEUTRAL)
+
+#SAY.Flowchart.190.
+Guy: "Oh. Uh, why are you paying attention to that? Do you like me haha—"
+
+#SAY.Flowchart.191.
+Charlie: "You weren't really hiding it. Anyway, care to explain why you wrote it down?"
+
+#MENU.Flowchart.196
+To get to know you
+
+#MENU.Flowchart.197
+To remember it more easily
+
+#SAY.Flowchart.211.
+Guy: "WOW HEY YOU KNOW WHAT I {i}love{/i} science!"
+
+#SAY.Flowchart.212.
+Charlie: “Don’t ignore my question!”
+
+#SAY.Flowchart.213.
+Guy: “I guess if this and this go together—” (SFX pouring chemicals)
+
+#SAY.Flowchart.214.
+Charlie: “Wait, don’t mix those together—”
+
+#SAY.Flowchart.215.
+!!! (SFX HUGE EXPLOSION BOOM)
+
+#SAY.Flowchart.227.
+Guy: “It...was fate.”
+
+#SAY.Flowchart.228.
+Charlie: “Excuse me what.” (CHARLIE UNCOMFY)
+
+#SAY.Flowchart.229.
+Guy: “I mean, I order the exact same thing too! I thought I was the only one that liked that...that coffee! In that very specific way! Look at how much we have in common...”
+
+#SAY.Flowchart.230.
+Charlie: “Sure you do. You know, nevermind. I think I’d rather NOT know how you got that information.”
+
+#SAY.Flowchart.231.
+Guy: “Don't you see our deeper connection—”
+
+#SAY.Flowchart.232.
+Charlie: “Uh, what connection?” (CHARLIE CONFUSED)
+
+#SAY.Flowchart.233.
+Guy: “I said the right thing. We have a thing in common! This is how we’re gonna get closer to each other...I mean, this is how the whole game works—”
+
+#SAY.Flowchart.224.
+Guy: “I learned from the others. They were talking about it so...”
+
+#SAY.Flowchart.225.
+Charlie: “So you just decided to eavesdrop on them?” (CHARLIE UNCOMFY)
+
+#SAY.Flowchart.226.
+Guy: “Uh, yeah? I mean this is how the whole game works—”
+
+#SAY.Flowchart.198.
+Guy: “I want to know why you order something so specific. This is how we’re gonna get closer to each other...”
+
+#SAY.Flowchart.199.
+Charlie: “That’s...some way to do it.”(CHARLIE UNCOMFY)
+
+#SAY.Flowchart.200.
+Guy: “It’s the right way to do it. It's how you usually do it.”
+
+#SAY.Flowchart.201.
+Charlie: “The right way? Usually? What are you even talking about—”
+
+#SAY.Flowchart.202.
+Guy: “I mean, you probably wouldn't know, but this is how the whole game works—”
+
+#SAY.Flowchart.203.
+Guy: “Oh, it’s easier to remember this way.”
+
+#SAY.Flowchart.204.
+Charlie: “I mean...to each their own, I guess?” (CHARLIE CONFUSED)
+
+#SAY.Flowchart.205.
+Guy: “Some details about characters are so hard to remember, so—”
+
+#SAY.Flowchart.206.
+Charlie: “Did...you just say characters?”
+
+#SAY.Flowchart.207.
+Guy: “I mean, that’s how I like to keep track of things in the whole game—”
+
+#SAY.Flowchart.218.
+{i}The bell rings. Charlie frowns at our unfinished experiment.{/i} (CHARLIE ANGRY, SFX bell ring)
+
+#SAY.Flowchart.219.
+{i}The explosion ends. Everyone stares at our failed experiment...and just like that, class is almost over. Charlie frowns at the mess on the table..{/i} (CHARLIE ANGRY)
+
+#SAY.Flowchart.236.
+Charlie: "Our...our experiment! Because of you and your weird questions, everything went—"
+
+#SAY.Flowchart.237.
+Guy: “—fine or whatever because science is so cool and amazing and special—BY THE WAY, what are your lunch plans? Just curious.”
+
+#SAY.Flowchart.238.
+Charlie: "I don't know. A sandwich? Who even cares though...god, I can't believe this."
+
+#SAY.Flowchart.239.
+{i}Class is over. Charlie takes her things, trashes her own notes, and leaves hastily before I can ask her what KIND of sandwich! I could search for a hint...or maybe I already have enough information?{/i}
+
+#MENU.Flowchart.240
+Look through garbage
+
+#MENU.Flowchart.242
+Leave and WING IT
+
+#SAY.Flowchart.245.
+Look through the garbage for Charlie's notes
+
+#SAY.Flowchart.246.
+Guy: "If it's in the trash...I guess it's free real-estate."
+
+#SAY.Flowchart.247.
+Guy: "Huh...there are a lot of doodles of fish on her notes. Maybe she likes them a lot..." (SFX rustling through garbage)
+
+#SAY.Flowchart.244.
+Guy: “I think I have enough knowledge about her to know what she likes...”
+
+#CHARACTER.Character Name
+Character Name
+

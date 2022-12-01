@@ -168,6 +168,130 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &194979329
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1253301486}
+    m_Modifications:
+    - target: {fileID: 138075498035748977, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_Name
+      value: Guy
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -420.91284
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -275.63013
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.37036595
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+--- !u!4 &194979330 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+  m_PrefabInstance: {fileID: 194979329}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &243283954
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1253301486}
+    m_Modifications:
+    - target: {fileID: 4730060257374932419, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_Name
+      value: Stage
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -420.91284
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -275.63013
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.37036595
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+--- !u!4 &243283955 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4730060257374932429, guid: 990fb5df86b1aed4c9aa507b0e628ff6, type: 3}
+  m_PrefabInstance: {fileID: 243283954}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -296,7 +420,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &652266089
 GameObject:
@@ -534,6 +658,7 @@ GameObject:
   - component: {fileID: 652266120}
   - component: {fileID: 652266119}
   - component: {fileID: 652266317}
+  - component: {fileID: 652266318}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -572,7 +697,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 66
     y: 72.21951
-    width: 101.36609
+    width: 101.764725
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -600,11 +725,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 472.5258, y: -996.894}
+  scrollPos: {x: -89.33297, y: 145.55205}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 403.66666
-  zoom: 0.6100004
+  zoom: 0.84999967
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -612,7 +737,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 652266127}
+  - {fileID: 652266113}
   selectedCommands: []
   variables:
   - {fileID: 652266316}
@@ -658,7 +783,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 28
   indentLevel: 0
-  storyText: walk fast1
+  storyText: '{i}We went around in circles for a couple of times. Was this hard mode
+    or something? Anyway, Charlie eventually gave up and sat down, which allowed
+    me to take a seat at the same table.{/i}(CHARLIE UNCOMFY, SFX Foosteps FAST)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -685,7 +812,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 27
   indentLevel: 0
-  storyText: 2
+  storyText: "{i}Charlie must\u2019ve been so surprised that I remembered her name
+    that she stood their in shock, which allowed me to take a seat at the same table.
+    She sighed and took the seat across from me.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -712,7 +841,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 26
   indentLevel: 0
-  storyText: call1
+  storyText: "Guy: \u201CCHAAAAARLIEEEEEEEE!\u201D(CHARLIE UNCOMFY)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -741,7 +870,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 722.65845
     y: 292.2195
-    width: 101.36609
+    width: 102.54904
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -769,7 +898,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 543.29346
     y: 308.5122
-    width: 92.622925
+    width: 93.13727
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -796,7 +925,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  text: Walk fast
+  text: Walk to her again REALLY FAST
   description: 
   targetBlock: {fileID: 652266097}
   hideIfVisited: 0
@@ -821,7 +950,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 0
-  text: Call out
+  text: Call out to her
   description: 
   targetBlock: {fileID: 652266098}
   hideIfVisited: 0
@@ -846,7 +975,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CWeird. Maybe she doesn't see me walking towards her. I should
+    make an extra effort to notice me.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -873,7 +1003,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 0
-  storyText: again1
+  storyText: '{i}I approach her again, but she walks somewhere else.{/i}(CHARLIE
+    UNCOMFY, SFX Foosteps normal)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -902,7 +1033,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 576
     y: 228
-    width: 145.08191
+    width: 148.03925
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -955,7 +1086,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: walk1
+  storyText: '{i}Charlie stands up and distances herself from me.{/i}(CHARLIE UNCOMFY,
+    SFX Foosteps normal)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -984,7 +1116,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 575
     y: 148
-    width: 112.295044
+    width: 113.529434
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1035,7 +1167,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  storyText: 5
+  storyText: '{i}I make eye contact with Charlie. She looks back at me, then quickly
+    averts her eyes. She must''ve felt shy, so maybe I should make the first move...{/i}(CHARLIE
+    UNCOMFY)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1062,7 +1196,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201COh, there she is. I\u2019m pretty sure if she had calculus
+    before lunch, she should\u2019ve entered from here where I was waiting, but...oh
+    well!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1089,7 +1225,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 12
   indentLevel: 0
-  storyText: 3
+  storyText: "{i}I go to the north entrance of the cafeteria and wait for a solid
+    ten minutes. I don't mind the stares\u2014the NPCs aren't important to me\u2014but
+    then I see a familiar face all the way in the back.{/I}(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1116,7 +1254,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  storyText: 2
+  storyText: '{i}I wait in the middle of the cafeteria with the sandwich looking
+    for Charlie, but she doesn''t seem to be here yet.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1143,7 +1282,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 10
   indentLevel: 0
-  storyText: After Choice 1
+  storyText: "Guy: \u201CShe\u2019s gonna LOVE this!\u201D(SFX GUY Haha!)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1172,7 +1311,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 489.97562
     y: 67.365845
-    width: 116.666626
+    width: 118.23532
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1202,7 +1341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  text: SB&J
+  text: Sunbutter & Jelly
   description: 
   targetBlock: {fileID: 652266313}
   hideIfVisited: 0
@@ -1277,7 +1416,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CLunch\u2014the perfect time to get something for Charlie
+    and raise affection points! Now which sandwich should I get for her...\u201D(SFX
+    GUY Hmm)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1304,7 +1445,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: Cafeteria 1
+  storyText: "{i}After some other morning classes that are super irrelevant to the
+    game because Charlie isn\u2019t in them, I rush to the cafeteria.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1415,7 +1557,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 227
   indentLevel: 0
-  storyText: 4
+  storyText: CONTINUE TO LOCKER HALL
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1442,7 +1584,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 226
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CIt\u2019s gonna be club period soon, but I\u2019m not part
+    of any clubs. I can use this time to deliver the letter and learn more about
+    her to prepare the perfect gift!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1469,7 +1613,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 225
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CI know! I'll write her an anonymous letter to meet me on
+    the rooftop after school ends today...romantic {i}and{/i} a slice-of-life genre
+    classic. To max out Charlie\u2019s affection points, I should also get her a
+    gift since the sandwich part of this event was a bust.\u201D (SFX Guy Haha!)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1496,7 +1643,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 224
   indentLevel: 0
-  storyText: Summary1
+  storyText: "Guy: \u201CA little learning, a little romancing...all in a lunch period\u2019s
+    work. But I need to guarantee Charlie's good ending. Not to mention, I need to
+    trigger the final event for my confession to even happen.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1523,9 +1672,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 652.0638
-    y: 1541.156
-    width: 101.36609
+    x: 653.7031
+    y: 1542.7954
+    width: 103.33336
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1554,7 +1703,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 222
   indentLevel: 0
-  storyText: 8
+  storyText: '{b}You helped Charlie and earned +3 Affection Points!{/b}(SFX earn
+    affection points)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1581,7 +1731,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 221
   indentLevel: 0
-  storyText: 7
+  storyText: "{i}Wow...she must\u2019ve felt shy from all of the attention I gave
+    her. Maybe she isn\u2019t used to it and that\u2019s why she left. I can\u2019t
+    imagine how flattering that must be.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1608,7 +1760,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 220
   indentLevel: 0
-  storyText: 6
+  storyText: '{i}She leaves the table.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1635,7 +1787,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 219
   indentLevel: 0
-  storyText: 5
+  storyText: "Charlie: \u201CI\u2019m done here. Good luck.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1662,7 +1814,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 218
   indentLevel: 0
-  storyText: 4
+  storyText: '{i}Charlie packs her things and gets up.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1689,7 +1841,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 217
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CWell, there goes my lunch period...\u201D(CHARLIE NEUTRAL,
+    SFX Girl sigh)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1716,7 +1869,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 216
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CBut...it was pretty helpful, right?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1743,7 +1896,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 215
   indentLevel: 0
-  storyText: Even1
+  storyText: "(IF ANSWERS WERE EVENLY SPLIT)Charlie: \u201CWhat even was that? You
+    were all over the place.\u201D(CHARLIE CONFUSED)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1770,7 +1924,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 214
   indentLevel: 0
-  storyText: 8
+  storyText: '{b}You broke down one of Charlie''s walls and earned +3 Affection Points!{/b}(SFX
+    earn affection points)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1797,7 +1952,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 213
   indentLevel: 0
-  storyText: 7
+  storyText: '{i}And that line about never helping people...? I definitely feel like
+    I''m about to unlock some really traumatic stuff. If I keep doing this, I''m
+    sure to unlock even more. Her tragic backstory is gonna be SO good.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1824,7 +1981,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 212
   indentLevel: 0
-  storyText: 6
+  storyText: "{i}Wow...she must\u2019ve felt shy from all of the attention I gave
+    her. Maybe she isn\u2019t used to it and that\u2019s why she left so fast. I
+    can\u2019t imagine how flattering that must be.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1851,7 +2010,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 211
   indentLevel: 0
-  storyText: 5
+  storyText: '{i}Charlie packs her things, gets up, and leaves the table.{/I}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1878,7 +2037,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 210
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CGod, this was pointless. Last time I ever try to help
+    anyone...\u201D(CHARLIE ANGRY)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1905,7 +2065,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 209
   indentLevel: 0
-  storyText: 3
+  storyText: 'Guy: "Trying to GET TO KNOW YOU! (SFX Guy Haha!)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1932,7 +2092,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 208
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CYeah, I was trying.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1959,7 +2119,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 207
   indentLevel: 0
-  storyText: Major Personal1
+  storyText: "(IF MAJORITY PERSONAL)Charlie: \u201CI can't believe I let you study
+    with me\u2014you went off topic so much! Were you even TRYING?\u201D(CHARLIE
+    ANGRY, SFX Girl Ugh!)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1986,7 +2148,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 206
   indentLevel: 0
-  storyText: 8
+  storyText: '{b}You helped Charlie and earned +3 Affection Points!{/b}(SFX earn
+    affection points)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2013,7 +2176,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 205
   indentLevel: 0
-  storyText: 7
+  storyText: "{i}Wow...Charlie left so fast. Maybe she was overwhelmed by how deep
+    I was just now. She even learned so much from my mistakes too. She\u2019s probably
+    really thankful but shy to admit it.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2040,7 +2205,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 204
   indentLevel: 0
-  storyText: 6
+  storyText: '{i}She leaves the table.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2067,7 +2232,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 203
   indentLevel: 0
-  storyText: 5
+  storyText: "Charlie: \u201CI\u2019m done here. Good luck.\u201D(CHARLIE UNCOMFY)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2094,7 +2259,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 202
   indentLevel: 0
-  storyText: 4
+  storyText: '{i}Charlie packs her things and gets up.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2121,7 +2286,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 201
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CUh, this is just a test on literary devices and Shakespeare's
+    {i}A Midsummer Night's Dream{/i}. I think I'd survive life regardless.\u201D(CHARLIE
+    UNCOMFY, SFX Girl Uh...)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2148,7 +2315,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 200
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CHope you learned a lot from me. Sometimes you have to learn
+    from the mistakes of others, right? Life's a hard path to walk alone after all...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2175,7 +2343,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 199
   indentLevel: 0
-  storyText: Major Wrong1
+  storyText: "(IF MAJORITY WRONG)Charlie: \u201CYou might wanna study a bit more
+    before class.\u201D(CHARLIE CONFUSED)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2202,7 +2371,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 198
   indentLevel: 0
-  storyText: 8
+  storyText: '{b}You impressed Charlie and earned +3 Affection Points!{/b}(SFX earn
+    affection points)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2229,7 +2399,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 197
   indentLevel: 0
-  storyText: 7
+  storyText: "{i}She must\u2019ve been so impressed because I did so well. I hope
+    I didn't fluster her too much...she left so fast. Probably overwhelmed with seeing
+    how good I am at this. Can't say I relate to her position though.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2256,7 +2428,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 196
   indentLevel: 0
-  storyText: 6
+  storyText: '{i}She leaves the table.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2283,7 +2455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 195
   indentLevel: 0
-  storyText: 5
+  storyText: "Charlie: \u201CI\u2019m done here. Good luck.\u201D(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2310,7 +2482,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 194
   indentLevel: 0
-  storyText: 4
+  storyText: '{i}Charlie packs her things and gets up.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2337,7 +2509,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 193
   indentLevel: 0
-  storyText: 2
+  storyText: 'Guy: "Yeah. Hope you learned a lot from that just now...sometimes it
+    helps to follow a good example, you know?"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2364,7 +2537,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 192
   indentLevel: 0
-  storyText: 3
+  storyText: 'Charlie: "Uh, yeah. Ok. Gonna ignore you said that."(CHARLIE UNCOMFY,
+    SFX Girl Uh...)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2391,7 +2565,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 191
   indentLevel: 0
-  storyText: Major Right1
+  storyText: '(IF MAJORITY RIGHT)Charlie: "Hmm. Good job, I guess. Looks like you
+    might actually pass this test."(CHARLIE NEUTRAL)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3322,7 +3497,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 935.0109
     y: 1399.5549
-    width: 76.22949
+    width: 78.235306
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3357,7 +3532,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 714.34607
     y: 1418.2991
-    width: 146.1748
+    width: 148.82358
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3392,7 +3567,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 522.7159
     y: 1402.596
-    width: 134.15295
+    width: 135.49023
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3427,7 +3602,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 357.65997
     y: 1409.3914
-    width: 127.59558
+    width: 128.4314
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3768,7 +3943,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 610.653
     y: 1282.6641
-    width: 145.08191
+    width: 148.82358
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4775,7 +4950,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 165
   indentLevel: 0
-  storyText: 2
+  storyText: '{i}Man...that was a hard one. Also, why am I actually learning stuff
+    in a game anyway? Weird.{/I}(SFX Guy Oh...'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4802,7 +4978,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 164
   indentLevel: 0
-  storyText: W3 1
+  storyText: "Charlie: \u201CNope. It's personification\u2014the moon is being written
+    as a person, doing human actions it wouldn't actually be able to do in reality.\u201D
+    (WRONG++)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4831,7 +5009,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 644.90643
     y: 1216.8947
-    width: 92.622925
+    width: 93.921585
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4859,7 +5037,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 162
   indentLevel: 0
-  storyText: 3
+  storyText: 'Charlie: "Um. I really didn''t ask...and that''s definitely not related
+    to the test."(CHARLIE CONFUSED)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4886,7 +5065,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 161
   indentLevel: 0
-  storyText: 2
+  storyText: 'Guy: "Oh. But not like, lonely alone. I''m not lonely. Just alone.
+    Haha! Unless..."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4913,7 +5093,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 160
   indentLevel: 0
-  storyText: P3 1
+  storyText: 'Guy: "So relatable and deep. I feel like not everybody gets that pain,
+    you know? I mean, sometimes water just comes out of my eye too when I think about
+    how alone I am." (PERSONAL++)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4942,7 +5124,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 807.6434
     y: 1186.485
-    width: 104.644775
+    width: 107.25493
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4971,7 +5153,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 158
   indentLevel: 0
-  storyText: 2
+  storyText: '{i}Uh, yeah I got it! Getting her good ending is gonna be so easy.{/i}(SFX
+    Guy Haha!)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4998,7 +5181,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 157
   indentLevel: 0
-  storyText: R3 1
+  storyText: "Charlie: \u201CYou got it.\u201D (RIGHT++)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5027,7 +5210,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 486.04367
     y: 1198.7167
-    width: 86.06555
+    width: 86.86276
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5055,7 +5238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 155
   indentLevel: 0
-  text: Personal3
+  text: Talk about how relatable the moon is (PERSONAL 3)
   description: 
   targetBlock: {fileID: 652266191}
   hideIfVisited: 0
@@ -5080,7 +5263,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 154
   indentLevel: 0
-  text: Wrong3
+  text: Metaphor (WRONG 3)
   description: 
   targetBlock: {fileID: 652266187}
   hideIfVisited: 0
@@ -5105,7 +5288,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 153
   indentLevel: 0
-  text: Right3
+  text: Personification (RIGHT 3)
   description: 
   targetBlock: {fileID: 652266194}
   hideIfVisited: 0
@@ -5130,7 +5313,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 152
   indentLevel: 0
-  storyText: Q3
+  storyText: 'Charlie: "Last question...what literary device is used in the following
+    line? {i}''The moon, methinks, looks with a wat''ry eye, / And when she weeps,
+    weeps every little flower, / Lamenting some enforced chastity''{/i}?"(CHARLIE
+    NEUTRAL)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5159,7 +5345,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 656.86456
     y: 1121.7418
-    width: 105.73767
+    width: 108.03924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5706,7 +5892,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 143
   indentLevel: 0
-  storyText: 3
+  storyText: 'Charlie: "Next time, just say you don''t know the answer."(CHARLIE
+    NEUTRAL)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5733,7 +5920,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 142
   indentLevel: 0
-  storyText: 2
+  storyText: 'Charlie: "Uh...I guess personification, alliteration, and imagery.
+    But this has nothing to do with the question!"(CHARLIE CONFUSED)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5760,7 +5948,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 141
   indentLevel: 0
-  storyText: P2 1
+  storyText: 'Guy: "I want to know what YOUR favorite literary device is though."
+    (PERSONAL++)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5789,7 +5978,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 849.3485
     y: 1001.7017
-    width: 103.55188
+    width: 106.47061
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5818,7 +6007,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 139
   indentLevel: 0
-  storyText: 2
+  storyText: "{i}Awesome! She\u2019s definitely astonished with my breadth of knowledge.{/i}(SFX
+    Guy Haha!)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5845,7 +6035,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 138
   indentLevel: 0
-  storyText: W2 1
+  storyText: "Charlie: \u201CRight. I guess it wasn't that hard though...Apollo and
+    Daphne kind of give it away.\u201D (RIGHT++)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5874,7 +6065,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 669.79456
     y: 1036.674
-    width: 91.53003
+    width: 93.13727
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5902,7 +6093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 132
   indentLevel: 0
-  storyText: 2
+  storyText: '{i}Damn! That was a hard one...{/i}(SFX Guy Oh...)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5929,7 +6120,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 131
   indentLevel: 0
-  storyText: R2 1
+  storyText: "Charlie: \u201CIncorrect. It's an allusion to greek mythology.\u201D
+    (WRONG++)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5958,7 +6150,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 527.7024
     y: 1003.0044
-    width: 84.97266
+    width: 86.078445
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5986,7 +6178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 129
   indentLevel: 0
-  text: Personal2
+  text: Ask what Charlie's favorite literary device is (PERSONAL 2)
   description: 
   targetBlock: {fileID: 652266209}
   hideIfVisited: 0
@@ -6011,7 +6203,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 128
   indentLevel: 0
-  text: Wrong2
+  text: Allusion (RIGHT 2)
   description: 
   targetBlock: {fileID: 652266212}
   hideIfVisited: 0
@@ -6036,7 +6228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 127
   indentLevel: 0
-  text: Right2
+  text: Simile (WRONG 2)
   description: 
   targetBlock: {fileID: 652266215}
   hideIfVisited: 0
@@ -6061,7 +6253,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 126
   indentLevel: 0
-  storyText: Q2
+  storyText: 'Charlie: "What literary device is used in the following line? {i}''The
+    story shall be changed: / Apollo flies and Daphne holds the chase; / The dove
+    pursues the griffin; the mild hind / Makes speed to catch the tiger''{/i}?"(CHARLIE
+    NEUTRAL)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6090,7 +6285,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 676.452
     y: 955.04333
-    width: 104.644775
+    width: 107.25493
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6118,7 +6313,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 123
   indentLevel: 0
-  storyText: 3
+  storyText: 'Charlie: "Don''t answer that. Let''s stick to studying, please."(CHARLIE
+    UNCOMFY)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6145,7 +6341,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 122
   indentLevel: 0
-  storyText: 2
+  storyText: 'Charlie: "Uh...no...? What does that even supposed to mean?" (CHARLIE
+    CONFUSED)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6172,7 +6369,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 121
   indentLevel: 0
-  storyText: P1 1
+  storyText: 'Guy: "Wow, using whom in an actual sentence? That''s so cool of you...say,
+    you into grammar stuff? Cause I am too haha unless you aren''t. Then I''m not."
+    (PERSONAL 1 -> PERSONAL++)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6199,7 +6398,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 120
   indentLevel: 0
-  storyText: 2
+  storyText: "{i}Shoot! I\u2019ll get the next one...{/I}(SFX Guy Oh...)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6226,7 +6425,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 119
   indentLevel: 0
-  storyText: W1 1
+  storyText: "Charlie: \u201CWrong. That's not even the right play!\u201D (WRONG
+    1 -> WRONG++)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6253,7 +6453,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 118
   indentLevel: 0
-  storyText: 2
+  storyText: '{i}Nice! She must be so impressed.{/I}(SFX Guy Haha!)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6280,7 +6480,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 117
   indentLevel: 0
-  storyText: R1 1
+  storyText: 'Charlie: "Correct. Looks like you actually know what we''ve been reading
+    in class..." (RIGHT 1 -> RIGHT++)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6309,7 +6510,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 843.99164
     y: 851.8306
-    width: 102.458984
+    width: 105.686295
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6340,7 +6541,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 699.4362
     y: 843.6049
-    width: 90.43713
+    width: 92.35296
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6370,7 +6571,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 551.8449
     y: 825.6265
-    width: 83.87976
+    width: 85.29413
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6398,7 +6599,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 113
   indentLevel: 0
-  text: Personal1
+  text: Compliment that sick use of WHOM (PERSONAL 1)
   description: 
   targetBlock: {fileID: 652266228}
   hideIfVisited: 0
@@ -6423,7 +6624,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 112
   indentLevel: 0
-  text: Wrong1
+  text: Hamlet to Ophelia (WRONG 1)
   description: 
   targetBlock: {fileID: 652266229}
   hideIfVisited: 0
@@ -6448,7 +6649,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 111
   indentLevel: 0
-  text: Right1
+  text: Lysander to Hermia (RIGHT 1)
   description: 
   targetBlock: {fileID: 652266230}
   hideIfVisited: 0
@@ -6536,7 +6737,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 107
   indentLevel: 0
-  storyText: Q1
+  storyText: "Charlie: \u201CWhich character states that the 'course of true love
+    never did run smooth', and to whom?\"(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6565,7 +6767,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 694.95856
     y: 768.6794
-    width: 103.55188
+    width: 106.47061
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6638,7 +6840,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 105
   indentLevel: 0
-  storyText: 9
+  storyText: '{i}Wow, underneath that cold exterior is a heart of gold...success!{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6665,7 +6867,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 104
   indentLevel: 0
-  storyText: 8
+  storyText: "Charlie: \u201CFine, I\u2019ll let you study with me...but only because
+    I highly doubt you remember anything for this unit anyway.\u201D(CHARLIE NEUTRAL,
+    SFX GIRL sigh)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6692,7 +6896,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 103
   indentLevel: 0
-  storyText: 7
+  storyText: "Guy: \u201CDo you think we could study together? Please?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6719,7 +6923,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 102
   indentLevel: 0
-  storyText: 6
+  storyText: "{i}She\u2019s so cold...so in character!{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6746,7 +6950,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 101
   indentLevel: 0
-  storyText: 5
+  storyText: "Charlie: \u201CUh-huh.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6773,7 +6977,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 100
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CUhhhhh my brain is like. SO broken.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6800,7 +7004,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 99
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CDid you just say \u2018Begin Event\u2019 out loud\u2014\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6827,7 +7031,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 98
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201C...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6854,7 +7058,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 97
   indentLevel: 0
-  storyText: Begin1
+  storyText: "Charlie: \u201C...\u201D(CHARLIE CONFUSED, SFX GIRL uh...)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6881,7 +7085,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 96
   indentLevel: 0
-  storyText: 7
+  storyText: '{i}Wow, underneath that cold exterior is a heart of gold...success!{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6908,7 +7112,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 95
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CFine, I\u2019ll let you study with me...\u201D(SFX GIRL
+    sigh)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6935,7 +7140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 94
   indentLevel: 0
-  storyText: 5
+  storyText: '{i}Charlie rolls her eyes puts down her sandwich.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6962,7 +7167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 93
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CThat would be way more distracting.\u201D(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6989,7 +7194,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 92
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CI mean...if you don\u2019t let me, that\u2019s cool...I\u2019ll
+    just sit here and absorb the knowledge I guess.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7016,7 +7222,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CSomehow I believe you and don\u2019t at the same time.\u201D(CHARLIE
+    NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7043,7 +7250,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 90
   indentLevel: 0
-  storyText: Beg1
+  storyText: "Guy: \u201CPlease help me. You\u2019re the smartest girl in the grade
+    and I totally forgot to study whatever is on those flashcards!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7070,7 +7278,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 89
   indentLevel: 0
-  storyText: 9
+  storyText: '{i}Wow, underneath that cold exterior is a heart of gold...success!{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7097,7 +7305,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 88
   indentLevel: 0
-  storyText: 8
+  storyText: "Charlie: \u201CFine, I\u2019ll let you study with me...but only because
+    I highly doubt you remember anything for this unit anyway.\u201D(CHARLIE NEUTRAL,
+    SFX GIRL sigh)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7124,7 +7334,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 87
   indentLevel: 0
-  storyText: 7
+  storyText: "Guy: \u201CUh...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7151,7 +7361,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 86
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CThat was patronizing. And also, who says I\u2019m afraid
+    of anything?\"(CHARLIE ANGRY)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7178,7 +7389,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 85
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201CI\u2019m just saying...don\u2019t be afraid to let others
+    in.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7205,7 +7417,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 84
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CIt\u2019s a choice.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7232,7 +7444,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 83
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CI know you\u2019re the lone wolf type and all, but always
+    being by yourself is\u2014\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7259,7 +7472,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 82
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CThat was really cheesy.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7286,7 +7499,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 81
   indentLevel: 0
-  storyText: Appeal1
+  storyText: "Guy: \u201CIf you want to go fast, go alone. If you want to go far,
+    go together...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7315,7 +7529,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 866.0414
     y: 657.36884
-    width: 80.601074
+    width: 82.156876
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7351,7 +7565,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 711.9241
     y: 651.48663
-    width: 70.765015
+    width: 71.96079
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7385,7 +7599,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 562.5118
     y: 662.0747
-    width: 87.15845
+    width: 89.2157
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7419,7 +7633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 77
   indentLevel: 0
-  text: Option Text
+  text: "\u201CBegin Event\u201D"
   description: 
   targetBlock: {fileID: 652266267}
   hideIfVisited: 0
@@ -7444,7 +7658,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 76
   indentLevel: 0
-  text: Option Text
+  text: Beg for help
   description: 
   targetBlock: {fileID: 652266268}
   hideIfVisited: 0
@@ -7469,7 +7683,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 75
   indentLevel: 0
-  text: Option Text
+  text: Persuade her to do it together for maximum efficiency
   description: 
   targetBlock: {fileID: 652266269}
   hideIfVisited: 0
@@ -7494,7 +7708,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 74
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CI don\u2019t know. I kind of prefer to study alone.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7521,7 +7735,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 73
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201CLet me help you out! We have that test soon right? It\u2019ll
+    be good for both of us.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7548,7 +7763,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 72
   indentLevel: 0
-  storyText: 4
+  storyText: "{i}She\u2019s studying? Usually games like this don\u2019t actually
+    show this side of school. Guess this is one of those \u201Crealistic\u201D games,
+    heh. This is the perfect time to impress her!{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7575,7 +7792,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 0
-  storyText: 3
+  storyText: "{i}Charlie pulls out a set of flash cards and begins eating her sandwich.
+    Looks like material from English class\u2014another class we share together.{/i}(CHARLIE
+    NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7602,7 +7821,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201C...Sure.\u201D(CHARLIE UNCOMFY)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7671,7 +7890,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 67
   indentLevel: 0
-  storyText: E1
+  storyText: "Guy: \u201COh...I didn\u2019t even know we had a cafe. I guess this
+    sandwich for me I guess?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7721,7 +7941,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 723.6886
     y: 575.01624
-    width: 86.06555
+    width: 88.43139
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7796,7 +8016,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \"And third, please don't call me 'distinct and quirky'. I
+    promise you, it's not as flattering as you think it is.\u201D(CHARLIE ANGRY)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7823,7 +8044,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 61
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CUm. Ok. First, I went to the school cafe. The sandwiches
+    there are better than the ones here. Second, sunbutter is a peanut butter alternative
+    using sunflower seeds.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7850,7 +8073,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 60
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CWHAT?! But I didn't see you near the sandwiches here! And
+    I even made sure to get the sunbutter. I don't even know what that IS but it's
+    distinct and quirky like you...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7877,7 +8102,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 59
   indentLevel: 0
-  storyText: SBJ1
+  storyText: "Charlie: \u201CThanks...but I already got my sandwich.\u201D(CHARLIE
+    NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7904,7 +8130,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 58
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201C...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7931,7 +8157,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 57
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CUh, that doesn\u2019t mean I want to EAT THEM. Also,
+    I threw those notes away...did you look through the trash for them?\"(CHARLIE
+    CONFUSED)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7958,7 +8186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 56
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CBut you...on your notes! There were fish on it!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7985,7 +8213,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 55
   indentLevel: 0
-  storyText: T1
+  storyText: "Charlie: \u201CThanks...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8012,7 +8240,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 54
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CUm. Ok.\u201D(CHARLIE CONFUSED)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8039,7 +8267,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 53
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CWHAT?! I...I see. I will remember this.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8066,7 +8294,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 52
   indentLevel: 0
-  storyText: HC1
+  storyText: "Charlie: \u201CThanks...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8158,7 +8386,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 862.51184
     y: 487.95758
-    width: 79.50818
+    width: 80.58825
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8189,7 +8417,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 713.1001
     y: 484.4282
-    width: 77.32239
+    width: 79.01962
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8220,7 +8448,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 467.21777
     y: 496.19324
-    width: 141.80322
+    width: 146.47063
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8993,7 +9221,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 621.527
     y: 387.38034
-    width: 131.96716
+    width: 135.49023
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9002,6 +9230,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266318}
   - {fileID: 652266305}
   - {fileID: 652266298}
   - {fileID: 652266304}
@@ -9545,7 +9774,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 325.37234
     y: 200.83801
-    width: 111.20215
+    width: 114.31375
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9573,7 +9802,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 277.81134
     y: 104.49652
-    width: 110.10925
+    width: 113.529434
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9601,7 +9830,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 320.4943
     y: 32.545326
-    width: 109.01636
+    width: 112.74512
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9647,6 +9876,130 @@ MonoBehaviour:
     stringVal: MainEvent3
   loadingImage: {fileID: 0}
   sceneNameOLD: 
+--- !u!114 &652266318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 239
+  indentLevel: 0
+  storyText: was missing
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!1001 &1157843992
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1253301486}
+    m_Modifications:
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -420.91284
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -275.63013
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.37036595
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007914331879699486, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+      propertyPath: m_Name
+      value: Charlie
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+--- !u!4 &1157843993 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9007914331879699484, guid: be78491ae3a25124bbae4c920b9dd4f4, type: 3}
+  m_PrefabInstance: {fileID: 1157843992}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1253301485
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1253301486}
+  m_Layer: 0
+  m_Name: Shared stuff
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1253301486
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253301485}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 420.91284, y: 275.63013, z: -0.37036595}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1157843993}
+  - {fileID: 194979330}
+  - {fileID: 1942466086}
+  - {fileID: 243283955}
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1823516567
 GameObject:
   m_ObjectHideFlags: 0
@@ -9730,54 +10083,105 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &2050170269
-GameObject:
+--- !u!1001 &1942466085
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1253301486}
+    m_Modifications:
+    - target: {fileID: 2761509761332324144, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_Name
+      value: SayDialog
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+--- !u!224 &1942466086 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2761509761332324174, guid: 7755e0e4019a99f40bd81dd71331b0b5, type: 3}
+  m_PrefabInstance: {fileID: 1942466085}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2050170271}
-  - component: {fileID: 2050170270}
-  m_Layer: 0
-  m_Name: Character
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2050170270
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2050170269}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nameText: Character Name
-  nameColor: {r: 1, g: 1, b: 1, a: 1}
-  soundEffect: {fileID: 0}
-  portraits: []
-  portraitsFace: 0
-  setSayDialog: {fileID: 0}
-  description: 
---- !u!4 &2050170271
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2050170269}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
