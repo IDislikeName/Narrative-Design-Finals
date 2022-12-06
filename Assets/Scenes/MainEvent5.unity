@@ -827,7 +827,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1696228564}
   selectedCommands: []
   variables:
   - {fileID: 1696228468}
@@ -985,7 +986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: '{I}Finally, the bell rings.{/I}(SFX bell ring)'
+  storyText: '{i}Finally, the bell rings.{/i}(SFX bell ring)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1012,7 +1013,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 24
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CThat is not the compliment you think it is.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1039,7 +1040,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201CDon\u2019t worry. That\u2019s, like, your appeal. Spices
+    things up.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1066,7 +1068,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CWhat...?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1093,7 +1095,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CDang, playing hot and cold with me \u2018til the very end,
+    huh...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1120,7 +1123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CI just saw you in English.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1147,7 +1150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: Confident1
+  storyText: "Guy: \u201CDid you miss me?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1174,7 +1177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 18
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CYeah...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1201,7 +1204,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201CIt sounded way better in my head.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1228,7 +1231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CUsually things do.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1255,7 +1258,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CDid you just refer to yourself as...god?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1282,7 +1285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  storyText: Cool1
+  storyText: "Guy: \u201CYeah. It\u2019s me.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1309,7 +1312,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 12
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CUh...no, it was just like. Supposed to be uh. Uh. A cool
+    line.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1511,7 +1515,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 31
   indentLevel: 0
-  storyText: 7
+  storyText: "Guy: \u201CUm. That was just supposed to be a line.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1538,7 +1542,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 30
   indentLevel: 0
-  storyText: 6
+  storyText: "Guy: \u201CAh...haha...ha.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1565,7 +1569,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 29
   indentLevel: 0
-  storyText: 5
+  storyText: "Charlie: \u201CThat was literally the unfunniest thing anyone could
+    have ever said.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1592,7 +1597,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 28
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CHaha, you\u2019re so funny!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1619,7 +1624,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 27
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CNo. I was told to be here.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1646,7 +1651,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 26
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CHey there! So...you come here often?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1700,7 +1705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 41
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CI found this letter in my locker.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1727,7 +1732,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 40
   indentLevel: 0
-  storyText: 7
+  storyText: "Guy: \u201CIt\u2019s ok to feel confused...I\u2019m sure this was probably
+    a big deal and stuff. Dramatic and whatever. You know how it goes...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1754,7 +1760,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 39
   indentLevel: 0
-  storyText: 8
+  storyText: "Charlie: \u201CNo, I\u2014ugh! You\u2019re not getting it!\u201D(CHARLIE
+    ANGRY)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1781,7 +1788,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 38
   indentLevel: 0
-  storyText: 9
+  storyText: "Charlie: \u201CI don\u2019t ever take my journal outside of my locker,
+    so I don\u2019t even know how you got it in there in the first place!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1808,7 +1816,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 37
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CI\u2019m trying to make a point here.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1835,7 +1843,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 36
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201CSo...? Aren\u2019t you curious why I asked you to meet me
+    here?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1862,7 +1871,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 35
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201C...and it was, like, inside my journal.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1889,7 +1898,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 34
   indentLevel: 0
-  storyText: 3
+  storyText: "{i}She shows me my letter. The sticker has been torn, so clearly she\u2019s
+    read it front to back.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1916,7 +1926,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 33
   indentLevel: 0
-  storyText: Convo1
+  storyText: '{i}Charlie sighs.{/i}(CHARLIE UNCOMFY)'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2044,7 +2054,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 47
   indentLevel: 0
-  storyText: Mysterious1
+  storyText: "Guy: \u201CLove is so mysterious, you know...it works in such strange
+    ways. Maybe that\u2019s why people spend their whole lives chasing it, wondering
+    if it\u2019s even real...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2104,7 +2116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 45
   indentLevel: 0
-  text: Mysterious
+  text: Be Mysterious
   description: 
   targetBlock: {fileID: 1696228465}
   hideIfVisited: 0
@@ -2174,7 +2186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 66
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CCLEARLY.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2201,7 +2213,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 65
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201COddly specific, but yeah. There are a lot of weirdos out
+    there, you know?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2228,7 +2241,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 64
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CProbably something inconvenient. And creepy. And annoying.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2255,7 +2268,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 63
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CWell, I wanted to look out for you! Plus, leaving it open
+    like that? Who knows what could have happened?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2282,7 +2296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CYou could have just told that to me.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2309,7 +2323,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 61
   indentLevel: 0
-  storyText: Mysterious1
+  storyText: "Guy: \u201CYour locker was left unlocked, so I made sure to close it
+    for you!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2369,7 +2384,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 59
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CYou...read...it...?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2396,7 +2411,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 58
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201CI only read some of it.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2423,7 +2438,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 57
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CAfter you took my journal and opened it to put the letter
+    inside it.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2450,7 +2466,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 56
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CI just locked it for you.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2477,7 +2493,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 55
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CWhat do you mean \u2018you know\u2019? I DON\u2019T
+    know!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2504,7 +2521,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 54
   indentLevel: 0
-  storyText: Honest1
+  storyText: "Guy: \u201CYour locker was open...so you know.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2564,7 +2581,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 52
   indentLevel: 0
-  storyText: 6
+  storyText: "Charlie: \u201CI...you\u2019re impossible.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2591,7 +2608,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 51
   indentLevel: 0
-  storyText: 5
+  storyText: "Guy: \u201CSuch is fate.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2618,7 +2635,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 50
   indentLevel: 0
-  storyText: 4
+  storyText: "Charlie: \u201CMy heart is telling me that what you did is really REALLY
+    weird.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2645,7 +2663,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 49
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CWhat does your heart say?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2672,7 +2690,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 48
   indentLevel: 0
-  storyText: 2
+  storyText: "Charlie: \u201CYou went into my locker, didn\u2019t you.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2699,7 +2717,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 68
   indentLevel: 0
-  text: Helpful
+  text: Be Helpful
   description: 
   targetBlock: {fileID: 1696228477}
   hideIfVisited: 0
@@ -2724,7 +2742,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 67
   indentLevel: 0
-  text: Honest
+  text: Be Honest
   description: 
   targetBlock: {fileID: 1696228484}
   hideIfVisited: 0
@@ -2812,7 +2830,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 74
   indentLevel: 0
-  storyText: 5
+  storyText: "Charlie: \u201CWhat is it that you needed to tell me?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2839,7 +2857,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 73
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201COh. That\u2019s not what I meant\u2014\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2866,7 +2884,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 72
   indentLevel: 0
-  storyText: 3
+  storyText: "Charlie: \u201CSo you know I can\u2019t be here for that long, right?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2893,7 +2911,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CRobotics. Yeah. I know this already.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2920,7 +2938,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: Need to go
+  storyText: "Charlie: \u201CLook, I need to get to my club\u2014\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3869,7 +3887,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 100
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CEspecially when you hide your love for poetry and more.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3896,7 +3914,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 99
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CYou\u2019re a nuanced girl, with inner conflict I adore,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3923,7 +3941,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 98
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CBut you\u2019re so much more than just a woman in STEM.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3950,7 +3968,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 97
   indentLevel: 0
-  storyText: A3 1
+  storyText: "Guy: \u201CWell-versed in robotics\u2014you\u2019re a master in chem,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3977,7 +3995,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 96
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CBy gracing me with knowledge of our school\u2019s best sandwiches.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4004,7 +4022,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 95
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CYou expanded my world, new perspectives and vantages,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4031,7 +4049,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 94
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CBut caffeine isn\u2019t the only thing making my heart beat.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4058,7 +4076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 93
   indentLevel: 0
-  storyText: A2 1
+  storyText: "Guy: \u201CWe love the same coffee\u2014so confusing, so sweet,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4085,7 +4103,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 92
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CBut we have more chemistry than Chemistry class.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4112,7 +4130,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CFrom the moment we locked eyes at 8:02,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4139,7 +4157,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 90
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CI knew that the best girl in this game was you.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4166,7 +4184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 89
   indentLevel: 0
-  storyText: A1 1
+  storyText: "Guy: \u201CLove\u2019s an experiment\u2014solid, liquid, gas...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4193,7 +4211,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 185
   indentLevel: 0
-  storyText: 
+  storyText: '{i}Nailed it.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4220,7 +4238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 184
   indentLevel: 0
-  storyText: 
+  storyText: '{b}1000+ Affection points earned!{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4247,7 +4265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 183
   indentLevel: 0
-  storyText: 
+  storyText: '{b}Good Ending!{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4274,7 +4292,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 182
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CThat was...really, really detailed.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4301,7 +4319,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 181
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CUh-huh.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4328,7 +4346,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CWhich is kind of strange since today is the first day
+    you\u2019ve said literally anything to me since the year started?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4355,7 +4374,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 179
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CWell, I did research on your\u2014\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4382,7 +4401,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 178
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CResearch?!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4409,7 +4428,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 177
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CYeah, that\u2019s how it usually goes...learn the schedule,
+    likes, dislikes, inner most traumatic secrets and possibly tragic backstory,
+    favorite thing to eat...the usual.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4436,7 +4457,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 176
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CSay the right thing. Give the right stuff. Boom! Good ending.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4463,7 +4484,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 175
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CGood...ending?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4490,7 +4511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 174
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CThat\u2019s how you play.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4517,7 +4538,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 173
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CWhat kind of \u2018good ending\u2019 exists in this
+    situation? You can\u2019t just treat me or the people around like, like some
+    sort of thing to win at the end!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4544,7 +4567,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 172
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CYou can cut out the \u2018I\u2019m the cold character and
+    super mean to you because I like you\u2019 stuff because I maxed out your Affection
+    Points\u2014\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4571,7 +4596,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 171
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CWhat are you even TALKING about\u2014\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4598,7 +4623,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 170
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CI did everything right, so I don\u2019t really understand
+    why you\u2019re treating me this way? Haha...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4625,7 +4651,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 169
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CI don\u2019t owe you ANYTHING! You did all of this creepy
+    stuff by yourself!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4652,7 +4679,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 168
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CDang, did I trigger the Bad Ending?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4679,7 +4706,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 167
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CAre you even LISTENING to me?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4706,7 +4733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 166
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CMaybe I should\u2019ve written the poem differently...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4733,7 +4760,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 165
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CHEY.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4760,7 +4787,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 164
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CYeah?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4787,7 +4814,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 163
   indentLevel: 0
-  storyText: 
+  storyText: "Charlie: \u201CYou\u2019re starting to really piss me off, dude. I\u2019m
+    trying to tell you that you are BOTHERING ME and need to STOP.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4814,7 +4842,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 162
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CI...I don\u2019t get it. Why are you angry? You\u2019re
+    supposed to fall in love with me!\u201D (GUY Sad)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4841,7 +4870,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 161
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \u201CI\u2019ll be more straightforward this time.\""
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4868,7 +4897,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 160
   indentLevel: 0
-  storyText: 
+  storyText: "Guy: \"Will you go out with me?\u201D (GUY Confident)"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4895,7 +4924,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 156
   indentLevel: 0
-  storyText: 
+  storyText: '{i}Charlie stands in front of me, speechless.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4922,7 +4951,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 155
   indentLevel: 0
-  storyText: End1
+  storyText: "Guy: \u201CSo...that\u2019s it. What did you think?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5816,7 +5845,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 144
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CThan this of Juliet and her Romeo...\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5843,7 +5872,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 143
   indentLevel: 0
-  storyText: C2 1
+  storyText: "Guy: \u201CFor never was a story of more woe\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5920,7 +5949,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 138
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CCourage to make\u2019s love known?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5947,7 +5976,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 0
-  storyText: C3 1
+  storyText: "Guy: \u201CWho could refrain, That had a heart to love, and in that
+    heart,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6024,7 +6054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 132
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CAnd therefore is winged Cupid painted blind....\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6051,7 +6081,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 131
   indentLevel: 0
-  storyText: C1 1
+  storyText: "Guy: \u201CLove looks not with the eyes, but with the mind,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6160,7 +6190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 127
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CBecause if you date me, then the jokes have just begun!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6187,7 +6217,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 126
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CI hope you took notice of my quirky science pun,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6214,7 +6244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 125
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CMakes me know that your future love for me will be mole-{i}cool{/i}.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6241,7 +6271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 124
   indentLevel: 0
-  storyText: B3 1
+  storyText: "Guy: \u201CYou scare me a bit, but your love for science and school,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6320,7 +6350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 121
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CTake it as a symbol of my romantic dedication!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6347,7 +6377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 120
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CIf you are in awe of my use of personification,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6374,7 +6404,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 119
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201CSo as your poet, immortalizing that is my duty.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6401,7 +6431,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 118
   indentLevel: 0
-  storyText: B2 1
+  storyText: "Guy: \u201CThe sun cowers at your radiance\u2014the moon envies your
+    beauty,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6480,7 +6511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 115
   indentLevel: 0
-  storyText: 4
+  storyText: "Guy: \u201CBecause if you are, please give my confession special consideration.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6507,7 +6538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 114
   indentLevel: 0
-  storyText: 3
+  storyText: "Guy: \u201CAre you impressed with my use of awesome alliteration?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6534,7 +6565,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 113
   indentLevel: 0
-  storyText: 2
+  storyText: "Guy: \u201Cyour intimidation makes this the most realistic game that
+    I played.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6561,7 +6593,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 112
   indentLevel: 0
-  storyText: B1 1
+  storyText: "Guy: \u201CUntouchable, unwavering, unapologetic, unafraid,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}

@@ -1,0 +1,369 @@
+#SAY.Flowchart.1.
+{i}Finally, the bell rings.{/i}(SFX bell ring)
+
+#SAY.Flowchart.2.
+{i}I sling my bag over my shoulder to look effortlessly nonchalant, even though I’m sure I’ve dropped my pen somewhere along the way.{/i}
+
+#SAY.Flowchart.5.
+{i}After that sacrifice, I make it to the rooftop. My heart is pounding, but I feel confident since I know I’ve nearly maxed out her affection points.{/I}(SFX Heart beat)
+
+#SAY.Flowchart.4.
+{i}At the rooftop, I see Charlie standing in front of me.{/I}(CHARLIE Confused)
+
+#SAY.Flowchart.3.
+{i}Ok! This is the moment I've been waiting for. How should I greet her?{/i}
+
+#MENU.Flowchart.9
+Cool
+
+#MENU.Flowchart.10
+Confident
+
+#MENU.Flowchart.11
+Friendly
+
+#SAY.Flowchart.13.
+Guy: “Yeah. It’s me.”
+
+#SAY.Flowchart.14.
+Charlie: “Did you just refer to yourself as...god?”
+
+#SAY.Flowchart.12.
+Guy: “Uh...no, it was just like. Supposed to be uh. Uh. A cool line.”
+
+#SAY.Flowchart.18.
+Charlie: “Yeah...”
+
+#SAY.Flowchart.17.
+Guy: “It sounded way better in my head.”
+
+#SAY.Flowchart.16.
+Charlie: “Usually things do.”
+
+#SAY.Flowchart.19.
+Guy: “Did you miss me?”
+
+#SAY.Flowchart.20.
+Charlie: “I just saw you in English.”
+
+#SAY.Flowchart.21.
+Guy: “Dang, playing hot and cold with me ‘til the very end, huh...”
+
+#SAY.Flowchart.22.
+Charlie: “What...?”
+
+#SAY.Flowchart.23.
+Guy: “Don’t worry. That’s, like, your appeal. Spices things up.”
+
+#SAY.Flowchart.24.
+Charlie: “That is not the compliment you think it is.”
+
+#SAY.Flowchart.25.
+Cool1
+
+#SAY.Flowchart.26.
+Guy: “Hey there! So...you come here often?”
+
+#SAY.Flowchart.27.
+Charlie: “No. I was told to be here.”
+
+#SAY.Flowchart.28.
+Guy: “Haha, you’re so funny!”
+
+#SAY.Flowchart.29.
+Charlie: “That was literally the unfunniest thing anyone could have ever said.”
+
+#SAY.Flowchart.30.
+Guy: “Ah...haha...ha.”
+
+#SAY.Flowchart.31.
+Guy: “Um. That was just supposed to be a line.”
+
+#SAY.Flowchart.33.
+{i}Charlie sighs.{/i}(CHARLIE UNCOMFY)
+
+#SAY.Flowchart.41.
+Charlie: “I found this letter in my locker.”
+
+#SAY.Flowchart.34.
+{i}She shows me my letter. The sticker has been torn, so clearly she’s read it front to back.{/i}
+
+#SAY.Flowchart.35.
+Charlie: “...and it was, like, inside my journal.”
+
+#SAY.Flowchart.36.
+Guy: “So...? Aren’t you curious why I asked you to meet me here?”
+
+#SAY.Flowchart.37.
+Charlie: “I’m trying to make a point here.”
+
+#SAY.Flowchart.40.
+Guy: “It’s ok to feel confused...I’m sure this was probably a big deal and stuff. Dramatic and whatever. You know how it goes...”
+
+#SAY.Flowchart.39.
+Charlie: “No, I—ugh! You’re not getting it!”(CHARLIE ANGRY)
+
+#SAY.Flowchart.38.
+Charlie: “I don’t ever take my journal outside of my locker, so I don’t even know how you got it in there in the first place!”
+
+#MENU.Flowchart.45
+Be Mysterious
+
+#MENU.Flowchart.67
+Be Honest
+
+#MENU.Flowchart.68
+Be Helpful
+
+#SAY.Flowchart.47.
+Guy: “Love is so mysterious, you know...it works in such strange ways. Maybe that’s why people spend their whole lives chasing it, wondering if it’s even real...”
+
+#SAY.Flowchart.48.
+Charlie: “You went into my locker, didn’t you.”
+
+#SAY.Flowchart.49.
+Guy: “What does your heart say?”
+
+#SAY.Flowchart.50.
+Charlie: “My heart is telling me that what you did is really REALLY weird.”
+
+#SAY.Flowchart.51.
+Guy: “Such is fate.”
+
+#SAY.Flowchart.52.
+Charlie: “I...you’re impossible.”
+
+#SAY.Flowchart.54.
+Guy: “Your locker was open...so you know.”
+
+#SAY.Flowchart.55.
+Charlie: “What do you mean ‘you know’? I DON’T know!”
+
+#SAY.Flowchart.56.
+Guy: “I just locked it for you.”
+
+#SAY.Flowchart.57.
+Charlie: “After you took my journal and opened it to put the letter inside it.”
+
+#SAY.Flowchart.58.
+Guy: “I only read some of it.”
+
+#SAY.Flowchart.59.
+Charlie: “You...read...it...?”
+
+#SAY.Flowchart.61.
+Guy: “Your locker was left unlocked, so I made sure to close it for you!”
+
+#SAY.Flowchart.62.
+Charlie: “You could have just told that to me.”
+
+#SAY.Flowchart.63.
+Guy: “Well, I wanted to look out for you! Plus, leaving it open like that? Who knows what could have happened?”
+
+#SAY.Flowchart.64.
+Charlie: “Probably something inconvenient. And creepy. And annoying.”
+
+#SAY.Flowchart.65.
+Guy: “Oddly specific, but yeah. There are a lot of weirdos out there, you know?”
+
+#SAY.Flowchart.66.
+Charlie: “CLEARLY.”
+
+#SAY.Flowchart.70.
+Charlie: “Look, I need to get to my club—”
+
+#SAY.Flowchart.71.
+Guy: “Robotics. Yeah. I know this already.”
+
+#SAY.Flowchart.72.
+Charlie: “So you know I can’t be here for that long, right?”
+
+#SAY.Flowchart.73.
+Guy: “Oh. That’s not what I meant—”
+
+#SAY.Flowchart.74.
+Charlie: “What is it that you needed to tell me?”
+
+#SAY.Flowchart.89.
+Guy: “Love’s an experiment—solid, liquid, gas...”
+
+#SAY.Flowchart.92.
+Guy: “But we have more chemistry than Chemistry class.”
+
+#SAY.Flowchart.91.
+Guy: “From the moment we locked eyes at 8:02,”
+
+#SAY.Flowchart.90.
+Guy: “I knew that the best girl in this game was you.”
+
+#SAY.Flowchart.93.
+Guy: “We love the same coffee—so confusing, so sweet,”
+
+#SAY.Flowchart.94.
+Guy: “But caffeine isn’t the only thing making my heart beat.”
+
+#SAY.Flowchart.95.
+Guy: “You expanded my world, new perspectives and vantages,”
+
+#SAY.Flowchart.96.
+Guy: “By gracing me with knowledge of our school’s best sandwiches.”
+
+#SAY.Flowchart.97.
+Guy: “Well-versed in robotics—you’re a master in chem,”
+
+#SAY.Flowchart.98.
+Guy: “But you’re so much more than just a woman in STEM.”
+
+#SAY.Flowchart.99.
+Guy: “You’re a nuanced girl, with inner conflict I adore,”
+
+#SAY.Flowchart.100.
+Guy: “Especially when you hide your love for poetry and more.”
+
+#SAY.Flowchart.112.
+Guy: “Untouchable, unwavering, unapologetic, unafraid,”
+
+#SAY.Flowchart.113.
+Guy: “your intimidation makes this the most realistic game that I played.”
+
+#SAY.Flowchart.114.
+Guy: “Are you impressed with my use of awesome alliteration?”
+
+#SAY.Flowchart.115.
+Guy: “Because if you are, please give my confession special consideration.”
+
+#SAY.Flowchart.118.
+Guy: “The sun cowers at your radiance—the moon envies your beauty,”
+
+#SAY.Flowchart.119.
+Guy: “So as your poet, immortalizing that is my duty.”
+
+#SAY.Flowchart.120.
+Guy: “If you are in awe of my use of personification,”
+
+#SAY.Flowchart.121.
+Guy: “Take it as a symbol of my romantic dedication!”
+
+#SAY.Flowchart.124.
+Guy: “You scare me a bit, but your love for science and school,”
+
+#SAY.Flowchart.125.
+Guy: “Makes me know that your future love for me will be mole-{i}cool{/i}.”
+
+#SAY.Flowchart.126.
+Guy: “I hope you took notice of my quirky science pun,”
+
+#SAY.Flowchart.127.
+Guy: “Because if you date me, then the jokes have just begun!”
+
+#SAY.Flowchart.131.
+Guy: “Love looks not with the eyes, but with the mind,”
+
+#SAY.Flowchart.132.
+Guy: “And therefore is winged Cupid painted blind....”
+
+#SAY.Flowchart.137.
+Guy: “Who could refrain, That had a heart to love, and in that heart,”
+
+#SAY.Flowchart.138.
+Guy: “Courage to make’s love known?”
+
+#SAY.Flowchart.143.
+Guy: “For never was a story of more woe”
+
+#SAY.Flowchart.144.
+Guy: “Than this of Juliet and her Romeo...”
+
+#SAY.Flowchart.155.
+Guy: “So...that’s it. What did you think?”
+
+#SAY.Flowchart.156.
+{i}Charlie stands in front of me, speechless.{/i}
+
+#SAY.Flowchart.185.
+{i}Nailed it.{/i}
+
+#SAY.Flowchart.184.
+{b}1000+ Affection points earned!{/b}
+
+#SAY.Flowchart.183.
+{b}Good Ending!{/b}
+
+#SAY.Flowchart.182.
+Charlie: “That was...really, really detailed.”
+
+#SAY.Flowchart.181.
+Guy: “Uh-huh.”
+
+#SAY.Flowchart.180.
+Charlie: “Which is kind of strange since today is the first day you’ve said literally anything to me since the year started?”
+
+#SAY.Flowchart.179.
+Guy: “Well, I did research on your—”
+
+#SAY.Flowchart.178.
+Charlie: “Research?!”
+
+#SAY.Flowchart.177.
+Guy: “Yeah, that’s how it usually goes...learn the schedule, likes, dislikes, inner most traumatic secrets and possibly tragic backstory, favorite thing to eat...the usual.”
+
+#SAY.Flowchart.176.
+Guy: “Say the right thing. Give the right stuff. Boom! Good ending.”
+
+#SAY.Flowchart.175.
+Charlie: “Good...ending?”
+
+#SAY.Flowchart.174.
+Guy: “That’s how you play.”
+
+#SAY.Flowchart.173.
+Charlie: “What kind of ‘good ending’ exists in this situation? You can’t just treat me or the people around like, like some sort of thing to win at the end!”
+
+#SAY.Flowchart.172.
+Guy: “You can cut out the ‘I’m the cold character and super mean to you because I like you’ stuff because I maxed out your Affection Points—”
+
+#SAY.Flowchart.171.
+Charlie: “What are you even TALKING about—”
+
+#SAY.Flowchart.170.
+Guy: “I did everything right, so I don’t really understand why you’re treating me this way? Haha...”
+
+#SAY.Flowchart.169.
+Charlie: “I don’t owe you ANYTHING! You did all of this creepy stuff by yourself!”
+
+#SAY.Flowchart.168.
+Guy: “Dang, did I trigger the Bad Ending?”
+
+#SAY.Flowchart.167.
+Charlie: “Are you even LISTENING to me?”
+
+#SAY.Flowchart.166.
+Guy: “Maybe I should’ve written the poem differently...”
+
+#SAY.Flowchart.165.
+Charlie: “HEY.”
+
+#SAY.Flowchart.164.
+Guy: “Yeah?”
+
+#SAY.Flowchart.163.
+Charlie: “You’re starting to really piss me off, dude. I’m trying to tell you that you are BOTHERING ME and need to STOP.”
+
+#SAY.Flowchart.162.
+Guy: “I...I don’t get it. Why are you angry? You’re supposed to fall in love with me!” (GUY Sad)
+
+#SAY.Flowchart.161.
+Guy: “I’ll be more straightforward this time."
+
+#SAY.Flowchart.160.
+Guy: "Will you go out with me?” (GUY Confident)
+
+#SAY._CommandCopyBuffer.156.
+
+
+#CHARACTER.Charlie
+Charlie
+
+#CHARACTER.Guy
+Guy
+
