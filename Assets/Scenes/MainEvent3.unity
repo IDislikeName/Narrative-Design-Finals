@@ -568,6 +568,12 @@ GameObject:
   - component: {fileID: 979670903}
   - component: {fileID: 979670902}
   - component: {fileID: 979670979}
+  - component: {fileID: 979670982}
+  - component: {fileID: 979670981}
+  - component: {fileID: 979670980}
+  - component: {fileID: 979670983}
+  - component: {fileID: 979670985}
+  - component: {fileID: 979670984}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -606,7 +612,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 67
     y: 72
-    width: 117.17249
+    width: 117.37482
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -619,6 +625,10 @@ MonoBehaviour:
   - {fileID: 979670977}
   - {fileID: 979670976}
   - {fileID: 979670975}
+  - {fileID: 979670981}
+  - {fileID: 979670982}
+  - {fileID: 979670980}
+  - {fileID: 979670983}
   - {fileID: 979670974}
   - {fileID: 979670973}
   - {fileID: 979670972}
@@ -636,7 +646,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 409.48386, y: 63.306236}
+  scrollPos: {x: 188.54308, y: 34.17118}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -647,8 +657,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 979670971}
+  selectedCommands:
+  - {fileID: 979670955}
   variables: []
   description: 
   stepPause: 0
@@ -1040,7 +1052,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 47
     y: 347
-    width: 102.604965
+    width: 102.80729
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1836,7 +1848,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 506
     y: 234
-    width: 83.990906
+    width: 83.9909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1869,7 +1881,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 367
     y: 274
-    width: 86.41882
+    width: 87.0258
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1900,7 +1912,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 205.9508
     y: 323.2295
-    width: 121.21903
+    width: 121.0167
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1932,7 +1944,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -86
     y: 270
-    width: 92.08397
+    width: 93.70258
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2094,7 +2106,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 41
     y: 239
-    width: 83.990906
+    width: 83.9909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2149,7 +2161,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 24
   indentLevel: 0
-  storyText: Aha!
+  storyText: '"Perfect! I can just put it in her locker myself!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2176,7 +2188,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  storyText: '"Oh wait, it''s not locked!"'
+  storyText: '"I guess I could slip it into the locker...but the letter might not
+    fit. "'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2203,7 +2216,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 0
-  storyText: '"Let me think emmm...."'
+  storyText: "\"Looks like Charlie rushed to put her things in. Figures\u2014she
+    was late to chemistry today!\""
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2230,7 +2244,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  storyText: '"Now we only need to password!"'
+  storyText: '{i}Loose pieces of paper stick out of the bottom of the locker and
+    a book is caught between the opening, hastily shoved it inside.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2257,7 +2272,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 0
-  storyText: '"Aha! Here it is! Locker 138!"'
+  storyText: '"There it is! Locker number 110!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2284,7 +2299,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: '"Locker 134... locker 135... 136... 137........."'
+  storyText: '"Locker 100... locker 101..."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2332,8 +2347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: "\"Emmmm it\u2019s not anywhere around, didn\u2019t I hear abou it this
-    morning?\""
+  storyText: '"Hmm...looks like this is the 300s. I should circle back and try again."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2387,7 +2401,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 15
   indentLevel: 0
-  storyText: '"Locker 304... locker 305... 206... 207........."'
+  storyText: '"Locker 304... locker 305...306...307..."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2435,8 +2449,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  storyText: "\"Hummmm I don\u2019t see it around here, I thought I heard about where
-    it is earlier!\""
+  storyText: '"Maybe I should try another area of lockers..."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2519,7 +2532,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 389
     y: 166
-    width: 100.98635
+    width: 102.20031
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2549,7 +2562,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 203
     y: 187
-    width: 99.36774
+    width: 100.98635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2579,7 +2592,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 28
     y: 164
-    width: 96.13051
+    width: 98.558426
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2593,6 +2606,8 @@ MonoBehaviour:
   - {fileID: 979670958}
   - {fileID: 979670957}
   - {fileID: 979670956}
+  - {fileID: 979670985}
+  - {fileID: 979670984}
   - {fileID: 979670955}
   - {fileID: 979670954}
   suppressAllAutoSelections: 0
@@ -2610,7 +2625,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  text: Go to Locker Area 300-399
+  text: Go down the middle
   description: 
   targetBlock: {fileID: 979670969}
   hideIfVisited: 1
@@ -2635,7 +2650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 0
-  text: Go to Locker Area 200-299
+  text: Go to the right
   description: 
   targetBlock: {fileID: 979670970}
   hideIfVisited: 1
@@ -2660,7 +2675,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 5
   indentLevel: 0
-  text: Go to Locker Area 100-299
+  text: Go to the left
   description: 
   targetBlock: {fileID: 979670971}
   hideIfVisited: 1
@@ -2685,7 +2700,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: '"I''m gonna find that locker!"'
+  storyText: 'Guy: "Good thing I remember I overheard someone say what number Charlie''s
+    locker was!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2712,7 +2728,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 3
   indentLevel: 0
-  storyText: "\"Emmm, wait! Weren\u2019t they talking about her locker in the morning?\""
+  storyText: 'Guy: "I have my anonymous romantic letter for her. I''ll need to slip
+    it into her locker somehow in order to trigger the good ending event once school
+    ends!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2739,7 +2757,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: "\"Where did Charlie go? Haven\u2019t see her around anywhere.\""
+  storyText: 'Guy: "Nobody seems to be around either!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2766,7 +2784,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: '"Ahhhh that was a good lunch."'
+  storyText: 'Guy: "Hmm...ok. This is the south wing of the school."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2798,6 +2816,171 @@ MonoBehaviour:
     stringVal: MainEvent4
   loadingImage: {fileID: 0}
   sceneNameOLD: 
+--- !u!114 &979670980
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 81
+  indentLevel: 0
+  storyText: 'Guy: "But the new student orientation was just so full of {i}normies{/i},
+    I felt like it was stuff I could figure out myself."'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &979670981
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 80
+  indentLevel: 0
+  storyText: 'Guy: "I need to go to locker number 110, b, uh, I''ve never actually
+    been to this part of the school?"'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &979670982
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 79
+  indentLevel: 0
+  storyText: 'Guy: "I shouldn''t have skipped the player tutorial."'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &979670983
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 82
+  indentLevel: 0
+  storyText: 'Guy: "Whatever! I''m sure that with enough determination, everything
+    will work out fine!"'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &979670984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 84
+  indentLevel: 0
+  storyText: '"Wait! It''s...unlocked?"'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &979670985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 83
+  indentLevel: 0
+  storyText: '"How am I supposed to get it in there to surprise her?" '
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1001 &1319596692
 PrefabInstance:
   m_ObjectHideFlags: 0
