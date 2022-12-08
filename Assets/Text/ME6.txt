@@ -1,0 +1,786 @@
+#SAY.Flowchart.1.
+Charlie: “...”
+
+#SAY.Flowchart.2.
+{i}This guy is SERIOUSLY not getting it.{/i}
+
+#SAY.Flowchart.5.
+Guy: “Hint: there’s a correct answer here.” (GUY CONFIDENT)
+
+#SAY.Flowchart.4.
+{i}While it’s absolutely not my job to teach him what he’s been doing all day to me is wrong, I don’t know if he’s gonna leave me alone after this.{/i}
+
+#SAY.Flowchart.3.
+{i}I need to convince him that what he did was CREEPY and WEIRD, but he’s way too caught up in his own fantasy!{/i}
+
+#SAY.Flowchart.6.
+{i}Sad to think that some people only understand the world in relation to themselves.{/i}
+
+#SAY.Flowchart.14.
+{i}Since this guy believes that the world revolves around him, I think he deserves to be humbled a little. {/i}
+
+#SAY.Flowchart.13.
+{i}I need to show him what he did but from my perspective.{/i}
+
+#SAY.Flowchart.12.
+Guy: “Hellooooo? Are you ok, Charlie?” (GUY CONFUSED)
+
+#SAY.Flowchart.11.
+{i}I need to shatter his world completely!{/i}
+
+#SAY.Flowchart.10.
+Charlie: “No. I’m not ok, actually.”
+
+#SAY.Flowchart.9.
+Charlie: “Today has been one of THE WORST days of my life...and it’s all because of you.”
+
+#SAY.Flowchart.8.
+Guy: “W-What do you mean? Stop saying things so...so out of character!” (GUY SAD)
+
+#SAY.Flowchart.7.
+Charlie: “I’m not gonna stop! In fact, I’m gonna start from the very beginning of today!”
+
+#SAY.Flowchart.23.
+Charlie: “First! During chemistry, you straight up LIED to me about liking mornings.”
+
+#SAY.Flowchart.24.
+Guy: “N-No I didn’t!” (GUY CONFUSED)
+
+#SAY.Flowchart.30.
+Charlie: “For this entire semester so far, you’ve been consistently late to every chemistry class. The evidence is kind of against you here.”
+
+#SAY.Flowchart.29.
+Guy: “Woah...you’ve been noticing me for so long?” (GUY HAPPY)
+
+#SAY.Flowchart.28.
+Charlie: “That’s not my point!”
+
+#SAY.Flowchart.27.
+Charlie: “My point is that you lied about something to artificially create something we had in common!”
+
+#SAY.Flowchart.26.
+Guy: “A-Ack!” (GUY SHOCK)
+
+#SAY.Flowchart.25.
+Charlie: “That’s a terrible way to get closer to someone, you know!”
+
+#SAY.Flowchart.31.
+Charlie: “First! During chemistry, you said you didn’t like mornings but said some weird things about becoming a morning person...”
+
+#SAY.Flowchart.32.
+Guy: “Well, that’s because I wanted to show I was willing to get closer to you by committing to that!” (GUY CONFUSED)
+
+#SAY.Flowchart.33.
+Charlie: “By changing your perfectly fine lifestyle to artificially create something in common?”
+
+#SAY.Flowchart.34.
+Guy: “I was trying to say the right thing!” (GUY SAD)
+
+#SAY.Flowchart.35.
+Guy: “If you say the right thing to someone you like...they’ll like you more!”
+
+#SAY.Flowchart.36.
+Charlie: “You shouldn’t have to lie about yourself to get closer to or please someone.”
+
+#SAY.Flowchart.37.
+Charlie: “That’s a terrible way to get closer to someone, you know!”
+
+#SAY.Flowchart.38.
+Charlie: “Dumb AND bordering manipulative. Don’t build relationships off of lies.”
+
+#SAY.Flowchart.48.
+Charlie: “Then during the experiment, you asked some really weird questions too, like about my coffee order.”
+
+#SAY.Flowchart.50.
+Charlie: “You finished saying my order, word for word. I don’t remember telling you about my order, much less actually talking to you this whole semester.”
+
+#SAY.Flowchart.51.
+Guy: “Someone was talking about it before class, so I just listened in on their conversation...” (GUY NEUTRAL)
+
+#SAY.Flowchart.49.
+Charlie: “You eavesdropped and spied on other people to learn about me?”
+
+#SAY.Flowchart.53.
+Guy: “That’s how you learn about characters! You do your research!” 
+
+#SAY.Flowchart.52.
+Charlie: “I’m not some character you can research things about! It’s really creepy to me that you were gathering information like that!”
+
+#SAY.Flowchart.56.
+Charlie: “I don’t care how much you learned or how much you care...”
+
+#SAY.Flowchart.55.
+Charlie: “Your actions were intrusive for me AND the classmates that didn’t know you were listening in on them!”
+
+#SAY.Flowchart.54.
+Guy: “But...but I tried so hard! I put in the effort at least! Don’t I deserve something for that?” (GUY SAD)
+
+#SAY.Flowchart.57.
+Charlie: “Deserve?! How self-centered are you?”
+
+#SAY.Flowchart.59.
+Guy: “Huh?!” (GUY CONFUSED) (SFX Guy Huh?)
+
+#SAY.Flowchart.58.
+Charlie: “Nobody owes you anything in this world! I don’t automatically owe you for ‘trying hard’ regardless of how noble or messed up your actions are!”
+
+#SAY.Flowchart.60.
+Charlie: “Then during the experiment, you asked some really weird questions too, like about my coffee order.”
+
+#SAY.Flowchart.61.
+Charlie: “You wrote it down word for word. That was kind of strange to me since you’d never really said anything to me before.”
+
+#SAY.Flowchart.62.
+Guy: “It’s easier to remember character likes and dislikes if I write it down too...” (GUY NEUTRAL)
+
+#SAY.Flowchart.63.
+Charlie: “That’s the issue! I’m not some character you need to memorize weird details about.”
+
+#SAY.Flowchart.64.
+Guy: “Well, to get closer to someone, you have to remember what they like...right? If you do that, you can expect them to like you...” (GUY CONFUSED) (SFX Guy Huh?)
+
+#SAY.Flowchart.65.
+Charlie: “Remembering arbitrary things like that does not mean you automatically grow closer to someone!”
+
+#SAY.Flowchart.66.
+Charlie: “And you can’t expect someone to reward you for remembering that or ‘showing effort by writing it down’—I don’t owe you that. NOBODY owes you anything!”
+
+#SAY.Flowchart.67.
+Charlie: “Also, you wrote that all down during our experiment. That was annoying since we were supposed to writing down our lab observations.”
+
+#SAY.Flowchart.74.
+Charlie: “Our experiment failed because of you decided that making me uncomfortable was more important than class!”
+
+#SAY.Flowchart.75.
+Charlie: “If you actually cared about me like you claimed, you would’ve realized that doing the experiment was a priority of mine!”
+
+#SAY.Flowchart.76.
+Charlie: “Now I have to do it again during a club period. I’m missing a robotics meeting because you literally blew up my work in class.”
+
+#SAY.Flowchart.77.
+Guy: “I was trying to do it as fast as possible!” (GUY CONFIDENT)
+
+#SAY.Flowchart.78.
+Charlie: “Fast work isn’t good work. Plus, you weren’t actually trying, so don’t pretend like you were or for any other reason.”
+
+#SAY.Flowchart.79.
+Guy: “...” (SFX Guy Oh...)(GUY SAD)
+
+#SAY.Flowchart.87.
+Charlie: “And then we ran out of time for the experiment because making me uncomfortable was more important than class!”
+
+#SAY.Flowchart.88.
+Charlie: “If you actually cared about me like you claimed, you would’ve realized that doing the experiment was a priority of mine and ACTUALLY WORKED ON IT.”
+
+#SAY.Flowchart.89.
+Charlie: “Now I’m missing a robotics meeting to finish during club period because my partner assignment turned into a solo one!”
+
+#SAY.Flowchart.90.
+Guy: “I was just trying to get to know you...” (GUY SAD)
+
+#SAY.Flowchart.91.
+Charlie: “There is a time and place for everything. That lab time was not it, especially considering that experiment literally a third of our final grade in that class!”
+
+#SAY.Flowchart.92.
+Guy: “...” (SFX Guy Oh...) (GUY SAD)
+
+#SAY.Flowchart.110.
+Charlie: “And then you bought me a tuna sandwich.”
+
+#SAY.Flowchart.111.
+Guy: “Which I thought you would’ve liked because of your notes!”
+
+#SAY.Flowchart.122.
+Charlie: “Which you dug through the TRASH for.”
+
+#SAY.Flowchart.121.
+Guy: “Usually...you collect information by using your surroundings...”(GUY NEUTRAL)
+
+#SAY.Flowchart.120.
+Charlie: “That’s just really creepy, dude. Don’t go through other people’s stuff—trash or not!”
+
+#SAY.Flowchart.119.
+Guy: “I should’ve just asked what you wanted me to buy for you. Sorry about that.” (GUY SAD)
+
+#SAY.Flowchart.118.
+Charlie: “No! I don’t want to accept anything from you!”
+
+#SAY.Flowchart.117.
+Charlie: “Getting unsolicited things from someone I don’t know is burdensome to me.”
+
+#SAY.Flowchart.116.
+Guy: “You wouldn’t have to pay me back or anything!”(GUY CONFIDENT)
+
+#SAY.Flowchart.115.
+Charlie: “It doesn’t matter what YOU think!”
+
+#SAY.Flowchart.114.
+Charlie: “I’m telling you that it makes me feel weird to get stuff. Unnecessary pressure!”
+
+#SAY.Flowchart.113.
+Guy: “Well...usually gifts are the best way to earn affection points...”(GUY NEUTRAL)
+
+#SAY.Flowchart.112.
+Charlie: “Sure—if you know each other!”
+
+#SAY.Flowchart.133.
+Charlie: “And then you bought me a sandwich. The sun-butter and jelly one.”
+
+#SAY.Flowchart.134.
+Charlie: “I didn’t want to accept it. I didn’t want it, period.”
+
+#SAY.Flowchart.143.
+Guy: “But it was sun-butter! I had it and it was actually pretty good? I am now extra supportive of peanut-butter alternatives.”(GUY HAPPY)
+
+#SAY.Flowchart.142.
+Guy: “Regardless...I should’ve gotten you something you could’ve actually eaten. Sorry about that.” (GUY SAD)
+
+#SAY.Flowchart.141.
+Charlie: “No! The issue is that I don’t want to accept anything from you!”
+
+#SAY.Flowchart.140.
+Charlie: “Getting unsolicited things from someone I don’t know is burdensome to me.”
+
+#SAY.Flowchart.139.
+Guy: “You wouldn’t have to pay me back or anything!” (GUY CONFIDENT)
+
+#SAY.Flowchart.138.
+Charlie: “It doesn’t matter what YOU think!”
+
+#SAY.Flowchart.137.
+Charlie: “I’m telling you that it makes me feel weird to get stuff. Unnecessary pressure!”
+
+#SAY.Flowchart.136.
+Guy: “Well...usually gifts are the best way to earn affection points...” (GUY NEUTRAL)
+
+#SAY.Flowchart.135.
+Charlie: “Sure—if you know each other!”
+
+#SAY.Flowchart.123.
+Charlie: “And then you bought me a sandwich. Ham and cheese?”
+
+#SAY.Flowchart.124.
+Charlie: “I didn’t want to accept it. I didn’t want it, period.”
+
+#SAY.Flowchart.132.
+Guy: “I should’ve gotten you something you could’ve actually eaten. Sorry about that.” (GUY SAD)
+
+#SAY.Flowchart.131.
+Charlie: “No! The issue is that I don’t want to accept anything from you!”
+
+#SAY.Flowchart.130.
+Charlie: “Getting unsolicited things from someone I don’t know is burdensome to me.”
+
+#SAY.Flowchart.129.
+Guy: “You wouldn’t have to pay me back or anything!” (GUY CONFIDENT)
+
+#SAY.Flowchart.128.
+Charlie: “It doesn’t matter what YOU think!”
+
+#SAY.Flowchart.127.
+Charlie: “I’m telling you that it makes me feel weird to get stuff. Unnecessary pressure!”
+
+#SAY.Flowchart.126.
+Guy: “Well...usually gifts are the best way to earn affection points...” (GUY NEUTRAL
+
+#SAY.Flowchart.125.
+Charlie: “Sure—if you know each other!”
+
+#SAY.Flowchart.161.
+Charlie: “Then you forced your way into my studying session!”
+
+#SAY.Flowchart.172.
+Guy: “Yeah, and that quiz you gave me?” (GUY CONFIDENT)
+
+#SAY.Flowchart.171.
+Guy: “CRUSHED IT.”
+
+#SAY.Flowchart.170.
+Guy: “It helped you out a lot, right?
+
+#SAY.Flowchart.169.
+Charlie: “Getting most of the study questions right wasn’t you helping me. It was ME helping YOU.”
+
+#SAY.Flowchart.168.
+Charlie: “Actually, it was more like an excuse for you to get in my space!”
+
+#SAY.Flowchart.167.
+Guy: “I just wanted to impress you...” (GUY CONFUSED)
+
+#SAY.Flowchart.166.
+Charlie: “There is a time and a place for that. This was not it, especially because I was clearly trying to be left alone.”
+
+#SAY.Flowchart.165.
+Charlie: “Also, take a hint! If I don’t seem eager to agree or literally avoiding you...take it as a no. SERIOUSLY.”
+
+#SAY.Flowchart.164.
+Guy: “Even if it seems like—” (GUY CONFUSED)
+
+#SAY.Flowchart.163.
+Charlie: “SEEMS like doesn’t mean IS like.”
+
+#SAY.Flowchart.162.
+Guy: “Oh...” (GUY SAD)
+
+#SAY.Flowchart.173.
+Charlie: “Then you forced your way into my studying session!”
+
+#SAY.Flowchart.174.
+Guy: “And while I didn’t do...the best...it’s always good to learn from other’s mistakes.” (GUY CONFIDENT)
+
+#SAY.Flowchart.175.
+Guy: “Didn’t want the same thing to happen to you, so...”
+
+#SAY.Flowchart.176.
+Guy: “You’re welcome.” (SFX Guy Heh)
+
+#SAY.Flowchart.177.
+Charlie: “I really don’t buy you helping me out by ‘learning from your mistakes’.
+
+#SAY.Flowchart.178.
+Charlie: ”I didn’t ask for help and didn’t want it. You just forced yourself there!”
+
+#SAY.Flowchart.179.
+Guy: “I just wanted to impress you...” (GUY SAD)
+
+#SAY.Flowchart.180.
+Charlie: “There is a time and a place for that. This was not it, especially because I was clearly trying to be left alone.”
+
+#SAY.Flowchart.181.
+Charlie: “Also, take a hint! If I don’t seem eager to agree or literally avoiding you...take it as a no. SERIOUSLY.”
+
+#SAY.Flowchart.182.
+Guy: “Even if it seems like—” (GUY CONFUSED)
+
+#SAY.Flowchart.183.
+Charlie: “SEEMS like doesn’t mean IS like.”
+
+#SAY.Flowchart.184.
+Guy: “Oh...” (SFX Guy Oh...)(GUY SAD)
+
+#SAY.Flowchart.185.
+Charlie: “Then you forced your way into my studying session!”
+
+#SAY.Flowchart.186.
+Guy: “I feel like I learned so much about you.” (GUY HAPPY)
+
+#SAY.Flowchart.187.
+Charlie: “But ZERO learning was done on the actual subject matter.”
+
+#SAY.Flowchart.188.
+Charlie: “You do realize that’s what the quiz was for in the first place, right?”
+
+#SAY.Flowchart.189.
+Guy: “But...actual learning? That’s just an excuse to get to know each other.” (GUY CONFUSED)(SFX Guy Huh?)
+
+#SAY.Flowchart.190.
+Charlie: “SAYS WHO?”
+
+#SAY.Flowchart.191.
+Guy: “Uh...it’s just a game—” 
+
+#SAY.Flowchart.192.
+Charlie: “Not to me! It’s not an excuse or a game or whatever!”
+
+#SAY.Flowchart.193.
+Charlie: “You wasted my time completely and basically tricked me into thinking you would help me study.”
+
+#SAY.Flowchart.194.
+Charlie: “And for what? Some invasive personal questions?”
+
+#SAY.Flowchart.199.
+Charlie: “Should’ve known better than to give you a chance. This is why I wanted to study alone in the first place!”
+
+#SAY.Flowchart.198.
+Charlie: “Also, take a hint! If I don’t seem eager to agree or literally avoiding you...take it as a no. SERIOUSLY.”
+
+#SAY.Flowchart.197.
+Guy: “Even if it seems like—”
+
+#SAY.Flowchart.195.
+Charlie: “SEEMS like doesn’t mean IS like.”
+
+#SAY.Flowchart.196.
+Guy: “Oh...” (SFX Guy Oh...) (GUY SAD)
+
+#SAY.Flowchart.200.
+Guy: “I just wanted to impress you...”
+
+#SAY.Flowchart.205.
+Charlie: “There is a time and a place for that. This was not it, especially because I was clearly trying to be left alone.”
+
+#SAY.Flowchart.204.
+Charlie: “Also, you need to take a hint! If I don’t seem eager to agree or literally avoiding you...take it as a no. SERIOUSLY.”
+
+#SAY.Flowchart.203.
+Guy: “Even if it seems like—” (GUY CONFUSED)
+
+#SAY.Flowchart.202.
+Charlie: “SEEMS like doesn’t mean IS like.”
+
+#SAY.Flowchart.201.
+Guy: “Oh...”(SFX Guy Oh...) (GUY SAD)
+
+#SAY.Flowchart.207.
+Charlie: “And you snooped around my locker, completely invading my privacy!”
+
+#SAY.Flowchart.215.
+Charlie: “You BROKE the motor I was working on for my team’s robot!”
+
+#SAY.Flowchart.216.
+Charlie: “Our competition is in two weeks, so now I have to fix it all thanks to you!”
+
+#SAY.Flowchart.219.
+Charlie: "You stuck the sonnet from my poetry poster right in the middle of it. Now it's {i}stuck.{/i}"
+
+#SAY.Flowchart.220.
+Charlie: "It covers my favorite part of the poster, and I can't peel it off without ruining the paper!"
+
+#SAY.Flowchart.223.
+Charlie: "You tore apart one of my photos from my photo wall!"
+
+#SAY.Flowchart.224.
+Charlie: "I don't even have anything to say other than THANKS, ASSHOLE."
+
+#SAY.Flowchart.237.
+Charlie: “And putting that letter right in my journal entry?”
+
+#SAY.Flowchart.238.
+Charlie: “Were you even TRYING not to get caught reading it?”
+
+#SAY.Flowchart.247.
+Guy: “Y-You can’t prove that!” (GUY SHOCK)
+
+#SAY.Flowchart.246.
+Charlie: “You wrote a poem for me. The letter was in the entry ABOUT POETRY.”
+
+#SAY.Flowchart.245.
+Charlie: “I’m not dumb. Where else would you get that idea from?”
+
+#SAY.Flowchart.244.
+Guy: “So...I might have...taken a peak...” (GUY SAD)
+
+#SAY.Flowchart.243.
+Charlie: “You don’t just read someone’s journal without their permission! That is SUCH an invasion of privacy.”
+
+#SAY.Flowchart.242.
+Charlie: “You chose to even OPEN my locker and go through my things to deliver it!”
+
+#SAY.Flowchart.241.
+Charlie: “And don’t give me that crap about this being a way to get to know someone because it is NOT.”
+
+#SAY.Flowchart.240.
+Charlie: “My things are not an open invitation. You need to respect my boundaries, you CREEP.”
+
+#SAY.Flowchart.239.
+Guy: “I...I see...” (SFX Guy Oh...)
+
+#SAY.Flowchart.248.
+Charlie: “And putting that letter in my journal? Right in the pocket?”
+
+#SAY.Flowchart.249.
+Charlie: “Were you even TRYING not to get caught reading it?”
+
+#SAY.Flowchart.250.
+Guy: “I thought...it’d be a nice surprise...” (GUY SAD)
+
+#SAY.Flowchart.251.
+Guy: “Just something tucked in the pocket...”
+
+#SAY.Flowchart.252.
+Charlie: “I nearly had a heart attack realizing someone had went through my journal!”
+
+#SAY.Flowchart.253.
+Charlie: “You don’t just do that without  permission! That is SUCH an invasion of privacy.”
+
+#SAY.Flowchart.254.
+Charlie: “You chose to even OPEN my locker and go through my things to deliver it!”
+
+#SAY.Flowchart.255.
+Charlie: “And don’t give me that crap about this being a way to get to know someone because it is NOT.”
+
+#SAY.Flowchart.256.
+Charlie: “My things are not an open invitation. You need to respect my boundaries, you CREEP.”
+
+#SAY.Flowchart.257.
+Guy: “I...I see...” (SFX Guy Oh...)
+
+#SAY.Flowchart.258.
+Charlie: “And putting that letter in my journal? Right in the pocket?”
+
+#SAY.Flowchart.259.
+Charlie: “Were you even TRYING not to get caught reading it?”
+
+#SAY.Flowchart.260.
+Guy: “Y-You can’t prove that!” (GUY SHOCK)
+
+#SAY.Flowchart.261.
+Charlie: “You put it in the latest entry of my journal. To know where that entry even is, you’d have to look through it all!”
+
+#SAY.Flowchart.262.
+Guy: “So...I might have...taken a peak...” (GUY SAD)
+
+#SAY.Flowchart.263.
+Charlie: “You don’t just read someone’s journal without their permission! That is SUCH an invasion of privacy.”
+
+#SAY.Flowchart.264.
+Charlie: “You chose to even OPEN my locker and go through my things to deliver it!”
+
+#SAY.Flowchart.265.
+Charlie: “And don’t give me that crap about this being a way to get to know someone because it is NOT.”
+
+#SAY.Flowchart.266.
+Charlie: “My things are not an open invitation. You need to respect my boundaries, you CREEP.”
+
+#SAY.Flowchart.267.
+Guy: “I...I see...” (SFX Guy Oh...)
+
+#SAY.Flowchart.271.
+Charlie: “Not to mention, you LOCKED MY LOCKER?”
+
+#SAY.Flowchart.272.
+Guy: “I was just looking out for you!” (GUY CONFIDENT) (SFX Guy Heh.)
+
+#SAY.Flowchart.273.
+Guy: “You never know what might happen if you leave your locker unlocked.”
+
+#SAY.Flowchart.274.
+Charlie: “...” 
+
+#SAY.Flowchart.275.
+Charlie: “Like, someone going through my stuff?”
+
+#SAY.Flowchart.276.
+Guy: “Yeah!”
+
+#SAY.Flowchart.277.
+Charlie: “And leaving me weird things inside?”
+
+#SAY.Flowchart.278.
+Guy: “Exactly!”
+
+#SAY.Flowchart.279.
+Charlie: “...”
+
+#SAY.Flowchart.280.
+Guy: “...” (GUY CONFUSED)
+
+#SAY.Flowchart.281.
+Guy: “Oh.” (GUY SAD)
+
+#SAY.Flowchart.294.
+Charlie: “During English, you did the test SO fast I was honestly shocked.”
+
+#SAY.Flowchart.295.
+Guy: “In a good way?” (GUY HAPPY)(SFX Guy Heh.)
+
+#SAY.Flowchart.297.
+Charlie: “No. In a concerned way.” (GUY SAD)(SFX Guy Oh...)
+
+#SAY.Flowchart.296.
+Charlie: “Also, you stood in the middle of the classroom for so long. It was so distracting for everyone.” (GUY SAD)
+
+#SAY.Flowchart.298.
+Charlie: “During English, you did the test SO fast I was honestly shocked.”
+
+#SAY.Flowchart.299.
+Guy: “In a good way?” (GUY HAPPY)(SFX Guy Heh.)
+
+#SAY.Flowchart.300.
+Charlie: “No. In a concerned way.” (GUY SAD)(SFX Guy Oh...)
+
+#SAY.Flowchart.301.
+Charlie: “Also, you made such a fuss to the teacher that you distracted everyone taking the test!” (GUY SAD)
+
+#SAY.Flowchart.303.
+Charlie: “And that poem of yours...” (GUY NEUTRAL)
+
+#SAY.Flowchart.304.
+Charlie: “God.”
+
+#SAY.Flowchart.318.
+Charlie: “Where do I even begin...”
+
+#SAY.Flowchart.317.
+Guy: “It’s the culmination of all of our special moments and my deepest innermost feelings about you!” (GUY HAPPY)
+
+#SAY.Flowchart.316.
+Charlie: “I’ll be straightforward:”
+
+#SAY.Flowchart.315.
+Charlie: “It’s a creepy poem.”
+
+#SAY.Flowchart.314.
+Guy: “HOW?” (GUY SHOCK)
+
+#SAY.Flowchart.313.
+Charlie: “Those weren’t special moments or thoughtful details about me!”
+
+#SAY.Flowchart.312.
+Charlie: “You are glorifying all of your creepy moves you made on me today! You’ve documented them in that poem!”
+
+#SAY.Flowchart.311.
+Charlie: “What was 'romantic' to you was NOT for me.”
+
+#SAY.Flowchart.310.
+Guy: “But it even rhymes!” (GUY CONFUSED)(SFX Guy Huh?)
+
+#SAY.Flowchart.309.
+Charlie: "Wow, you know how to rhyme? CONGRATULATIONS."
+
+#SAY.Flowchart.308.
+Guy: "Thanks—wait..." (SFX Guy Haha!) (GUY HAPPY)
+
+#SAY.Flowchart.307.
+Guy: "That was sarcasm..." (SFX Guy Oh...)(GUY SAD)
+
+#SAY.Flowchart.306.
+Charlie: “Do you see how your poem would just remind me of how awful and uncomfortable today was?”
+
+#SAY.Flowchart.305.
+Poem16
+
+#SAY.Flowchart.326.
+Charlie: “Also, that line from A Midsummer Night’s Dream? The last one from your poem that you referenced?”
+
+#SAY.Flowchart.327.
+Charlie: “You could definitely try to listen to it more.”
+
+#SAY.Flowchart.328.
+Guy: “Wait, I just picked it out because it was cool and it rhymed!” (GUY SHOCK)
+
+#SAY.Flowchart.329.
+Charlie: “...It basically means to use your head more. Please do that.”
+
+#SAY.Flowchart.332.
+Charlie: “Also, that line from Romeo and Juliet? The last one from your poem that you referenced?”
+
+#SAY.Flowchart.333.
+Charlie: “You do realize that’s the end of the play?”
+
+#SAY.Flowchart.334.
+Guy: “Uh...yes...?” (GUY CONFUSED)
+
+#SAY.Flowchart.335.
+Charlie: “AFTER THEY BOTH DIE?”
+
+#SAY.Flowchart.340.
+Guy: “OH.” (GUY SHOCK)
+
+#SAY.Flowchart.339.
+Guy: “I just picked it out because it sounded cool...Romeo sounded so edgy!”
+
+#SAY.Flowchart.338.
+Guy: “I thought it would make me sound thoughtful...” (GUY SAD)
+
+#SAY.Flowchart.337.
+Charlie: “It really, really didn’t. Just do the English readings. Please.”
+
+#SAY.Flowchart.336.
+Charlie: “Also, that’s not even Romeo’s lines—HE IS DEAD.”(GUY SHOCK)
+
+#SAY.Flowchart.342.
+Charlie: “Also, that line from Macbeth? The last one from your poem that you referenced?”
+
+#SAY.Flowchart.349.
+Charlie: “You do realize that it’s a TRAGEDY?”
+
+#SAY.Flowchart.343.
+Guy: “I just picked it out because it sounded romantic...it’s a quote about love, right?”(GUY CONFUSED)
+
+#SAY.Flowchart.344.
+Charlie: “Macbeth says this after murdering Duncan.”(GUY NEUTRAL)
+
+#SAY.Flowchart.345.
+Charlie: “And murdering Duncan's servants.” (GUY CONFUSED)
+
+#SAY.Flowchart.346.
+Charlie: “He is COVERED IN BLOOD.” (GUY SHOCK)
+
+#SAY.Flowchart.347.
+Guy: “O-Oh...” (GUY SAD)(SFX Guy Oh...)
+
+#SAY.Flowchart.348.
+Charlie: “Just do the English readings. Please.” (SFX CHARLIE Sigh)
+
+#SAY.Flowchart.376.
+Charlie: “Do you understand now that what you did was creepy, disrespectful, and wrong?
+
+#SAY.Flowchart.377.
+Guy: “I...yeah. I do.”(GUY SAD)
+
+#SAY.Flowchart.378.
+Guy: “I’m sorry.”
+
+#SAY.Flowchart.379.
+Charlie: “...”
+
+#SAY.Flowchart.380.
+Charlie: “I need to go to my robotics club meeting now.”
+
+#SAY.Flowchart.381.
+{i}He nods at me, avoiding my gaze. I take a deep breath and walk past him.{/i}(SFX CHARLIE Sigh)
+
+#SAY.Flowchart.382.
+{i}I have no idea what he meant by a 'good ending', but maybe it’s the good end for him too.{/i}
+
+#SAY.Flowchart.383.
+{i}But whatever—all I know is that this is definitely MY good ending.{/i}
+
+#SAY.Flowchart.384.
+{b}THE END - Good Ending{/b}
+
+#SAY.Flowchart.359.
+Charlie: “Do you understand now that what you did was creepy, disrespectful, and wrong?
+
+#SAY.Flowchart.361.
+Guy: “...not really? Haha!” (SFX Guy Haha!) (GUY CONFUSED)
+
+#SAY.Flowchart.375.
+Charlie: “No! I don’t want you to talk to me anymore! Just leave me alone, or else I’m gonna—”
+
+#SAY.Flowchart.374.
+Guy: “OHHHHH.” (GUY HAPPY)
+
+#SAY.Flowchart.373.
+Charlie: “Do you get it now?”
+
+#SAY.Flowchart.372.
+Guy: “Heh. I got you all wrong!” (GUY CONFIDENT)
+
+#SAY.Flowchart.371.
+Guy: “You aren’t the cold type. You’re like, into being mean to me! Wow!”
+
+#SAY.Flowchart.370.
+Charlie: “WHAT.”
+
+#SAY.Flowchart.369.
+Guy: “Looks like I’ll need to restart this route and take a different approach.”
+
+#SAY.Flowchart.368.
+Charlie: “LITERALLY DON’T.”
+
+#SAY.Flowchart.367.
+Guy: “Look at me...I’m changing for the better. I’m EVOLVING!”
+
+#SAY.Flowchart.366.
+Guy: ”I’ll try harder tomorrow with the correct strategy to get your good ending!” (GUY HAPPY)
+
+#SAY.Flowchart.365.
+{i}He smiles like a delusional idiot and skips to the exit of the rooftop, leaving me defeated.{/i}
+
+#SAY.Flowchart.364.
+{i}I don't know much about what he was talking about with endings...{/i}
+
+#SAY.Flowchart.363.
+{i}...but this definitely feels like a bad ending for me.{/i}
+
+#SAY.Flowchart.362.
+{b}THE END - Bad Ending{/b}
+
+#CHARACTER.Charlie
+Charlie
+
+#CHARACTER.Guy
+Guy
+
