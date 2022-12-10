@@ -686,6 +686,7 @@ GameObject:
   - component: {fileID: 979671059}
   - component: {fileID: 979671058}
   - component: {fileID: 979671057}
+  - component: {fileID: 979671065}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1978,12 +1979,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 506
     y: 234
-    width: 82.65306
+    width: 106.400734
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 35
-  blockName: Photo
+  blockName: PhotoWall
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -2066,8 +2067,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 205.9508
-    y: 323.2295
+    x: 247.5091
+    y: 287.60815
     width: 118.274574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2105,8 +2106,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -86
-    y: 270
+    x: 285.0574
+    y: 167.58835
     width: 91.55844
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2139,6 +2140,7 @@ MonoBehaviour:
   - {fileID: 979670935}
   - {fileID: 979670991}
   - {fileID: 979670990}
+  - {fileID: 979671065}
   suppressAllAutoSelections: 0
 --- !u!114 &979670948
 MonoBehaviour:
@@ -5582,6 +5584,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemId: 287
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 979670953}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &979671065
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 295
   indentLevel: 0
   targetFlowchart: {fileID: 0}
   targetBlock: {fileID: 979670953}
