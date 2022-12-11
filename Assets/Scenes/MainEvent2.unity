@@ -278,6 +278,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3517490593215803343, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
   m_PrefabInstance: {fileID: 194979329}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &194979331 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 616917824985275062, guid: bba024afe6cdc524b9428a82f9a733a3, type: 3}
+  m_PrefabInstance: {fileID: 194979329}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &243283954
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -744,6 +755,27 @@ GameObject:
   - component: {fileID: 652266349}
   - component: {fileID: 652266348}
   - component: {fileID: 652266347}
+  - component: {fileID: 652266351}
+  - component: {fileID: 652266354}
+  - component: {fileID: 652266353}
+  - component: {fileID: 652266352}
+  - component: {fileID: 652266356}
+  - component: {fileID: 652266355}
+  - component: {fileID: 652266371}
+  - component: {fileID: 652266370}
+  - component: {fileID: 652266369}
+  - component: {fileID: 652266368}
+  - component: {fileID: 652266367}
+  - component: {fileID: 652266366}
+  - component: {fileID: 652266365}
+  - component: {fileID: 652266364}
+  - component: {fileID: 652266363}
+  - component: {fileID: 652266362}
+  - component: {fileID: 652266361}
+  - component: {fileID: 652266360}
+  - component: {fileID: 652266359}
+  - component: {fileID: 652266358}
+  - component: {fileID: 652266357}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -782,7 +814,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 70.477615
     y: 99.57774
-    width: 104
+    width: 101.70068
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -811,11 +843,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -48.54174, y: 23.297562}
+  scrollPos: {x: 650.4497, y: -832.1988}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 459.66666
-  zoom: 1
+  zoom: 0.49
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -823,9 +855,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 652266091}
+  - {fileID: 652266127}
   selectedCommands:
-  - {fileID: 652266346}
+  - {fileID: 652266124}
   variables:
   - {fileID: 652266316}
   - {fileID: 652266241}
@@ -931,7 +963,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CCHAAAAARLIEEEEEEEE!\u201D(CHARLIE UNCOMFY)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -958,7 +990,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 780.30505
     y: 282.80768
-    width: 104
+    width: 100.34013
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -986,8 +1018,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 519.76416
-    y: 275.43176
-    width: 95.33333
+    y: 277.75735
+    width: 92.176865
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1123,7 +1155,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 626.36005
     y: 190.64406
-    width: 152
+    width: 143.87755
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1210,7 +1242,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 641.6724
     y: 106.51068
-    width: 116
+    width: 111.22449
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1296,7 +1328,7 @@ MonoBehaviour:
     before lunch, she should\u2019ve entered from here where I was waiting, but...oh
     well!\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1380,7 +1412,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CShe\u2019s gonna LOVE this!\u201D(SFX GUY Haha!)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1405,9 +1437,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 476.1457
-    y: 105.72753
-    width: 120.666664
+    x: 474.22263
+    y: 107.65061
+    width: 116.666664
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1520,7 +1552,7 @@ MonoBehaviour:
     and raise affection points! Now which sandwich should I get for her...\u201D(SFX
     GUY Hmm)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1688,7 +1720,7 @@ MonoBehaviour:
     of any clubs. I can use this time to deliver the letter and learn more about
     her to prepare the perfect gift!\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1718,7 +1750,7 @@ MonoBehaviour:
     classic. To max out Charlie\u2019s affection points, I should also get her a
     gift since the sandwich part of this event was a bust.\u201D (SFX Guy Haha!)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1747,7 +1779,7 @@ MonoBehaviour:
     work. But I need to guarantee Charlie's good ending. Not to mention, I need to
     trigger the final event for my confession to even happen.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1774,7 +1806,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 646.7262
     y: 1582.33
-    width: 104
+    width: 101.70068
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1889,7 +1921,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CI\u2019m done here. Good luck.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1944,7 +1976,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CWell, there goes my lunch period...\u201D(CHARLIE NEUTRAL,
     SFX Girl sigh)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1971,7 +2003,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CBut...it was pretty helpful, right?\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2140,7 +2172,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CGod, this was pointless. Last time I ever try to help
     anyone...\u201D(CHARLIE ANGRY)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2167,7 +2199,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'Guy: "Trying to GET TO KNOW YOU! (SFX Guy Haha!)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2194,7 +2226,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CYeah, I was trying.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2334,7 +2366,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CI\u2019m done here. Good luck.\u201D(CHARLIE UNCOMFY)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2390,7 +2422,7 @@ MonoBehaviour:
     {i}A Midsummer Night's Dream{/i}. I think I'd survive life regardless.\u201D(CHARLIE
     UNCOMFY, SFX Girl Uh...)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2418,7 +2450,7 @@ MonoBehaviour:
   storyText: "Guy: \u201CHope you learned a lot from me. Sometimes you have to learn
     from the mistakes of others, right? Life's a hard path to walk alone after all...\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2557,7 +2589,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CI\u2019m done here. Good luck.\u201D(CHARLIE NEUTRAL)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2612,7 +2644,7 @@ MonoBehaviour:
   storyText: 'Guy: "Yeah. Hope you learned a lot from that just now...sometimes it
     helps to follow a good example, you know?"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2640,7 +2672,7 @@ MonoBehaviour:
   storyText: 'Charlie: "Uh, yeah. Ok. Gonna ignore you said that."(CHARLIE UNCOMFY,
     SFX Girl Uh...)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2668,7 +2700,7 @@ MonoBehaviour:
   storyText: '(IF MAJORITY RIGHT)Charlie: "Hmm. Good job, I guess. Looks like you
     might actually pass this test."(CHARLIE NEUTRAL)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3597,7 +3629,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 958.26654
     y: 1427.4617
-    width: 79.333336
+    width: 77.210884
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3612,6 +3644,7 @@ MonoBehaviour:
   - {fileID: 652266133}
   - {fileID: 652266132}
   - {fileID: 652266131}
+  - {fileID: 652266360}
   - {fileID: 652266130}
   - {fileID: 652266129}
   - {fileID: 652266128}
@@ -3633,7 +3666,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 698.06696
     y: 1422.9501
-    width: 152
+    width: 145.2381
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3646,7 +3679,9 @@ MonoBehaviour:
   - {fileID: 652266143}
   - {fileID: 652266142}
   - {fileID: 652266141}
+  - {fileID: 652266361}
   - {fileID: 652266140}
+  - {fileID: 652266359}
   - {fileID: 652266139}
   - {fileID: 652266138}
   - {fileID: 652266137}
@@ -3669,7 +3704,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 545.9717
     y: 1423.526
-    width: 138.66666
+    width: 132.9932
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3683,7 +3718,9 @@ MonoBehaviour:
   - {fileID: 652266150}
   - {fileID: 652266149}
   - {fileID: 652266148}
+  - {fileID: 652266362}
   - {fileID: 652266147}
+  - {fileID: 652266358}
   - {fileID: 652266146}
   - {fileID: 652266145}
   - {fileID: 652266144}
@@ -3703,9 +3740,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 311.14825
+    x: 309.10745
     y: 1427.9958
-    width: 131.33334
+    width: 126.190475
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3717,9 +3754,11 @@ MonoBehaviour:
   - {fileID: 652266341}
   - {fileID: 652266159}
   - {fileID: 652266157}
+  - {fileID: 652266363}
   - {fileID: 652266158}
   - {fileID: 652266156}
   - {fileID: 652266155}
+  - {fileID: 652266357}
   - {fileID: 652266154}
   - {fileID: 652266153}
   - {fileID: 652266152}
@@ -4047,7 +4086,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 619.95526
     y: 1324.5243
-    width: 152
+    width: 145.2381
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5086,7 +5125,7 @@ MonoBehaviour:
     as a person, doing human actions it wouldn't actually be able to do in reality.\u201D
     (WRONG++)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5113,7 +5152,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 644.90643
     y: 1216.8947
-    width: 95.33333
+    width: 93.537415
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5122,6 +5161,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266365}
   - {fileID: 652266186}
   - {fileID: 652266185}
   - {fileID: 652266177}
@@ -5144,7 +5184,7 @@ MonoBehaviour:
   storyText: 'Charlie: "Um. I really didn''t ask...and that''s definitely not related
     to the test."(CHARLIE CONFUSED)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5172,7 +5212,7 @@ MonoBehaviour:
   storyText: 'Guy: "Oh. But not like, lonely alone. I''m not lonely. Just alone.
     Haha! Unless..."'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5201,7 +5241,7 @@ MonoBehaviour:
     you know? I mean, sometimes water just comes out of my eye too when I think about
     how alone I am." (PERSONAL++)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5228,7 +5268,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 807.6434
     y: 1186.485
-    width: 108.66667
+    width: 105.78231
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5237,6 +5277,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266364}
   - {fileID: 652266190}
   - {fileID: 652266189}
   - {fileID: 652266188}
@@ -5314,7 +5355,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 486.04367
     y: 1198.7167
-    width: 88
+    width: 86.734695
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5449,7 +5490,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 647.5623
     y: 1135.6952
-    width: 110
+    width: 107.14285
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6082,7 +6123,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 821.4418
     y: 1013.3297
-    width: 108
+    width: 104.42177
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6169,7 +6210,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 655.8411
     y: 1050.6273
-    width: 94.66667
+    width: 92.176865
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6227,7 +6268,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CIncorrect. It's an allusion to greek mythology.\u201D
     (WRONG++)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6254,7 +6295,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 495.1443
     y: 1014.6322
-    width: 87.33333
+    width: 85.374146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6263,6 +6304,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266366}
   - {fileID: 652266214}
   - {fileID: 652266213}
   - {fileID: 652266184}
@@ -6362,7 +6404,7 @@ MonoBehaviour:
     pursues the griffin; the mild hind / Makes speed to catch the tiger''{/i}?"(CHARLIE
     NEUTRAL)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6389,7 +6431,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 643.89386
     y: 968.99677
-    width: 109.33333
+    width: 105.78231
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6399,6 +6441,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 652266219}
+  - {fileID: 652266367}
   - {fileID: 652266218}
   - {fileID: 652266217}
   - {fileID: 652266216}
@@ -6420,7 +6463,7 @@ MonoBehaviour:
   storyText: 'Charlie: "Don''t answer that. Let''s stick to studying, please."(CHARLIE
     UNCOMFY)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6448,7 +6491,7 @@ MonoBehaviour:
   storyText: 'Charlie: "Uh...no...? What does that even supposed to mean?" (CHARLIE
     CONFUSED)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6477,7 +6520,7 @@ MonoBehaviour:
     you into grammar stuff? Cause I am too haha unless you aren''t. Then I''m not."
     (PERSONAL 1 -> PERSONAL++)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6532,7 +6575,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CWrong. That's not even the right play!\u201D (WRONG
     1 -> WRONG++)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6587,7 +6630,7 @@ MonoBehaviour:
   storyText: 'Charlie: "Correct. Looks like you actually know what we''ve been reading
     in class..." (RIGHT 1 -> RIGHT++)'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6614,7 +6657,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 793.9915
     y: 855.6768
-    width: 106.66667
+    width: 103.06122
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6623,6 +6666,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266368}
   - {fileID: 652266223}
   - {fileID: 652266222}
   - {fileID: 652266221}
@@ -6645,7 +6689,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 653.2824
     y: 872.4511
-    width: 93.33333
+    width: 90.81633
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6654,6 +6698,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266369}
   - {fileID: 652266225}
   - {fileID: 652266224}
   - {fileID: 652266201}
@@ -6675,7 +6720,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 490.30655
     y: 871.7805
-    width: 86
+    width: 84.0136
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6684,6 +6729,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266370}
   - {fileID: 652266227}
   - {fileID: 652266226}
   - {fileID: 652266202}
@@ -6844,7 +6890,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CWhich character states that the 'course of true love
     never did run smooth', and to whom?\"(CHARLIE NEUTRAL)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6871,7 +6917,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 648.8046
     y: 770.6025
-    width: 108
+    width: 104.42177
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6881,6 +6927,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 652266237}
+  - {fileID: 652266371}
   - {fileID: 652266233}
   - {fileID: 652266232}
   - {fileID: 652266231}
@@ -6975,7 +7022,7 @@ MonoBehaviour:
     I highly doubt you remember anything for this unit anyway.\u201D(CHARLIE NEUTRAL,
     SFX GIRL sigh)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7002,7 +7049,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CDo you think we could study together? Please?\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7056,7 +7103,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CUh-huh.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7083,7 +7130,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CUhhhhh my brain is like. SO broken.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7110,7 +7157,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CDid you just say \u2018Begin Event\u2019 out loud\u2014\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7137,7 +7184,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201C...\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7164,7 +7211,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201C...\u201D(CHARLIE CONFUSED, SFX GIRL uh...)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7219,7 +7266,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CFine, I\u2019ll let you study with me...\u201D(SFX GIRL
     sigh)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7273,7 +7320,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CThat would be way more distracting.\u201D(CHARLIE NEUTRAL)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7301,7 +7348,7 @@ MonoBehaviour:
   storyText: "Guy: \u201CI mean...if you don\u2019t let me, that\u2019s cool...I\u2019ll
     just sit here and absorb the knowledge I guess.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7329,7 +7376,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CSomehow I believe you and don\u2019t at the same time.\u201D(CHARLIE
     NEUTRAL)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7357,7 +7404,7 @@ MonoBehaviour:
   storyText: "Guy: \u201CPlease help me. You\u2019re the smartest girl in the grade
     and I totally forgot to study whatever is on those flashcards!\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7413,7 +7460,7 @@ MonoBehaviour:
     I highly doubt you remember anything for this unit anyway.\u201D(CHARLIE NEUTRAL,
     SFX GIRL sigh)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7440,7 +7487,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CUh...\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7468,7 +7515,7 @@ MonoBehaviour:
   storyText: "Charlie: \u201CThat was patronizing. And also, who says I\u2019m afraid
     of anything?\"(CHARLIE ANGRY)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7496,7 +7543,7 @@ MonoBehaviour:
   storyText: "Guy: \u201CI\u2019m just saying...don\u2019t be afraid to let others
     in.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7523,7 +7570,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CIt\u2019s a choice.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7551,7 +7598,7 @@ MonoBehaviour:
   storyText: "Guy: \u201CI know you\u2019re the lone wolf type and all, but always
     being by yourself is\u2014\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7578,7 +7625,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CThat was really cheesy.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7606,7 +7653,7 @@ MonoBehaviour:
   storyText: "Guy: \u201CIf you want to go fast, go alone. If you want to go far,
     go together...\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7633,7 +7680,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 789.11804
     y: 663.1381
-    width: 83.33333
+    width: 81.29252
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7642,6 +7689,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266355}
   - {fileID: 652266250}
   - {fileID: 652266249}
   - {fileID: 652266248}
@@ -7669,7 +7717,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 661.29254
     y: 674.33417
-    width: 72.666664
+    width: 71.76871
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7678,6 +7726,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266356}
   - {fileID: 652266257}
   - {fileID: 652266256}
   - {fileID: 652266255}
@@ -7701,9 +7750,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 493.281
+    x: 496.91736
     y: 660.1517
-    width: 90.66667
+    width: 88.09524
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7712,13 +7761,16 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266354}
   - {fileID: 652266266}
   - {fileID: 652266265}
   - {fileID: 652266264}
   - {fileID: 652266263}
   - {fileID: 652266262}
+  - {fileID: 652266353}
   - {fileID: 652266261}
   - {fileID: 652266260}
+  - {fileID: 652266352}
   - {fileID: 652266259}
   - {fileID: 652266258}
   - {fileID: 652266236}
@@ -7814,7 +7866,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CI don\u2019t know. I kind of prefer to study alone.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7842,7 +7894,7 @@ MonoBehaviour:
   storyText: "Guy: \u201CLet me help you out! We have that test soon right? It\u2019ll
     be good for both of us.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7927,7 +7979,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201C...Sure.\u201D(CHARLIE UNCOMFY)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -7997,7 +8049,7 @@ MonoBehaviour:
   storyText: "Guy: \u201COh...I didn\u2019t even know we had a cafe. I guess this
     sandwich for me I guess?\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8045,7 +8097,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 650.2511
     y: 583.56885
-    width: 89.33333
+    width: 86.734695
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8054,8 +8106,8 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 652266280}
   - {fileID: 652266330}
+  - {fileID: 652266280}
   - {fileID: 652266277}
   - {fileID: 652266347}
   - {fileID: 652266329}
@@ -8127,7 +8179,7 @@ MonoBehaviour:
   storyText: "Charlie: \"And third, please don't call me 'distinct and quirky'. I
     promise you, it's not as flattering as you think it is.\u201D(CHARLIE ANGRY)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8156,7 +8208,7 @@ MonoBehaviour:
     there are better than the ones here. Second, sunbutter is a peanut butter alternative
     using sunflower seeds.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8185,7 +8237,7 @@ MonoBehaviour:
     I even made sure to get the sunbutter. I don't even know what that IS but it's
     distinct and quirky like you...\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8212,7 +8264,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201COoh...but I already got my sandwich.\u201D(CHARLIE NEUTRAL)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8239,7 +8291,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201C...\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8268,7 +8320,7 @@ MonoBehaviour:
     I threw those notes away...did you look through the trash for them?\"(CHARLIE
     CONFUSED)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8295,7 +8347,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CBut you...on your notes! There were fish on it!\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8322,7 +8374,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CEmm...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8349,7 +8401,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CUm. Ok.\u201D(CHARLIE CONFUSED)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8376,7 +8428,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Guy: \u201CWHAT?! I...I see. I will remember this.\u201D"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8403,7 +8455,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Charlie: \u201CUhh...but I\u2019m a vegetarian.\u201D(CHARLIE NEUTRAL)"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8492,8 +8544,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 791.4589
-    y: 486.64178
-    width: 81.333336
+    y: 482.56018
+    width: 81.29252
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8524,9 +8576,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 655.2051
+    x: 652.8795
     y: 487.05978
-    width: 80
+    width: 78.57143
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8559,7 +8611,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 458.00723
     y: 488.29846
-    width: 150
+    width: 143.87755
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9333,8 +9385,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 628.90186
-    y: 387.38034
-    width: 138.66666
+    y: 385.33954
+    width: 132.9932
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9343,6 +9395,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 652266351}
   - {fileID: 652266322}
   - {fileID: 652266318}
   - {fileID: 652266321}
@@ -9891,7 +9944,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 273.98932
     y: 180.8806
-    width: 116
+    width: 112.58504
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9919,7 +9972,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 276.4283
     y: 102.624176
-    width: 115.333336
+    width: 111.22449
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9947,7 +10000,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 275.4943
     y: 28.545326
-    width: 114
+    width: 109.863945
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10009,7 +10062,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: 'Charlie: "Uh, no thanks. That kind of makes me uncomfortable."'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -10067,7 +10120,7 @@ MonoBehaviour:
 
 '
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1157843994}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -10095,7 +10148,7 @@ MonoBehaviour:
   storyText: 'Guy: "You don''t owe me anything or need to pay me back. Just think
     of it as me looking out for your health."'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -10123,7 +10176,7 @@ MonoBehaviour:
   storyText: 'Guy: "I got you something for lunch! You don''t have to pay me back!
     Just take it."'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 194979331}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -10152,7 +10205,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10212,7 +10265,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10242,7 +10295,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: d16b29f7843e0e149b2e0faaa81533d8, type: 3}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10332,7 +10385,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: d16b29f7843e0e149b2e0faaa81533d8, type: 3}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10362,7 +10415,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10392,7 +10445,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 470ae9b11fd2d0449882d2a6f24c0366, type: 3}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10422,7 +10475,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: d16b29f7843e0e149b2e0faaa81533d8, type: 3}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10452,7 +10505,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10482,7 +10535,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: d16b29f7843e0e149b2e0faaa81533d8, type: 3}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10512,7 +10565,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10542,7 +10595,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: d16b29f7843e0e149b2e0faaa81533d8, type: 3}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10572,7 +10625,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10602,7 +10655,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -10662,7 +10715,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1157843994}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 243283956}
@@ -11381,6 +11434,636 @@ MonoBehaviour:
   indentLevel: 0
   soundClip: {fileID: 8300000, guid: 7ab43c425053fab48a515e5f6addfef2, type: 3}
   volume: 1
+  waitUntilFinished: 0
+--- !u!114 &652266351
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 281
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266352
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 284
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266353
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 283
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266354
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 282
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266355
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 286
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266356
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 285
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266357
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 301
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266358
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 300
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266359
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 299
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266360
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 298
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266361
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 297
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266362
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 296
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266363
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 295
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266364
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 294
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266365
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 293
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266366
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 292
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266367
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 291
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266368
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 290
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266369
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 289
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266370
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 288
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 243283956}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &652266371
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 652266089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 287
+  indentLevel: 0
+  display: 2
+  stage: {fileID: 0}
+  character: {fileID: 1157843994}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 0}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 0}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
   waitUntilFinished: 0
 --- !u!1001 &1157843992
 PrefabInstance:
