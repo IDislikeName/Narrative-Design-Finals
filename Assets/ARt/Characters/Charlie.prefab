@@ -45,13 +45,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Charlie
-  nameColor: {r: 1, g: 1, b: 1, a: 1}
+  nameColor: {r: 0.9716981, g: 0.28112015, b: 0.7111969, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: d16b29f7843e0e149b2e0faaa81533d8, type: 3}
-  - {fileID: 21300000, guid: 470ae9b11fd2d0449882d2a6f24c0366, type: 3}
-  - {fileID: 21300000, guid: 1baeca541579b7543b90dad4247f79e2, type: 3}
+  - {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  - {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
   - {fileID: 21300000, guid: 949f4fdba63bd4b42bb73bbd82a34aac, type: 3}
+  - {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  - {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
