@@ -794,25 +794,21 @@ GameObject:
   - component: {fileID: 1696228341}
   - component: {fileID: 1696228340}
   - component: {fileID: 1696228339}
-  - component: {fileID: 1696228338}
   - component: {fileID: 1696228337}
   - component: {fileID: 1696228336}
   - component: {fileID: 1696228335}
   - component: {fileID: 1696228334}
   - component: {fileID: 1696228333}
-  - component: {fileID: 1696228332}
   - component: {fileID: 1696228331}
   - component: {fileID: 1696228330}
   - component: {fileID: 1696228329}
   - component: {fileID: 1696228328}
   - component: {fileID: 1696228327}
-  - component: {fileID: 1696228326}
   - component: {fileID: 1696228325}
   - component: {fileID: 1696228324}
   - component: {fileID: 1696228323}
   - component: {fileID: 1696228322}
   - component: {fileID: 1696228321}
-  - component: {fileID: 1696228320}
   - component: {fileID: 1696228319}
   - component: {fileID: 1696228318}
   - component: {fileID: 1696228317}
@@ -905,7 +901,6 @@ GameObject:
   - component: {fileID: 1696228426}
   - component: {fileID: 1696228427}
   - component: {fileID: 1696228428}
-  - component: {fileID: 1696228441}
   - component: {fileID: 1696228440}
   - component: {fileID: 1696228439}
   - component: {fileID: 1696228438}
@@ -932,6 +927,18 @@ GameObject:
   - component: {fileID: 1696228448}
   - component: {fileID: 1696228447}
   - component: {fileID: 1696228455}
+  - component: {fileID: 1696228456}
+  - component: {fileID: 1696228458}
+  - component: {fileID: 1696228457}
+  - component: {fileID: 1696228459}
+  - component: {fileID: 1696228461}
+  - component: {fileID: 1696228460}
+  - component: {fileID: 1696228462}
+  - component: {fileID: 1696228463}
+  - component: {fileID: 1696228464}
+  - component: {fileID: 1696228465}
+  - component: {fileID: 1696228467}
+  - component: {fileID: 1696228466}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -954,7 +961,7 @@ MonoBehaviour:
   itemId: 73
   indentLevel: 0
   storyText: "{i}A poem? That\u2019s perfect! She LOVES those. I could write an excellent
-    one for Charlie and read it out to her when I confess after school...{/i}"
+    one for Charlie and give it to her when I confess after school...{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -981,8 +988,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 72
   indentLevel: 0
-  storyText: "English Teacher: \u201C...Sure. Write a poem using the literary devices
-    everyone\u2019s learned so far. Take a crack at that.\u201D"
+  storyText: "\u201C...Sure. Write a poem using the literary devices everyone\u2019s
+    learned so far. Take a crack at that.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1009,7 +1016,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 0
-  storyText: "Guy: \u201CThat\u2019s more like it. So, a mini-game?\u201D"
+  storyText: "\u201CThat\u2019s more like it. So, a mini-game?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1036,8 +1043,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: "English Teacher: \u201CIf you\u2019re so eager to get more work done,
-    you can get a head start on our class exercise?\u201D"
+  storyText: "\u201CIf you\u2019re so eager to get more work done, you can get a
+    head start on our class exercise?\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1064,7 +1071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 69
   indentLevel: 0
-  storyText: "Guy: \u201CThere\u2019s gotta be something you have for me! Side quest!
+  storyText: "\u201CThere\u2019s gotta be something you have for me! Side quest!
     You know?\u201D"
   description: 
   character: {fileID: 290648915}
@@ -1092,8 +1099,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 68
   indentLevel: 0
-  storyText: "English Teacher: \u201C...This is a class. You had a test. I don\u2019t
-    think much else is supposed to happen here.\u201D"
+  storyText: "\u201C...This is a class. You had a test. I don\u2019t think much else
+    is supposed to happen here.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1120,7 +1127,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 67
   indentLevel: 0
-  storyText: "Guy: \u201CIs there anything else to do here?\u201D"
+  storyText: "\u201CIs there anything else to do here?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1148,7 +1155,7 @@ MonoBehaviour:
   itemId: 66
   indentLevel: 0
   storyText: "{i}A poem? That\u2019s perfect! She LOVES those. I could write an excellent
-    one for Charlie and read it out to her when I confess after school...{/i}"
+    one for Charlie and give it to her when I confess after school...{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1175,8 +1182,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 65
   indentLevel: 0
-  storyText: "English Teacher: \u201CLet\u2019s begin our class exercise. We\u2019re
-    gonna write a poem using the literary devices we\u2019ve learned so far.\u201D"
+  storyText: "\u201CLet\u2019s begin our class exercise. We\u2019re gonna write a
+    poem using the literary devices we\u2019ve learned so far.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1203,9 +1210,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 64
   indentLevel: 0
-  storyText: "{i}He looks my way. It must be sad to only have one student be as efficient
-    as me. Even though grades don\u2019t matter in a game like this, it feels good
-    to give him hope.{/i}"
+  storyText: '{i}He looks my way. It must be sad to only have one student be as efficient
+    as me.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1232,8 +1238,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 63
   indentLevel: 0
-  storyText: "English Teacher: \u201CHopefully that wasn\u2019t too difficult for
-    folks. I think at least some of us will pass...and for others, I can only pray.\u201D"
+  storyText: "\u201CHopefully that wasn\u2019t too difficult for folks. Some of us
+    will pass...and for others, I can only pray.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1260,9 +1266,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: '{i}After 42 minutes, the entire class has turned in their tests. It
-    was a really, really long and boring 42 minutes. I just stared blankly at nothing
-    in particular the whole time.{/i}'
+  storyText: '{i}After 42 minutes, the entire class has turned in their tests.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1291,7 +1295,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1078.135
     y: 460.7212
-    width: 70.408165
+    width: 70.554985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1328,7 +1332,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 817.3298
     y: 465.41995
-    width: 74.4898
+    width: 74.15211
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1340,11 +1344,13 @@ MonoBehaviour:
   - {fileID: 1696228427}
   - {fileID: 1696228448}
   - {fileID: 1696228300}
+  - {fileID: 1696228464}
   - {fileID: 1696228449}
   - {fileID: 1696228431}
   - {fileID: 1696228299}
   - {fileID: 1696228451}
   - {fileID: 1696228298}
+  - {fileID: 1696228465}
   - {fileID: 1696228297}
   - {fileID: 1696228296}
   - {fileID: 1696228422}
@@ -1413,7 +1419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 57
   indentLevel: 0
-  storyText: "English Teacher: \u201CI literally have no idea what that means.\u201D"
+  storyText: "\u201CI literally have no idea what that means.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1440,7 +1446,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 56
   indentLevel: 0
-  storyText: "Guy: \u201CReal-time events suck.\u201D"
+  storyText: "\u201CReal-time events suck.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1467,7 +1473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 55
   indentLevel: 0
-  storyText: "English Teacher: \u201CGo sit back down and wait.\u201D"
+  storyText: "\u201CGo sit back down and wait.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1494,7 +1500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 54
   indentLevel: 0
-  storyText: "Guy: \u201CWhy didn\u2019t it work?\u201D"
+  storyText: "\u201CWhy didn\u2019t it work?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1521,7 +1527,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 53
   indentLevel: 0
-  storyText: "Guy: \u201C...\u201D"
+  storyText: " \u201C...\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1548,7 +1554,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 52
   indentLevel: 0
-  storyText: "English Teacher: \u201C...\u201D"
+  storyText: "\u201C...\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1577,7 +1583,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 920.8936
     y: 382.5628
-    width: 122.44898
+    width: 122.9702
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1637,7 +1643,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 49
   indentLevel: 0
-  storyText: "Guy: \u201C42 minutes?! God. Time to skip this part!\u201D"
+  storyText: "\u201C42 minutes?! God. Time to skip this part!\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1664,8 +1670,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 48
   indentLevel: 0
-  storyText: "English Teacher: \u201CUh, you have 42 minutes left. Did you even read
-    the questions?\u201D"
+  storyText: "\u201CUh, you have 42 minutes left. Did you even read the questions?\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -1722,7 +1727,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 943.15393
     y: 294.5015
-    width: 97.95918
+    width: 98.304214
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1813,34 +1818,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &1696228320
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696228288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 42
-  indentLevel: 0
-  storyText: "{i}EX) \u201CHippolyta, I wooed thee with my sword and won thy love
-    doing thee injuries\u201D (Act I, Scene I, Line 16).{/i}"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1696228321
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -1855,7 +1832,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 41
   indentLevel: 0
-  storyText: '{b}Question 5: Which literary device does the following example use?{/b}'
+  storyText: "{b}Question 5: Which literary device does the following example use?{/b}{i}
+    EX) \u201CHippolyta, I wooed thee with my sword and won thy love doing thee injuries\u201D
+    (Act I, Scene I, Line 16).{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1884,7 +1863,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1097.4286
     y: 161.49242
-    width: 108.16327
+    width: 108.58171
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1894,7 +1873,6 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1696228321}
-  - {fileID: 1696228320}
   - {fileID: 1696228319}
   - {fileID: 1696228318}
   - {fileID: 1696228317}
@@ -1974,34 +1952,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &1696228326
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696228288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 36
-  indentLevel: 0
-  storyText: "{i}EX) \u201CThen by your side no bed room me deny. / For, lying so,
-    Hermia, I do not lie\u2019\u201D (Act II, Scene II, Lines, 40-41).{/i}"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1696228327
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2016,7 +1966,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 35
   indentLevel: 0
-  storyText: '{b}Question 4: Which literary device does the following example use?{/b}'
+  storyText: "{b}Question 4: Which literary device does the following example use?{/b}{i}
+    EX) \u201CThen by your side no bed room me deny. / For, lying so, Hermia, I do
+    not lie\u2019\u201D (Act II, Scene II, Lines, 40-41).{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2045,7 +1997,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 856
     y: 169.00003
-    width: 109.18368
+    width: 109.60945
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2055,7 +2007,6 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1696228327}
-  - {fileID: 1696228326}
   - {fileID: 1696228325}
   - {fileID: 1696228324}
   - {fileID: 1696228323}
@@ -2135,34 +2086,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &1696228332
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696228288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 30
-  indentLevel: 0
-  storyText: "{i}EX) \u201CI give him curses, yet he gives me love / The more I hate,
-    the more he follows me\u201D (Act I, Scene I, Lines 196-198).{/i}"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1696228333
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2177,7 +2100,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 29
   indentLevel: 0
-  storyText: '{b}Question 3: Which literary device does the following example use?{/b}'
+  storyText: "{b}Question 3: Which literary device does the following example use?{/b}{i}
+    EX) \u201CI give him curses, yet he gives me love / The more I hate, the more
+    he follows me\u201D (Act I, Scene I, Lines 196-198).{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2206,7 +2131,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 618.5
     y: 154
-    width: 109.18368
+    width: 109.60945
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2216,7 +2141,6 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1696228333}
-  - {fileID: 1696228332}
   - {fileID: 1696228331}
   - {fileID: 1696228330}
   - {fileID: 1696228329}
@@ -2296,33 +2220,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &1696228338
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696228288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 24
-  indentLevel: 0
-  storyText: '{i}EX) Who does Titania fall in love with in Act III?{/i}'
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &1696228339
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2337,7 +2234,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  storyText: '{b}Question 2: Which literary device does the following example use?{/b}'
+  storyText: '{b}Question 2: Which literary device does the following example use?{/b}{i}
+    EX) Who does Titania fall in love with in Act III?{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2366,7 +2264,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 435
     y: 159
-    width: 108.16327
+    width: 108.58171
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2376,7 +2274,6 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1696228339}
-  - {fileID: 1696228338}
   - {fileID: 1696228337}
   - {fileID: 1696228336}
   - {fileID: 1696228335}
@@ -2471,7 +2368,7 @@ MonoBehaviour:
   itemId: 18
   indentLevel: 0
   storyText: '{i}No time to think! I need to write an answer, and honestly? I don''t
-    care if it''s correct. I HAVE A NEED FOR SPEED!{/i}'
+    care if it''s correct.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2498,9 +2395,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: "{b}Question 1: Which kind of irony does the following example use?{/b}{i}EX)
-    The audience knows that Puck used magic on Demetrius, but the characters don\u2019t
-    know this.{/i}"
+  storyText: "{b}Question 1: Which kind of irony does the following example use?{/b}
+    {i}EX) The audience knows that Puck used magic on Demetrius, but the characters
+    don\u2019t know this.{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2527,9 +2424,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 236
+    x: 237.386
     y: 170
-    width: 107.14286
+    width: 107.553955
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2540,6 +2437,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1696228345}
   - {fileID: 1696228344}
+  - {fileID: 1696228463}
   - {fileID: 1696228343}
   - {fileID: 1696228342}
   - {fileID: 1696228341}
@@ -2583,7 +2481,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  storyText: "Guy: \u201COh, you think? That\u2019s really nice of you\u2014\u201D"
+  storyText: "\u201COh, you think? That\u2019s really nice of you\u2014\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2610,8 +2508,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  storyText: "English Teacher: \u201CSarcasm. That was sarcasm, and you\u2019re about
-    to take a test on literary devices.\u201D"
+  storyText: "\u201CSarcasm. That was sarcasm, and you\u2019re about to take a test
+    on literary devices.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -2638,7 +2536,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 12
   indentLevel: 0
-  storyText: "English Teacher: \u201C...Good luck.\u201D"
+  storyText: "\u201C...Good luck.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -2665,7 +2563,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  storyText: '{i}Guy flips over his test paper.{/i}'
+  storyText: '{i}I flipped the test paper over to reveal the questions.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2692,8 +2590,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 10
   indentLevel: 0
-  storyText: "Guy: \u201CI don\u2019t have time for this school part of the game\u2014I
-    need to skip through this part and get to the actual point of today...ROMANCE.\u201D"
+  storyText: "\u201CI don\u2019t have time for this school part of the game\u2014I
+    need to skip through this and get to the actual point of today...ROMANCE.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2747,8 +2645,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: '{i}Forgot to do my monologue in my head. Anyway, I need to speedrun
-    this test NOW!{/i}'
+  storyText: '{i}Forgot to do my monologue in my head.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2775,8 +2672,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  storyText: "English Teacher: \u201CWell, your future looks really bright, doesn\u2019t
-    it?\u201D"
+  storyText: "\u201CYeesh! Is something bothering you, Kyle?\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -2803,7 +2699,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 0
-  storyText: "Guy: \u201CYeah, sure, ok. Let\u2019s get this over with.\u201D"
+  storyText: "\u201CYeah, sure, ok. Let\u2019s get this over with.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2830,7 +2726,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 5
   indentLevel: 0
-  storyText: "English Teacher: \u201CThis...this is school. This is what we do here.\u201D"
+  storyText: "\u201CThis...this is school. This is what we do here.\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -2857,8 +2753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: "Guy: \u201CMan, why is there so much education stuff going on in this
-    game?\u201D"
+  storyText: "\u201CMan, why is there so much education stuff going on in this game?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2913,7 +2808,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: "Guy: \u201CBarely made it!\u201D"
+  storyText: "\u201CBarely made it!\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2941,8 +2836,7 @@ MonoBehaviour:
   itemId: 1
   indentLevel: 0
   storyText: '{i}After delivering the letter, I rush back to my afternoon class:
-    English. I don''t remember the teacher''s name, but once again...he''s an NPC,
-    so it''s not important.{/i}'
+    English.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2986,7 +2880,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 203
     y: 89
-    width: 125.51021
+    width: 126.053444
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2997,7 +2891,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1696228442}
   - {fileID: 1696228361}
-  - {fileID: 1696228441}
+  - {fileID: 1696228456}
   - {fileID: 1696228440}
   - {fileID: 1696228446}
   - {fileID: 1696228360}
@@ -3008,6 +2902,11 @@ MonoBehaviour:
   - {fileID: 1696228357}
   - {fileID: 1696228356}
   - {fileID: 1696228355}
+  - {fileID: 1696228458}
+  - {fileID: 1696228457}
+  - {fileID: 1696228461}
+  - {fileID: 1696228460}
+  - {fileID: 1696228459}
   - {fileID: 1696228444}
   - {fileID: 1696228348}
   - {fileID: 1696228349}
@@ -3020,6 +2919,7 @@ MonoBehaviour:
   - {fileID: 1696228353}
   - {fileID: 1696228436}
   - {fileID: 1696228354}
+  - {fileID: 1696228462}
   - {fileID: 1696228347}
   suppressAllAutoSelections: 0
 --- !u!114 &1696228364
@@ -3035,18 +2935,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 56.586178, y: -455.43747}
+  scrollPos: {x: -731.00793, y: -732.36707}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 523.6667
-  zoom: 0.48999998
+  blockViewHeight: 423
+  zoom: 0.973
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1696228408}
   selectedCommands: []
   variables:
   - {fileID: 1696228420}
@@ -3349,7 +3250,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 938.6779
     y: 1119.3005
-    width: 102.04082
+    width: 102.41521
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3675,7 +3576,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1056.5413
     y: 1032.0048
-    width: 67.34694
+    width: 67.47174
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3855,7 +3756,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 951.3124
     y: 1031.1135
-    width: 66.32653
+    width: 66.443985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4035,7 +3936,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 842.6166
     y: 1029.5574
-    width: 65.30612
+    width: 65.41624
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4062,8 +3963,7 @@ MonoBehaviour:
   itemId: 109
   indentLevel: 0
   storyText: '{i}And for the finale, to finish off my master piece that is worthy
-    of my muse! The literary genius that will earn me a CRAZY amount of Affection
-    Points...!{/i}'
+    of my muse! The literary genius that will earn me a CRAZY amount of points...!{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4092,7 +3992,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 948.20624
     y: 937.39667
-    width: 70.408165
+    width: 70.554985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4101,6 +4001,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228466}
   - {fileID: 1696228391}
   - {fileID: 1696228384}
   - {fileID: 1696228383}
@@ -4274,7 +4175,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1040.1565
     y: 855.4504
-    width: 66.32653
+    width: 66.443985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4454,7 +4355,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 952.3877
     y: 856.2791
-    width: 65.30612
+    width: 65.41624
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4632,9 +4533,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 858.15674
+    x: 857.12897
     y: 857.9889
-    width: 64.28571
+    width: 64.38849
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4884,7 +4785,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 923.6396
     y: 769.31537
-    width: 135.7143
+    width: 136.33093
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4893,6 +4794,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228467}
   - {fileID: 1696228407}
   - {fileID: 1696228406}
   - {fileID: 1696228405}
@@ -4914,7 +4816,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  text: Her secret love of poetry <<SET VARIABLE TO A3>>
+  text: Her secret love of poetry
   description: 
   targetBlock: {fileID: 1696228412}
   hideIfVisited: 0
@@ -4939,7 +4841,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 90
   indentLevel: 0
-  text: Her special and weirdly specific dietary preferences <<SET VARIABLE TO A2>>
+  text: Her special and weirdly specific dietary preferences
   description: 
   targetBlock: {fileID: 1696228414}
   hideIfVisited: 0
@@ -5118,7 +5020,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1085.8627
     y: 680.0257
-    width: 66.32653
+    width: 66.443985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5298,7 +5200,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 956.6384
     y: 678.14795
-    width: 65.30612
+    width: 65.41624
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5476,9 +5378,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 820.8197
+    x: 819.8172
     y: 678.97894
-    width: 64.28571
+    width: 64.38849
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5504,7 +5406,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 83
   indentLevel: 0
-  text: Our moment in chemistry class <<SET VARIABLE TO A1>>
+  text: Our moment in chemistry class
   description: 
   targetBlock: {fileID: 1696228416}
   hideIfVisited: 0
@@ -5616,7 +5518,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 80
   indentLevel: 0
-  storyText: I begin my first stanza with...
+  storyText: '{i}I begin my first stanza with...{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5673,8 +5575,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 919.9055
-    y: 525.75415
-    width: 146.93878
+    y: 526.75665
+    width: 147.63617
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6220,36 +6122,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 144
   indentLevel: 0
-  storyText: '"Now, I need to go to English class before club period ends. Maybe
-    during class, I can make that gift..."'
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1696228441
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696228288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 143
-  indentLevel: 0
-  storyText: '"Putting that letter there makes me confident that I can make a gift
-    that''ll make Charlie fall for me!"'
+  storyText: '{i}Now, I need to go to English class before club period ends. Maybe
+    during class, I can make that gift...{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6493,6 +6367,313 @@ MonoBehaviour:
   itemId: 168
   indentLevel: 0
   soundClip: {fileID: 8300000, guid: 8f7f2b94762fe2d4b940240a9988615e, type: 3}
+  volume: 1
+  waitUntilFinished: 0
+--- !u!114 &1696228456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 169
+  indentLevel: 0
+  storyText: "{i}I don't remember the teacher's name, but that's ok\u2014he's unrelated
+    to Charlie so I don't have to know it!{/i}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 171
+  indentLevel: 0
+  storyText: "\u201CPlease refer to me in my Japanese name, Mr. English Teacher.\""
+  description: 
+  character: {fileID: 290648915}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 170
+  indentLevel: 0
+  storyText: "\u201CKai! My name is Kai.\""
+  description: 
+  character: {fileID: 290648915}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 172
+  indentLevel: 0
+  storyText: '"Your future looks pretty bright, doesn''t it?"'
+  description: 
+  character: {fileID: 1635274992}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 174
+  indentLevel: 0
+  storyText: '"Um. No comment...?"'
+  description: 
+  character: {fileID: 290648915}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 173
+  indentLevel: 0
+  storyText: '"Kyle...do you know what {i}my{/i} name is?"'
+  description: 
+  character: {fileID: 1635274992}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 175
+  indentLevel: 0
+  storyText: '{i}Anyway, I need to speedrun this test NOW!{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 176
+  indentLevel: 0
+  storyText: '{i} I HAVE A NEED FOR SPEED!{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 178
+  indentLevel: 0
+  storyText: '{i}It was a really, really long and boring 42 minutes. I just stared
+    blankly at nothing in particular the whole time.{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 179
+  indentLevel: 0
+  storyText: "{i}Even though grades don\u2019t matter in a game like this, it feels
+    good to give him hope.{/i}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 181
+  indentLevel: 0
+  soundClip: {fileID: 8300000, guid: 7f4bc04cc4f75d24a812104e75afca51, type: 3}
+  volume: 1
+  waitUntilFinished: 0
+--- !u!114 &1696228467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 180
+  indentLevel: 0
+  soundClip: {fileID: 8300000, guid: 7f4bc04cc4f75d24a812104e75afca51, type: 3}
   volume: 1
   waitUntilFinished: 0
 --- !u!1001 &1813244688
