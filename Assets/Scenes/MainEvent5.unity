@@ -1239,6 +1239,44 @@ GameObject:
   - component: {fileID: 1696228634}
   - component: {fileID: 1696228633}
   - component: {fileID: 1696228632}
+  - component: {fileID: 1696228636}
+  - component: {fileID: 1696228640}
+  - component: {fileID: 1696228639}
+  - component: {fileID: 1696228638}
+  - component: {fileID: 1696228637}
+  - component: {fileID: 1696228641}
+  - component: {fileID: 1696228643}
+  - component: {fileID: 1696228642}
+  - component: {fileID: 1696228645}
+  - component: {fileID: 1696228644}
+  - component: {fileID: 1696228648}
+  - component: {fileID: 1696228647}
+  - component: {fileID: 1696228646}
+  - component: {fileID: 1696228651}
+  - component: {fileID: 1696228650}
+  - component: {fileID: 1696228649}
+  - component: {fileID: 1696228652}
+  - component: {fileID: 1696228654}
+  - component: {fileID: 1696228653}
+  - component: {fileID: 1696228657}
+  - component: {fileID: 1696228656}
+  - component: {fileID: 1696228655}
+  - component: {fileID: 1696228658}
+  - component: {fileID: 1696228659}
+  - component: {fileID: 1696228660}
+  - component: {fileID: 1696228661}
+  - component: {fileID: 1696228662}
+  - component: {fileID: 1696228663}
+  - component: {fileID: 1696228664}
+  - component: {fileID: 1696228673}
+  - component: {fileID: 1696228672}
+  - component: {fileID: 1696228671}
+  - component: {fileID: 1696228670}
+  - component: {fileID: 1696228669}
+  - component: {fileID: 1696228668}
+  - component: {fileID: 1696228667}
+  - component: {fileID: 1696228666}
+  - component: {fileID: 1696228665}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1277,7 +1315,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 203
     y: 89
-    width: 120.40817
+    width: 119.34305
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1286,13 +1324,14 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 1696228362}
   commandList:
+  - {fileID: 1696228636}
   - {fileID: 1696228425}
   - {fileID: 1696228424}
   - {fileID: 1696228599}
   - {fileID: 1696228421}
-  - {fileID: 1696228623}
   - {fileID: 1696228422}
   - {fileID: 1696228423}
+  - {fileID: 1696228623}
   - {fileID: 1696228622}
   - {fileID: 1696228440}
   - {fileID: 1696228439}
@@ -1311,19 +1350,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -552.91864, y: 374.4839}
+  scrollPos: {x: -1152.4904, y: 390.84174}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 367
-  zoom: 0.48999992
+  zoom: 0.54800016
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1696228550}
+  selectedCommands:
+  - {fileID: 1696228547}
   variables:
   - {fileID: 1696228468}
   - {fileID: 1696228470}
@@ -1368,8 +1409,7 @@ MonoBehaviour:
   itemId: 5
   indentLevel: 0
   storyText: "{i}After that sacrifice, I make it to the rooftop. My heart is pounding,
-    but I feel confident since I know I\u2019ve nearly maxed out her affection points.{/I}(SFX
-    Heart beat)"
+    but I feel confident since I know I\u2019ve nearly maxed out her affection points.{/I}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1396,8 +1436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: '{i}At the rooftop, I see Charlie standing in front of me.{/I}(CHARLIE
-    Confused)'
+  storyText: '{i}At the rooftop, I see Charlie standing in front of me.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1480,7 +1519,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: '{i}Finally, the bell rings.{/i}(SFX bell ring)'
+  storyText: '{i}Finally, the bell rings.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1507,7 +1546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 24
   indentLevel: 0
-  storyText: "Charlie: \u201CThat is not the compliment you think it is.\u201D"
+  storyText: "\u201CThat is not the compliment you think it is.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -1534,8 +1573,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  storyText: "Guy: \u201CDon\u2019t worry. That\u2019s, like, your appeal. Spices
-    things up.\u201D"
+  storyText: "\u201CDon\u2019t worry. That\u2019s, like, your appeal. Spices things
+    up.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1562,7 +1601,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 0
-  storyText: "Charlie: \u201CWhat...?\u201D"
+  storyText: "\"What...?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -1589,8 +1628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 21
   indentLevel: 0
-  storyText: "Guy: \u201CDang, playing hot and cold with me \u2018til the very end,
-    huh...\u201D"
+  storyText: "\u201CDang, playing hot and cold with me \u2018til the very end, huh...\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1617,7 +1655,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 0
-  storyText: "Charlie: \u201CI just saw you in English.\u201D"
+  storyText: "\u201CI just saw you in English.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -1644,7 +1682,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: "Guy: \u201CDid you miss me?\u201D"
+  storyText: "\u201CDid you miss me?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1671,7 +1709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 18
   indentLevel: 0
-  storyText: "Charlie: \u201CYeah...\u201D"
+  storyText: " \u201CYeah...\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -1698,7 +1736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: "Guy: \u201CIt sounded way better in my head.\u201D"
+  storyText: "\u201CIt sounded way better in my head.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1725,7 +1763,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: "Charlie: \u201CUsually things do.\u201D"
+  storyText: "\u201CUsually things do.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -1752,7 +1790,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  storyText: "Charlie: \u201CDid you just refer to yourself as...god?\u201D"
+  storyText: "\u201CDid you just refer to yourself as...god?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -1779,7 +1817,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  storyText: "Guy: \u201CYeah. It\u2019s me.\u201D"
+  storyText: "\u201CYeah. It\u2019s me.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1806,8 +1844,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 12
   indentLevel: 0
-  storyText: "Guy: \u201CUh...no, it was just like. Supposed to be uh. Uh. A cool
-    line.\u201D"
+  storyText: "\u201CUh...no, it was just like. Supposed to be uh. Uh. A cool line.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -1911,7 +1948,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 501.34415
     y: 182.15045
-    width: 95.91837
+    width: 97.44524
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1922,8 +1959,10 @@ MonoBehaviour:
   commandList:
   - {fileID: 1696228619}
   - {fileID: 1696228449}
+  - {fileID: 1696228637}
   - {fileID: 1696228448}
   - {fileID: 1696228447}
+  - {fileID: 1696228641}
   - {fileID: 1696228446}
   - {fileID: 1696228445}
   - {fileID: 1696228444}
@@ -1945,7 +1984,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 466.03403
     y: 64.75119
-    width: 106.12246
+    width: 106.56933
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1956,8 +1995,10 @@ MonoBehaviour:
   commandList:
   - {fileID: 1696228620}
   - {fileID: 1696228431}
+  - {fileID: 1696228639}
   - {fileID: 1696228430}
   - {fileID: 1696228429}
+  - {fileID: 1696228638}
   - {fileID: 1696228428}
   - {fileID: 1696228427}
   - {fileID: 1696228426}
@@ -1979,7 +2020,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 483.84323
     y: -54.312233
-    width: 76.53062
+    width: 77.37225
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1990,6 +2031,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1696228621}
   - {fileID: 1696228436}
+  - {fileID: 1696228640}
   - {fileID: 1696228435}
   - {fileID: 1696228437}
   - {fileID: 1696228432}
@@ -2011,7 +2053,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 31
   indentLevel: 0
-  storyText: "Guy: \u201CUm. That was just supposed to be a line.\u201D"
+  storyText: "\u201CUm. That was just supposed to be a line.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2038,7 +2080,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 30
   indentLevel: 0
-  storyText: "Guy: \u201CAh...haha...ha.\u201D"
+  storyText: "\u201CAh...haha...ha.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2065,8 +2107,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 29
   indentLevel: 0
-  storyText: "Charlie: \u201CThat was literally the unfunniest thing anyone could
-    have ever said.\u201D"
+  storyText: "\u201CThat was literally the unfunniest thing anyone could have ever
+    said.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2093,7 +2135,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 28
   indentLevel: 0
-  storyText: "Guy: \u201CHaha, you\u2019re so funny!\u201D"
+  storyText: "\u201CHaha, you\u2019re so funny!\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2120,7 +2162,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 27
   indentLevel: 0
-  storyText: "Charlie: \u201CNo. I was told to be here.\u201D"
+  storyText: "\u201CNo. I was asked to be here by some cringey letter.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2147,7 +2189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 26
   indentLevel: 0
-  storyText: "Guy: \u201CHey there! So...you come here often?\u201D"
+  storyText: "\u201CHey there! So...you come here often?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2174,7 +2216,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 41
   indentLevel: 0
-  storyText: "Charlie: \u201CI found this letter in my locker.\u201D"
+  storyText: "\u201CI found this letter in my locker.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2201,7 +2243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 40
   indentLevel: 0
-  storyText: "Guy: \u201CIt\u2019s ok to feel confused...I\u2019m sure this was probably
+  storyText: "\u201CIt\u2019s ok to feel confused...I\u2019m sure this was probably
     a big deal and stuff. Dramatic and whatever. You know how it goes...\u201D"
   description: 
   character: {fileID: 290648915}
@@ -2229,8 +2271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 39
   indentLevel: 0
-  storyText: "Charlie: \u201CNo, I\u2014ugh! You\u2019re not getting it!\u201D(CHARLIE
-    ANGRY)"
+  storyText: "\u201CNo, I\u2014ugh! You\u2019re not getting it!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2257,8 +2298,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 38
   indentLevel: 0
-  storyText: "Charlie: \u201CI don\u2019t ever take my journal outside of my locker,
-    so I don\u2019t even know how you got it in there in the first place!\u201D"
+  storyText: "\u201CI don\u2019t ever take my journal outside of my locker, so I
+    don\u2019t even know how you got it in there in the first place!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2285,7 +2326,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 37
   indentLevel: 0
-  storyText: "Charlie: \u201CI\u2019m trying to make a point here.\u201D"
+  storyText: "\u201CI\u2019m trying to make a point here.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2312,8 +2353,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 36
   indentLevel: 0
-  storyText: "Guy: \u201CSo...? Aren\u2019t you curious why I asked you to meet me
-    here?\u201D"
+  storyText: "\u201CSo...? Aren\u2019t you curious why I asked you to meet me here?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2340,7 +2380,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 35
   indentLevel: 0
-  storyText: "Charlie: \u201C...and it was, like, inside my journal.\u201D"
+  storyText: "\u201C...and it was, like, inside my journal.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2395,7 +2435,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 33
   indentLevel: 0
-  storyText: '{i}Charlie sighs.{/i}(CHARLIE UNCOMFY)'
+  storyText: '{i}Charlie sighs.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2423,8 +2463,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 741.99
-    y: 25.311434
-    width: 87.75511
+    y: 21.661798
+    width: 88.32115
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2529,9 +2569,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 47
   indentLevel: 0
-  storyText: "Guy: \u201CLove is so mysterious, you know...it works in such strange
-    ways. Maybe that\u2019s why people spend their whole lives chasing it, wondering
-    if it\u2019s even real...\u201D"
+  storyText: "\"Love is so mysterious, you know...it works in such strange ways.
+    Maybe that\u2019s why people spend their whole lives chasing it, wondering if
+    it\u2019s even real...\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2560,7 +2600,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 942.1373
     y: -60.95716
-    width: 113.26532
+    width: 112.04378
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2571,9 +2611,11 @@ MonoBehaviour:
   commandList:
   - {fileID: 1696228631}
   - {fileID: 1696228464}
+  - {fileID: 1696228643}
   - {fileID: 1696228612}
   - {fileID: 1696228489}
   - {fileID: 1696228488}
+  - {fileID: 1696228642}
   - {fileID: 1696228487}
   - {fileID: 1696228486}
   - {fileID: 1696228485}
@@ -2663,7 +2705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 66
   indentLevel: 0
-  storyText: "Charlie: \u201CCLEARLY.\u201D"
+  storyText: "\u201CCLEARLY.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2690,8 +2732,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 65
   indentLevel: 0
-  storyText: "Guy: \u201COddly specific, but yeah. There are a lot of weirdos out
-    there, you know?\u201D"
+  storyText: "\u201COddly specific, but yeah. There are a lot of weirdos out there,
+    you know?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2718,7 +2760,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 64
   indentLevel: 0
-  storyText: "Charlie: \u201CProbably something inconvenient. And creepy. And annoying.\u201D"
+  storyText: "\u201CProbably something inconvenient. And creepy. And annoying.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2745,8 +2787,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 63
   indentLevel: 0
-  storyText: "Guy: \u201CWell, I wanted to look out for you! Plus, leaving it open
-    like that? Who knows what could have happened?\u201D"
+  storyText: "\u201CWell...I guess I can say thank you for making my life easier!\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2773,7 +2814,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: "Charlie: \u201CYou could have just told that to me.\u201D"
+  storyText: "\u201CYou could have just told that to me!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2800,8 +2841,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 61
   indentLevel: 0
-  storyText: "Guy: \u201CYour locker was left unlocked, so I made sure to close it
-    for you!\u201D"
+  storyText: "\u201CYour locker was left unlocked, you know that?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2829,8 +2869,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 931.1209
-    y: 57.075905
-    width: 90.81633
+    y: 58.900723
+    width: 91.970795
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2841,9 +2881,16 @@ MonoBehaviour:
   commandList:
   - {fileID: 1696228629}
   - {fileID: 1696228476}
+  - {fileID: 1696228648}
   - {fileID: 1696228610}
   - {fileID: 1696228475}
+  - {fileID: 1696228647}
+  - {fileID: 1696228646}
   - {fileID: 1696228474}
+  - {fileID: 1696228649}
+  - {fileID: 1696228650}
+  - {fileID: 1696228651}
+  - {fileID: 1696228652}
   - {fileID: 1696228473}
   - {fileID: 1696228472}
   - {fileID: 1696228471}
@@ -2863,7 +2910,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 59
   indentLevel: 0
-  storyText: "Charlie: \u201CYou...read...it...?\u201D"
+  storyText: "\u201CYou...read...it...?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2890,7 +2937,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 58
   indentLevel: 0
-  storyText: "Guy: \u201CI only read some of it.\u201D"
+  storyText: "\u201CWell, um, I  can assure you that I didn't read ALL of it, so
+    MOST of your inner most thoughts are still private\u2014\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2917,8 +2965,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 57
   indentLevel: 0
-  storyText: "Charlie: \u201CAfter you took my journal and opened it to put the letter
-    inside it.\u201D"
+  storyText: "\"After you took my journal and opened it to put the letter inside
+    it?!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -2945,7 +2993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 56
   indentLevel: 0
-  storyText: "Guy: \u201CI just locked it for you.\u201D"
+  storyText: "=\u201CI just locked it for you.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2972,8 +3020,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 55
   indentLevel: 0
-  storyText: "Charlie: \u201CWhat do you mean \u2018you know\u2019? I DON\u2019T
-    know!\u201D"
+  storyText: "\u201CWhat do you mean \u2018you know\u2019? I DON\u2019T know!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -3000,7 +3047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 54
   indentLevel: 0
-  storyText: "Guy: \u201CYour locker was open...so you know.\u201D"
+  storyText: "\u201CYour locker was open...so you know.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -3029,7 +3076,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 929.0314
     y: 0.2368393
-    width: 90.81633
+    width: 90.14597
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3041,10 +3088,12 @@ MonoBehaviour:
   - {fileID: 1696228630}
   - {fileID: 1696228483}
   - {fileID: 1696228611}
+  - {fileID: 1696228645}
   - {fileID: 1696228482}
   - {fileID: 1696228481}
   - {fileID: 1696228480}
   - {fileID: 1696228479}
+  - {fileID: 1696228644}
   - {fileID: 1696228478}
   - {fileID: 1696228493}
   suppressAllAutoSelections: 0
@@ -3062,7 +3111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 52
   indentLevel: 0
-  storyText: "Charlie: \u201CI...you\u2019re impossible.\u201D"
+  storyText: "\u201CI...you\u2019re impossible.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -3089,7 +3138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 51
   indentLevel: 0
-  storyText: "Guy: \u201CSuch is fate.\u201D"
+  storyText: "\u201CSuch is fate.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -3116,8 +3165,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 50
   indentLevel: 0
-  storyText: "Charlie: \u201CMy heart is telling me that what you did is really REALLY
-    weird.\u201D"
+  storyText: "\u201CMy heart is telling me that what you did is really REALLY weird.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -3144,7 +3192,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 49
   indentLevel: 0
-  storyText: "Guy: \u201CWhat does your heart say?\u201D"
+  storyText: "\"What does your heart say?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -3171,7 +3219,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 48
   indentLevel: 0
-  storyText: "Charlie: \u201CYou went into my locker, didn\u2019t you.\u201D"
+  storyText: "\u201CYou went into my locker, didn\u2019t you.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -3311,7 +3359,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 74
   indentLevel: 0
-  storyText: "Charlie: \u201CWhat is it that you needed to tell me?\u201D"
+  storyText: " \u201CWhat is it that you needed to tell me?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -3338,7 +3386,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 73
   indentLevel: 0
-  storyText: "Guy: \u201COh. That\u2019s not what I meant\u2014\u201D"
+  storyText: "\u201COh. That\u2019s not what I meant\u2014\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -3365,7 +3413,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 72
   indentLevel: 0
-  storyText: "Charlie: \u201CSo you know I can\u2019t be here for that long, right?\u201D"
+  storyText: "\u201CSo you know I can\u2019t be here for that long, right?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -3392,7 +3440,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 71
   indentLevel: 0
-  storyText: "Guy: \u201CRobotics. Yeah. I know this already.\u201D"
+  storyText: "\u201CRobotics. Yeah. I know this already.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -3419,7 +3467,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: "Charlie: \u201CLook, I need to get to my club\u2014\u201D"
+  storyText: "\u201CLook, I need to get to my club\u2014\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -3448,7 +3496,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1149.5751
     y: -6.031847
-    width: 112.2449
+    width: 113.86859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3457,9 +3505,11 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228654}
   - {fileID: 1696228499}
   - {fileID: 1696228613}
   - {fileID: 1696228498}
+  - {fileID: 1696228653}
   - {fileID: 1696228497}
   - {fileID: 1696228496}
   - {fileID: 1696228495}
@@ -4035,7 +4085,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1376.1953
     y: 99.93823
-    width: 66.32653
+    width: 64.59853
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4044,6 +4094,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228655}
   - {fileID: 1696228513}
   - {fileID: 1696228512}
   - {fileID: 1696228511}
@@ -4065,8 +4116,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1376.4982
-    y: 4.133404
-    width: 65.30612
+    y: 2.3085868
+    width: 64.59853
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4075,6 +4126,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228656}
   - {fileID: 1696228517}
   - {fileID: 1696228516}
   - {fileID: 1696228515}
@@ -4097,7 +4149,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1371.7178
     y: -77.67363
-    width: 64.28572
+    width: 62.77372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4106,6 +4158,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228657}
   - {fileID: 1696228521}
   - {fileID: 1696228518}
   - {fileID: 1696228519}
@@ -4369,7 +4422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 100
   indentLevel: 0
-  storyText: "Guy: \u201CEspecially when you hide your love for poetry and more.\u201D"
+  storyText: "\u201CEspecially when you hide your love for poetry and more.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4396,7 +4449,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 99
   indentLevel: 0
-  storyText: "Guy: \u201CYou\u2019re a nuanced girl, with inner conflict I adore,\u201D"
+  storyText: "\u201CYou\u2019re a nuanced girl, with inner conflict I adore,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4423,7 +4476,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 98
   indentLevel: 0
-  storyText: "Guy: \u201CBut you\u2019re so much more than just a woman in STEM.\u201D"
+  storyText: "\u201CBut you\u2019re so much more than just a woman in STEM.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4450,7 +4503,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 97
   indentLevel: 0
-  storyText: "Guy: \u201CWell-versed in robotics\u2014you\u2019re a master in chem,\u201D"
+  storyText: "\u201CWell-versed in robotics\u2014you\u2019re a master in chem,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4477,7 +4530,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 96
   indentLevel: 0
-  storyText: "Guy: \u201CBy gracing me with knowledge of our school\u2019s best sandwiches.\u201D"
+  storyText: "\u201CBy gracing me with knowledge of our school\u2019s best sandwiches.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4504,7 +4557,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 95
   indentLevel: 0
-  storyText: "Guy: \u201CYou expanded my world, new perspectives and vantages,\u201D"
+  storyText: "\u201CYou expanded my world, new perspectives and vantages,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4531,7 +4584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 94
   indentLevel: 0
-  storyText: "Guy: \u201CBut caffeine isn\u2019t the only thing making my heart beat.\u201D"
+  storyText: "\u201CBut caffeine isn\u2019t the only thing making my heart beat.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4558,7 +4611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 93
   indentLevel: 0
-  storyText: "Guy: \u201CWe love the same coffee\u2014so confusing, so sweet,\u201D"
+  storyText: "\u201CWe love the same coffee\u2014so confusing, so sweet,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4585,7 +4638,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 92
   indentLevel: 0
-  storyText: "Guy: \u201CBut we have more chemistry than Chemistry class.\u201D"
+  storyText: "\u201CBut we have more chemistry than Chemistry class.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4612,7 +4665,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  storyText: "Guy: \u201CFrom the moment we locked eyes at 8:02,\u201D"
+  storyText: "\u201CFrom the moment we locked eyes at 8:02,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4639,7 +4692,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 90
   indentLevel: 0
-  storyText: "Guy: \u201CI knew that the best girl in this game was you.\u201D"
+  storyText: "\u201CI knew that the best girl in this game was you.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4666,7 +4719,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 89
   indentLevel: 0
-  storyText: "Guy: \u201CLove\u2019s an experiment\u2014solid, liquid, gas...\u201D"
+  storyText: "\u201CLove\u2019s an experiment\u2014solid, liquid, gas...\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4774,7 +4827,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 182
   indentLevel: 0
-  storyText: "Charlie: \u201CThat was...really, really detailed.\u201D"
+  storyText: "\u201CThat was...really, really detailed.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -4828,8 +4881,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 0
-  storyText: "Charlie: \u201CWhich is kind of strange since today is the first day
-    you\u2019ve said literally anything to me since the year started?\u201D"
+  storyText: "\u201CWhich is kind of strange since today is the first day you\u2019ve
+    said literally anything to me since the year started?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -4856,7 +4909,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 179
   indentLevel: 0
-  storyText: "Guy: \u201CWell, I did research on your\u2014\u201D"
+  storyText: "\u201CWell, I did research on your\u2014\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4883,7 +4936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 178
   indentLevel: 0
-  storyText: "Charlie: \u201CResearch?!\u201D"
+  storyText: "\u201CResearch?!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -4910,9 +4963,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 177
   indentLevel: 0
-  storyText: "Guy: \u201CYeah, that\u2019s how it usually goes...learn the schedule,
-    likes, dislikes, inner most traumatic secrets and possibly tragic backstory,
-    favorite thing to eat...the usual.\u201D"
+  storyText: "\u201CYeah, that\u2019s how it usually goes...\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4939,7 +4990,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 176
   indentLevel: 0
-  storyText: "Guy: \u201CSay the right thing. Give the right stuff. Boom! Good ending.\u201D"
+  storyText: "\u201CSay the right thing. Give the right stuff. Boom! Good ending.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -4966,7 +5017,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 175
   indentLevel: 0
-  storyText: "Charlie: \u201CGood...ending?\u201D"
+  storyText: "\u201CGood...ending?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -4993,7 +5044,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 174
   indentLevel: 0
-  storyText: "Guy: \u201CThat\u2019s how you play.\u201D"
+  storyText: "\u201CThat\u2019s how you play.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5020,9 +5071,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 173
   indentLevel: 0
-  storyText: "Charlie: \u201CWhat kind of \u2018good ending\u2019 exists in this
-    situation? You can\u2019t just treat me or the people around like, like some
-    sort of thing to win at the end!\u201D"
+  storyText: "\u201CWhat kind of \u2018good ending\u2019 exists in this situation?
+    You can\u2019t just treat me or the people around like, like some sort of thing
+    to win at the end!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -5049,9 +5100,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 172
   indentLevel: 0
-  storyText: "Guy: \u201CYou can cut out the \u2018I\u2019m the cold character and
-    super mean to you because I like you\u2019 stuff because I maxed out your Affection
-    Points\u2014\u201D"
+  storyText: "\u201CYou can cut out the \u2018I\u2019m the cold character and super
+    mean to you because I like you\u2019 stuff because I maxed out your affection
+    points\u2014\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5078,7 +5129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 171
   indentLevel: 0
-  storyText: "Charlie: \u201CWhat are you even TALKING about\u2014\u201D"
+  storyText: "\u201CWhat are you even TALKING about\u2014\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -5105,8 +5156,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 170
   indentLevel: 0
-  storyText: "Guy: \u201CI did everything right, so I don\u2019t really understand
-    why you\u2019re treating me this way? Haha...\u201D"
+  storyText: "\u201CI did everything right, so I don\u2019t really understand why
+    you\u2019re treating me this way?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5133,8 +5184,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 169
   indentLevel: 0
-  storyText: "Charlie: \u201CI don\u2019t owe you ANYTHING! You did all of this creepy
-    stuff by yourself!\u201D"
+  storyText: "\u201CI don\u2019t owe you ANYTHING! You did all of this creepy stuff
+    by yourself!\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -5161,7 +5212,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 168
   indentLevel: 0
-  storyText: "Guy: \u201CDang, did I trigger the Bad Ending?\u201D"
+  storyText: "\u201CDang, did I trigger the Bad Ending?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5188,7 +5239,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 167
   indentLevel: 0
-  storyText: "Charlie: \u201CAre you even LISTENING to me?\u201D"
+  storyText: "\u201CAre you even LISTENING to me?\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -5215,7 +5266,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 166
   indentLevel: 0
-  storyText: "Guy: \u201CMaybe I should\u2019ve written the poem differently...\u201D"
+  storyText: "\u201CMaybe I should\u2019ve written the poem differently...\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5242,7 +5293,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 165
   indentLevel: 0
-  storyText: "Charlie: \u201CHEY.\u201D"
+  storyText: "\u201CHEY.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -5269,7 +5320,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 164
   indentLevel: 0
-  storyText: "Guy: \u201CYeah?\u201D"
+  storyText: "\u201CYeah?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5296,8 +5347,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 163
   indentLevel: 0
-  storyText: "Charlie: \u201CYou\u2019re starting to really piss me off, dude. I\u2019m
-    trying to tell you that you are BOTHERING ME and need to STOP.\u201D"
+  storyText: "\u201CYou\u2019re starting to really piss me off, dude. I\u2019m trying
+    to tell you that you are BOTHERING ME and need to STOP.\u201D"
   description: 
   character: {fileID: 850471957}
   portrait: {fileID: 0}
@@ -5324,8 +5375,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 162
   indentLevel: 0
-  storyText: "Guy: \u201CI...I don\u2019t get it. Why are you angry? You\u2019re
-    supposed to fall in love with me!\u201D (GUY Sad)"
+  storyText: "\u201CI...I don\u2019t get it. Why are you angry? You\u2019re supposed
+    to fall in love with me!\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5352,7 +5403,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 161
   indentLevel: 0
-  storyText: "Guy: \u201CI\u2019ll be more straightforward this time.\""
+  storyText: "\u201CI\u2019ll be more straightforward this time.\""
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5379,7 +5430,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 160
   indentLevel: 0
-  storyText: "Guy: \"Will you go out with me?\u201D (GUY Confident)"
+  storyText: "\"Will you go out with me?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5433,7 +5484,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 155
   indentLevel: 0
-  storyText: "Guy: \u201CSo...that\u2019s it. What did you think?\u201D"
+  storyText: "\u201CSo...that\u2019s it. What did you think?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -5462,7 +5513,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2102.8179
     y: -18.625053
-    width: 71.42857
+    width: 71.897804
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5471,6 +5522,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 1696228618}
   commandList:
+  - {fileID: 1696228664}
   - {fileID: 1696228609}
   - {fileID: 1696228549}
   - {fileID: 1696228548}
@@ -5478,32 +5530,41 @@ MonoBehaviour:
   - {fileID: 1696228608}
   - {fileID: 1696228523}
   - {fileID: 1696228524}
+  - {fileID: 1696228672}
   - {fileID: 1696228525}
   - {fileID: 1696228526}
   - {fileID: 1696228527}
   - {fileID: 1696228605}
   - {fileID: 1696228528}
+  - {fileID: 1696228671}
   - {fileID: 1696228529}
   - {fileID: 1696228530}
+  - {fileID: 1696228673}
   - {fileID: 1696228531}
+  - {fileID: 1696228670}
   - {fileID: 1696228603}
   - {fileID: 1696228532}
   - {fileID: 1696228533}
   - {fileID: 1696228534}
   - {fileID: 1696228535}
+  - {fileID: 1696228668}
   - {fileID: 1696228536}
+  - {fileID: 1696228669}
   - {fileID: 1696228537}
   - {fileID: 1696228604}
   - {fileID: 1696228538}
   - {fileID: 1696228539}
   - {fileID: 1696228602}
+  - {fileID: 1696228667}
   - {fileID: 1696228540}
   - {fileID: 1696228541}
+  - {fileID: 1696228666}
   - {fileID: 1696228542}
   - {fileID: 1696228543}
   - {fileID: 1696228544}
   - {fileID: 1696228601}
   - {fileID: 1696228545}
+  - {fileID: 1696228665}
   - {fileID: 1696228546}
   - {fileID: 1696228600}
   - {fileID: 1696228547}
@@ -6336,7 +6397,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 144
   indentLevel: 0
-  storyText: "Guy: \u201CThan this of Juliet and her Romeo...\u201D"
+  storyText: "\u201CThan this of Juliet and her Romeo...\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6363,7 +6424,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 143
   indentLevel: 0
-  storyText: "Guy: \u201CFor never was a story of more woe\u201D"
+  storyText: "\u201CFor never was a story of more woe\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6392,7 +6453,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1971.0956
     y: -42.15117
-    width: 66.32653
+    width: 66.423355
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6401,6 +6462,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228662}
   - {fileID: 1696228635}
   - {fileID: 1696228634}
   - {fileID: 1696228559}
@@ -6442,7 +6504,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 138
   indentLevel: 0
-  storyText: "Guy: \u201CCourage to make\u2019s love known?\u201D"
+  storyText: "\u201CCourage to make\u2019s love known?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6469,8 +6531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 137
   indentLevel: 0
-  storyText: "Guy: \u201CWho could refrain, That had a heart to love, and in that
-    heart,\u201D"
+  storyText: "\u201CWho could refrain, That had a heart to love, and in that heart,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6499,7 +6560,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1975.5732
     y: 62.3264
-    width: 67.34694
+    width: 66.423355
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6508,6 +6569,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228663}
   - {fileID: 1696228633}
   - {fileID: 1696228632}
   - {fileID: 1696228563}
@@ -6549,7 +6611,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 132
   indentLevel: 0
-  storyText: "Guy: \u201CAnd therefore is winged Cupid painted blind....\u201D"
+  storyText: "\u201CAnd therefore is winged Cupid painted blind....\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6576,7 +6638,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 131
   indentLevel: 0
-  storyText: "Guy: \u201CLove looks not with the eyes, but with the mind,\u201D"
+  storyText: "\u201CLove looks not with the eyes, but with the mind,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6605,7 +6667,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1971.0957
     y: -113.79292
-    width: 65.30612
+    width: 64.59853
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6614,6 +6676,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228661}
   - {fileID: 1696228628}
   - {fileID: 1696228627}
   - {fileID: 1696228567}
@@ -6636,7 +6699,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1815.0012
     y: -3.046692
-    width: 65.30612
+    width: 64.59853
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6687,7 +6750,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 127
   indentLevel: 0
-  storyText: "Guy: \u201CBecause if you date me, then the jokes have just begun!\u201D"
+  storyText: "\u201CBecause if you date me, then the jokes have just begun!\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6714,7 +6777,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 126
   indentLevel: 0
-  storyText: "Guy: \u201CI hope you took notice of my quirky science pun,\u201D"
+  storyText: "\u201CI hope you took notice of my quirky science pun,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6741,7 +6804,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 125
   indentLevel: 0
-  storyText: "Guy: \u201CMakes me know that your future love for me will be mole-{i}cool{/i}.\u201D"
+  storyText: "\u201CMakes me know that your future love for me will be mole-{i}cool{/i}.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6768,7 +6831,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 124
   indentLevel: 0
-  storyText: "Guy: \u201CYou scare me a bit, but your love for science and school,\u201D"
+  storyText: "\u201CYou scare me a bit, but your love for science and school,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6797,7 +6860,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1675.2999
     y: 96.953156
-    width: 66.32653
+    width: 64.59853
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6806,6 +6869,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228660}
   - {fileID: 1696228574}
   - {fileID: 1696228573}
   - {fileID: 1696228572}
@@ -6847,7 +6911,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 121
   indentLevel: 0
-  storyText: "Guy: \u201CTake it as a symbol of my romantic dedication!\u201D"
+  storyText: "\u201CTake it as a symbol of my romantic dedication!\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6874,7 +6938,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 120
   indentLevel: 0
-  storyText: "Guy: \u201CIf you are in awe of my use of personification,\u201D"
+  storyText: "\u201CIf you are in awe of my use of personification,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6901,7 +6965,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 119
   indentLevel: 0
-  storyText: "Guy: \u201CSo as your poet, immortalizing that is my duty.\u201D"
+  storyText: "\u201CSo as your poet, immortalizing that is my duty.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6928,8 +6992,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 118
   indentLevel: 0
-  storyText: "Guy: \u201CThe sun cowers at your radiance\u2014the moon envies your
-    beauty,\u201D"
+  storyText: "\u201CThe sun cowers at your radiance\u2014the moon envies your beauty,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -6958,7 +7021,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1670.8223
     y: -7.524414
-    width: 65.30612
+    width: 64.59853
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6967,6 +7030,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228659}
   - {fileID: 1696228580}
   - {fileID: 1696228579}
   - {fileID: 1696228578}
@@ -7008,7 +7072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 115
   indentLevel: 0
-  storyText: "Guy: \u201CBecause if you are, please give my confession special consideration.\u201D"
+  storyText: "\u201CBecause if you are, please give my confession special consideration.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -7035,7 +7099,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 114
   indentLevel: 0
-  storyText: "Guy: \u201CAre you impressed with my use of awesome alliteration?\u201D"
+  storyText: "\u201CAre you impressed with my use of awesome alliteration?\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -7062,8 +7126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 113
   indentLevel: 0
-  storyText: "Guy: \u201Cyour intimidation makes this the most realistic game that
-    I played.\u201D"
+  storyText: "\u201CYour intimidation makes this the most realistic game that I played.\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -7090,7 +7153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 112
   indentLevel: 0
-  storyText: "Guy: \u201CUntouchable, unwavering, unapologetic, unafraid,\u201D"
+  storyText: "\u201CUntouchable, unwavering, unapologetic, unafraid,\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -7118,8 +7181,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1670.8224
-    y: -80.65871
-    width: 64.28572
+    y: -82.48352
+    width: 62.77372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7128,6 +7191,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1696228658}
   - {fileID: 1696228586}
   - {fileID: 1696228585}
   - {fileID: 1696228584}
@@ -8005,7 +8069,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1517.9863
     y: -6.0318604
-    width: 64.28572
+    width: 62.77372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8596,7 +8660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 224
   indentLevel: 0
-  storyText: "Guy: \u201CI'll let my favorite poet--Shakespeare--take the stage.\u201D"
+  storyText: "\u201CI'll let my favorite poet--Shakespeare--take the stage.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8623,7 +8687,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 223
   indentLevel: 0
-  storyText: "Guy: \u201CNow that I'm out of space on this page,\u201D"
+  storyText: "\u201CNow that I'm out of space on this page,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8740,7 +8804,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 228
   indentLevel: 0
-  storyText: "Guy: \u201CI'll let my favorite poet--Shakespeare--take the stage.\u201D"
+  storyText: "\u201CI'll let my favorite poet--Shakespeare--take the stage.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8767,7 +8831,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 227
   indentLevel: 0
-  storyText: "Guy: \u201CNow that I'm out of space on this page,\u201D"
+  storyText: "\u201CNow that I'm out of space on this page,\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8794,7 +8858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 226
   indentLevel: 0
-  storyText: "Guy: \u201CI'll let my favorite poet--Shakespeare--take the stage.\u201D"
+  storyText: "\u201CI'll let my favorite poet--Shakespeare--take the stage.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8821,9 +8885,1111 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 225
   indentLevel: 0
-  storyText: "Guy: \u201CNow that I'm out of space on this page,\u201D"
+  storyText: "\u201CNow that I'm out of space on this page,\u201D"
   description: 
   character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228636
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 229
+  indentLevel: 0
+  soundClip: {fileID: 8300000, guid: 3a68d03a4ad7a8c4894464ad87426670, type: 3}
+  volume: 1
+  waitUntilFinished: 0
+--- !u!114 &1696228637
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 233
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228638
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 232
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228639
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 231
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228640
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 230
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228641
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 234
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228642
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 236
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228643
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 235
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228644
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 238
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228645
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 237
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228646
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 241
+  indentLevel: 0
+  storyText: "\u201CIt's a little too late to be telling me\u2014it's not like I
+    can use that information to help myself now!\u201D"
+  description: 
+  character: {fileID: 850471957}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228647
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 240
+  indentLevel: 0
+  storyText: "\u201CAnd why are you saying that NOW after you've gone through my
+    locker?\u201D"
+  description: 
+  character: {fileID: 850471957}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228648
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 239
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228649
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 244
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228650
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 243
+  indentLevel: 0
+  storyText: "\u201C...\u201D"
+  description: 
+  character: {fileID: 850471957}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228651
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 242
+  indentLevel: 0
+  storyText: "\u201CPlus, leaving it open like that? Who knows what could have happened?\u201D"
+  description: 
+  character: {fileID: 290648915}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228652
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 245
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228653
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 247
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228654
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 246
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78084df978a1de342a054abc94a8e5ad, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228655
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 250
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228656
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 249
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228657
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 248
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228658
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 251
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228659
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 252
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228660
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 253
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228661
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 254
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228662
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 255
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228663
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 256
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228664
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 257
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 266
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 265
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 264
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 263
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fa8a0f81c9464fd4fb96f84404e25678, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 262
+  indentLevel: 0
+  soundClip: {fileID: 8300000, guid: 7ab43c425053fab48a515e5f6addfef2, type: 3}
+  volume: 1
+  waitUntilFinished: 0
+--- !u!114 &1696228670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 261
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 260
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: b833dbc7c824db44bb8c77a79fa2142b, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 259
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 850471957}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 151b6bf45b67bf648890799ad92a7f55, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 2075360554}
+  facing: 0
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
+--- !u!114 &1696228673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 258
+  indentLevel: 0
+  storyText: "\u201CLearn the schedule, likes, dislikes, inner most traumatic secrets
+    and possibly tragic backstory, favorite thing to eat...the usual.\u201D"
+  description: 
+  character: {fileID: 290648915}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
