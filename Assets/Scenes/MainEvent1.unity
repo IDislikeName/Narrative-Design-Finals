@@ -532,7 +532,6 @@ GameObject:
   - component: {fileID: 411762668}
   - component: {fileID: 411762667}
   - component: {fileID: 411762666}
-  - component: {fileID: 411762665}
   - component: {fileID: 411762678}
   - component: {fileID: 411762679}
   - component: {fileID: 411762680}
@@ -686,6 +685,11 @@ GameObject:
   - component: {fileID: 411762837}
   - component: {fileID: 411762836}
   - component: {fileID: 411762838}
+  - component: {fileID: 411762839}
+  - component: {fileID: 411762843}
+  - component: {fileID: 411762842}
+  - component: {fileID: 411762841}
+  - component: {fileID: 411762840}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -773,7 +777,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -1526.8999, y: 5.5443745}
+  scrollPos: {x: -1757.2327, y: 21.764982}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 477.66666
@@ -784,10 +788,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 411762606}
-  selectedCommands:
-  - {fileID: 411762686}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 411762491}
   - {fileID: 411762538}
@@ -7640,6 +7642,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 411762726}
+  - {fileID: 411762839}
   - {fileID: 411762608}
   - {fileID: 411762777}
   - {fileID: 411762605}
@@ -7679,7 +7682,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 215
   indentLevel: 0
-  storyText: '{i}The chemicals bubbles and hisses...then EXPLODES!!!{/i}'
+  storyText: '{i}The chemicals bubbles and hisses...{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -9129,27 +9132,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &411762665
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 411762423}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 248
-  indentLevel: 0
-  targetFlowchart: {fileID: 0}
-  targetBlock: {fileID: 411762670}
-  startLabel:
-    stringRef: {fileID: 0}
-    stringVal: 
-  startIndex: 0
-  callMode: 0
 --- !u!114 &411762666
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9192,7 +9174,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 246
   indentLevel: 0
-  storyText: 'Guy: "If it''s in the trash...I guess it''s free real-estate."'
+  storyText: '"If it''s in the trash...I guess it''s free real-estate."'
   description: 
   character: {fileID: 1961429060}
   portrait: {fileID: 0}
@@ -9330,8 +9312,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2260.8708
-    y: 494.74417
+    x: 2436.0542
+    y: 270.89984
     width: 99.472855
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -9349,7 +9331,10 @@ MonoBehaviour:
   - {fileID: 411762666}
   - {fileID: 411762827}
   - {fileID: 411762816}
-  - {fileID: 411762665}
+  - {fileID: 411762843}
+  - {fileID: 411762842}
+  - {fileID: 411762841}
+  - {fileID: 411762840}
   suppressAllAutoSelections: 0
 --- !u!114 &411762673
 MonoBehaviour:
@@ -13790,7 +13775,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &411762838
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -13805,6 +13790,121 @@ MonoBehaviour:
   soundClip: {fileID: 8300000, guid: d038df2bbd3594f4280a4365b7672caa, type: 3}
   volume: 1
   waitUntilFinished: 0
+--- !u!114 &411762839
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411762423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 404
+  indentLevel: 0
+  storyText: '{i}...then EXPLODES!!!{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &411762840
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411762423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 408
+  indentLevel: 0
+  _sceneName:
+    stringRef: {fileID: 0}
+    stringVal: MainEvent2
+  loadingImage: {fileID: 0}
+  sceneNameOLD: 
+--- !u!114 &411762841
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411762423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bce3bd679be2c94196f3f6aaeb33f0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 407
+  indentLevel: 0
+--- !u!114 &411762842
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411762423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 406
+  indentLevel: 0
+  storyText: '"Time to apply my Charlie knowledge and win her over!"'
+  description: 
+  character: {fileID: 1961429060}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &411762843
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411762423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 405
+  indentLevel: 0
+  storyText: "\u201CI think I have enough knowledge about her to know what she likes
+    now!\u201D"
+  description: 
+  character: {fileID: 1961429060}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
