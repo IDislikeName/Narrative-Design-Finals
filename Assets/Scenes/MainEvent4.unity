@@ -2483,7 +2483,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  storyText: "\u201COh, you think? That\u2019s really nice of you\u2014\u201D"
+  storyText: "\u201CHeh, you think? I suppose you wouldn't be wrong\u2014\u201D"
   description: 
   character: {fileID: 290648915}
   portrait: {fileID: 0}
@@ -2937,7 +2937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -476.56345, y: -603.4718}
+  scrollPos: {x: 37.946243, y: 155.74364}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 423
@@ -2949,9 +2949,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1696228378}
+  - {fileID: 1696228363}
   selectedCommands:
-  - {fileID: 1696228370}
+  - {fileID: 1696228348}
   variables:
   - {fileID: 1696228420}
   - {fileID: 1696228419}
@@ -4539,7 +4539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 101
   indentLevel: 0
-  text: Imagery
+  text: Pun
   description: 
   targetBlock: {fileID: 1696228394}
   hideIfVisited: 0
@@ -6100,8 +6100,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 144
   indentLevel: 0
-  storyText: '{i}Now, I need to go to English class before club period ends. Maybe
-    during class, I can make that gift...{/i}'
+  storyText: '{i}Maybe during class, I can make Charlie''s gift...{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6673,7 +6672,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1696228470
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6701,7 +6700,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1696228471
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7140,16 +7139,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 291175995732133948, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -15
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_fontSize
-      value: 100
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 97fce8f71bb454066b57fdbed4727d46, type: 2}
+    - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_fontSizeBase
-      value: 100
+      value: 60
       objectReference: {fileID: 0}
+    - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 101805967683146444, guid: 97fce8f71bb454066b57fdbed4727d46, type: 2}
     - target: {fileID: 291175996099908672, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_UiScaleMode
       value: 1

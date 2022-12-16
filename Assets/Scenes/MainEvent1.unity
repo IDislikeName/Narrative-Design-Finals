@@ -773,7 +773,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -1312.7876, y: 12.032618}
+  scrollPos: {x: -1526.8999, y: 5.5443745}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 477.66666
@@ -785,9 +785,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 411762632}
+  - {fileID: 411762606}
   selectedCommands:
-  - {fileID: 411762624}
+  - {fileID: 411762686}
   variables:
   - {fileID: 411762491}
   - {fileID: 411762538}
@@ -14106,7 +14106,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -25.5, y: -15}
+  m_AnchoredPosition: {x: -25.5, y: -5}
   m_SizeDelta: {x: 210, y: 140}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &1315199044
@@ -14131,8 +14131,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 0
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 97fce8f71bb454066b57fdbed4727d46, type: 2}
+  m_sharedMaterial: {fileID: 101805967683146444, guid: 97fce8f71bb454066b57fdbed4727d46, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -14156,8 +14156,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 60
+  m_fontSizeBase: 60
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

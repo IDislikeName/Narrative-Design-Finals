@@ -16241,16 +16241,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 291175995732133948, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -15
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_fontSize
-      value: 100
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 97fce8f71bb454066b57fdbed4727d46, type: 2}
+    - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_fontSizeBase
-      value: 100
+      value: 60
       objectReference: {fileID: 0}
+    - target: {fileID: 291175995732133949, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 101805967683146444, guid: 97fce8f71bb454066b57fdbed4727d46, type: 2}
     - target: {fileID: 291175996099908672, guid: 89c7803c558a6f1439829322f5b6a17a, type: 3}
       propertyPath: m_UiScaleMode
       value: 1
