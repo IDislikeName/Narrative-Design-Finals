@@ -736,8 +736,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: English Teacher
-  nameColor: {r: 0.25444806, g: 1, b: 0, a: 1}
+  nameText: Mr. ???
+  nameColor: {r: 0.25490198, g: 0.02745098, b: 0.050980393, a: 1}
   soundEffect: {fileID: 0}
   portraits:
   - {fileID: 21300000, guid: 3afd25f784dc51a4190ce76291c76ea6, type: 3}
@@ -896,7 +896,6 @@ GameObject:
   - component: {fileID: 1696228372}
   - component: {fileID: 1696228371}
   - component: {fileID: 1696228370}
-  - component: {fileID: 1696228369}
   - component: {fileID: 1696228368}
   - component: {fileID: 1696228426}
   - component: {fileID: 1696228427}
@@ -925,7 +924,6 @@ GameObject:
   - component: {fileID: 1696228450}
   - component: {fileID: 1696228449}
   - component: {fileID: 1696228448}
-  - component: {fileID: 1696228447}
   - component: {fileID: 1696228455}
   - component: {fileID: 1696228456}
   - component: {fileID: 1696228458}
@@ -940,6 +938,9 @@ GameObject:
   - component: {fileID: 1696228467}
   - component: {fileID: 1696228466}
   - component: {fileID: 1696228468}
+  - component: {fileID: 1696228469}
+  - component: {fileID: 1696228471}
+  - component: {fileID: 1696228470}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1296,7 +1297,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1078.135
     y: 460.7212
-    width: 70.73612
+    width: 70.39215
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1333,7 +1334,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 817.3298
     y: 465.41995
-    width: 74.88335
+    width: 74.31372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1584,7 +1585,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 920.8936
     y: 382.5628
-    width: 123.613235
+    width: 121.37253
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1728,14 +1729,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 943.15393
     y: 294.5015
-    width: 98.72989
+    width: 97.843124
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 46
   blockName: Finished
   description: 
-  eventHandler: {fileID: 1696228447}
+  eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1696228315}
   - {fileID: 1696228435}
@@ -1864,7 +1865,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1097.4286
     y: 161.49242
-    width: 109.09795
+    width: 107.25488
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1998,7 +1999,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 856
     y: 169.00003
-    width: 110.13476
+    width: 108.0392
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2132,7 +2133,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 618.5
     y: 154
-    width: 110.13476
+    width: 108.0392
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2265,7 +2266,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 435
     y: 159
-    width: 109.09795
+    width: 107.25488
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2427,7 +2428,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 237.386
     y: 170
-    width: 108.06114
+    width: 106.47057
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2619,7 +2620,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: "English Teacher: \u201CNo talking!\u201D"
+  storyText: "\u201CNo talking!\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -2673,7 +2674,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  storyText: "\u201CYeesh! Is something bothering you, Kyle?\u201D"
+  storyText: "\u201CUh, is something bothering you, Kyle?\u201D"
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -2836,8 +2837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1
   indentLevel: 0
-  storyText: '{i}After delivering the letter, I rush back to my afternoon class:
-    English.{/i}'
+  storyText: '{i}After delivering the letter, I rush to my afternoon class: English.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2881,7 +2881,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 203
     y: 89
-    width: 126.723656
+    width: 125.2941
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2913,6 +2913,7 @@ MonoBehaviour:
   - {fileID: 1696228349}
   - {fileID: 1696228350}
   - {fileID: 1696228438}
+  - {fileID: 1696228469}
   - {fileID: 1696228351}
   - {fileID: 1696228443}
   - {fileID: 1696228352}
@@ -2936,19 +2937,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -99.18837, y: -822.55096}
+  scrollPos: {x: -476.56345, y: -603.4718}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 423
-  zoom: 0.6430003
+  zoom: 0.63750017
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1696228378}
+  selectedCommands:
+  - {fileID: 1696228370}
   variables:
   - {fileID: 1696228420}
   - {fileID: 1696228419}
@@ -2994,34 +2997,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 132
   indentLevel: 0
-  storyText: '{i}Finally, the bell rings.{/i}(SFX bell ring)'
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1696228369
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696228288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 131
-  indentLevel: 0
-  storyText: CONTINUE TO AFTER SCHOOL
+  storyText: '{i}Finally, the bell rings.{/i}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3048,7 +3024,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 130
   indentLevel: 0
-  storyText: "{i}I can\u2019t wait for this cut scene!{/i}"
+  storyText: "{i}Lost pens aside, I can\u2019t wait for this cut scene!{/i}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3251,7 +3227,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 938.6779
     y: 1119.3005
-    width: 102.87711
+    width: 100.98038
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3265,10 +3241,11 @@ MonoBehaviour:
   - {fileID: 1696228373}
   - {fileID: 1696228372}
   - {fileID: 1696228371}
-  - {fileID: 1696228370}
-  - {fileID: 1696228369}
   - {fileID: 1696228450}
   - {fileID: 1696228368}
+  - {fileID: 1696228471}
+  - {fileID: 1696228470}
+  - {fileID: 1696228370}
   - {fileID: 1696228428}
   suppressAllAutoSelections: 0
 --- !u!114 &1696228379
@@ -3348,7 +3325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 118
   indentLevel: 0
-  text: A line from Macbeth<<SET VARIABLE TO C3>>
+  text: A line from Macbeth
   description: 
   targetBlock: {fileID: 1696228386}
   hideIfVisited: 0
@@ -3373,7 +3350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 117
   indentLevel: 0
-  text: A line from Romeo & Juliet<<SET VARIABLE TO C2>>
+  text: A line from Romeo & Juliet
   description: 
   targetBlock: {fileID: 1696228388}
   hideIfVisited: 0
@@ -3398,7 +3375,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 116
   indentLevel: 0
-  text: "A line from Midsummer Night\u2019s Dream<<SET VARIABLE TO C1>>"
+  text: "A line from Midsummer Night\u2019s Dream"
   description: 
   targetBlock: {fileID: 1696228390}
   hideIfVisited: 0
@@ -3577,7 +3554,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1056.5413
     y: 1032.0048
-    width: 67.6257
+    width: 66.47058
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3757,7 +3734,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 954.15735
     y: 1031.1135
-    width: 66.5889
+    width: 65.68627
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3937,7 +3914,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 842.6166
     y: 1029.5574
-    width: 65.55209
+    width: 64.901955
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3993,7 +3970,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 948.20624
     y: 937.39667
-    width: 70.73612
+    width: 70.39215
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4176,7 +4153,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1040.1565
     y: 855.4504
-    width: 66.5889
+    width: 65.68627
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4356,7 +4333,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 952.3877
     y: 856.2791
-    width: 65.55209
+    width: 64.901955
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4536,7 +4513,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 857.12897
     y: 857.9889
-    width: 64.51529
+    width: 64.117645
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4562,7 +4539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 101
   indentLevel: 0
-  text: Imagery<<SET VARIABLE TO B3>>
+  text: Imagery
   description: 
   targetBlock: {fileID: 1696228394}
   hideIfVisited: 0
@@ -4587,7 +4564,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 100
   indentLevel: 0
-  text: Personification<<SET VARIABLE TO B2>>
+  text: Personification
   description: 
   targetBlock: {fileID: 1696228396}
   hideIfVisited: 0
@@ -4612,7 +4589,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 99
   indentLevel: 0
-  text: Alliteration<<SET VARIABLE TO B1>>
+  text: Alliteration
   description: 
   targetBlock: {fileID: 1696228398}
   hideIfVisited: 0
@@ -4786,7 +4763,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 923.6396
     y: 769.31537
-    width: 137.09172
+    width: 134.70587
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5021,7 +4998,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1085.8627
     y: 680.0257
-    width: 66.5889
+    width: 65.68627
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5201,7 +5178,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 956.6384
     y: 678.14795
-    width: 65.55209
+    width: 64.901955
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5381,7 +5358,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 819.8172
     y: 678.97894
-    width: 64.51529
+    width: 64.117645
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5577,7 +5554,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 919.9055
     y: 526.75665
-    width: 148.49658
+    width: 145.68625
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6168,7 +6145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 159
   indentLevel: 0
-  soundClip: {fileID: 8300000, guid: ff915afe8d1f18a459dce802f8c492e6, type: 3}
+  soundClip: {fileID: 8300000, guid: 8e33f2c421b49d646889a5e596afcbc7, type: 3}
   volume: 1
   waitUntilFinished: 0
 --- !u!114 &1696228444
@@ -6185,7 +6162,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 158
   indentLevel: 0
-  soundClip: {fileID: 8300000, guid: bd63c09088f7e5a48a6a43eb7893f964, type: 3}
+  soundClip: {fileID: 8300000, guid: 14de4b93cd9b7ad408a067f1a57f72b6, type: 3}
   volume: 1
   waitUntilFinished: 0
 --- !u!114 &1696228445
@@ -6222,21 +6199,6 @@ MonoBehaviour:
   soundClip: {fileID: 8300000, guid: e0a12e5b36dee064d9e63a7edc568cbf, type: 3}
   volume: 1
   waitUntilFinished: 0
---- !u!114 &1696228447
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1696228288}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  parentBlock: {fileID: 1696228316}
-  suppressBlockAutoSelect: 0
-  waitForFrames: 1
 --- !u!114 &1696228448
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6466,7 +6428,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 172
   indentLevel: 0
-  storyText: '"Your future looks pretty bright, doesn''t it?"'
+  storyText: '"Your future''s looking pretty bright, isn''t it?"'
   description: 
   character: {fileID: 1635274992}
   portrait: {fileID: 0}
@@ -6692,6 +6654,78 @@ MonoBehaviour:
   scope: 2
   key: Affection
   value: 0
+--- !u!114 &1696228469
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 182
+  indentLevel: 0
+  soundClip: {fileID: 8300000, guid: a6d1c27e388b543f88ee7af7676de24f, type: 3}
+  volume: 1
+  waitUntilFinished: 0
+--- !u!114 &1696228470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 273
+  indentLevel: 0
+  storyText: '{i}I think I lost a pen while slinging it, but I let it be since I
+    had to look extra cool.{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1696228471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1696228288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 272
+  indentLevel: 0
+  storyText: '{i}I sling my bag over my shoulder nonchalantly and exit the classroom.{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1001 &1813244688
 PrefabInstance:
   m_ObjectHideFlags: 0
