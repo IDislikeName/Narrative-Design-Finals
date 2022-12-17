@@ -744,6 +744,8 @@ GameObject:
   - component: {fileID: 979671109}
   - component: {fileID: 979671108}
   - component: {fileID: 979671110}
+  - component: {fileID: 979671112}
+  - component: {fileID: 979671111}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -792,6 +794,8 @@ MonoBehaviour:
   eventHandler: {fileID: 979670898}
   commandList:
   - {fileID: 979671067}
+  - {fileID: 979671111}
+  - {fileID: 979671112}
   - {fileID: 979670978}
   - {fileID: 979670977}
   - {fileID: 979671085}
@@ -821,7 +825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 191.8282, y: -155.10527}
+  scrollPos: {x: 191.8282, y: 35.493546}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 427
@@ -833,9 +837,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 979670903}
+  - {fileID: 979670899}
   selectedCommands:
-  - {fileID: 979671107}
+  - {fileID: 979671111}
   variables:
   - {fileID: 979671041}
   - {fileID: 979671044}
@@ -6776,6 +6780,41 @@ MonoBehaviour:
   soundClip: {fileID: 8300000, guid: a6d1c27e388b543f88ee7af7676de24f, type: 3}
   volume: 1
   waitUntilFinished: 0
+--- !u!114 &979671111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4015e84616cc45cfb498561373899d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 425
+  indentLevel: 0
+  volume: 0.1
+  fadeDuration: 0
+  waitUntilFinished: 1
+--- !u!114 &979671112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979670897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 424
+  indentLevel: 0
+  musicClip: {fileID: 8300000, guid: 024e684b14e86478db0281407bf786a1, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
 --- !u!1001 &1128344806
 PrefabInstance:
   m_ObjectHideFlags: 0
